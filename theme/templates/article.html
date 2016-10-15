@@ -27,6 +27,9 @@
                 <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
               {% endfor %}
             </li>
+            <li>
+              <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"><i class="fa fa-comment-o"></i></a>
+            </li>
           </ul>
 
           {{ article.content }}
