@@ -4,8 +4,8 @@ author: Gustavo Furtado de Oliveira Alves
 category: Músicas para Missa
 slug: como-nasceu-o-musicas-para-missa
 
-Muitas pessoas do Brasil e do mundo já conhecem o site **Músicas para
-Missa** e muitos de vocês não sabem quem são as pessoas responsáveis por
+Muitas pessoas do Brasil e do mundo já conhecem o site Músicas para
+Missa e muitos de vocês não sabem quem são as pessoas responsáveis por
 este site. Neste post, quero nos apresentar para você. Eu
 sou o Gustavo e junto com minha esposa Daiana, criamos este site em meados de 2013.
 Na imagem abaixo nós estamos cantando na coroação de Nossa Senhora no
