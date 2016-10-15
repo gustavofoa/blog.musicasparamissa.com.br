@@ -1,4 +1,3 @@
 pelican==3.6
 ghp-import
 Markdown
-s3cmd
