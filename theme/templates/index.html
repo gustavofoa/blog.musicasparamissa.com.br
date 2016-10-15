@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+    <!-- GRID POSTS -->
+    <!--===============================================================-->
+    <div class="col-sm-8 grid-posts">
+
+{% for article in articles_page.object_list %}
+      <!-- POST ITEM 1 -->
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="wrapper-post">
+            <div class="wrapper-post-text">
+              <h3 class="title-lg text-uppercase text-theme"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+              <p>{{ article.summary }}</p>
+              <a href="{{ SITEURL }}/{{ article.url }}" class="text-theme btn btn-primary btn-md">Continue lendo ...</a>
+            </div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+
+    </div>
+
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+
+{% endblock content %}
