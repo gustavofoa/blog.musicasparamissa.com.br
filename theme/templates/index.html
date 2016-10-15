@@ -11,6 +11,11 @@
           <div class="wrapper-post">
             <div class="wrapper-post-text">
               <h3 class="title-lg text-uppercase text-theme"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+              <ul class="list-unstyled list-inline text-theme post-date-author">
+                <li>
+                  <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"><i class="fa fa-comment-o"></i></a>
+                </li>
+              </ul>
               <p>{{ article.summary }}</p>
               <a href="{{ SITEURL }}/{{ article.url }}" class="text-theme btn btn-primary btn-md">Continue lendo ...</a>
             </div>
