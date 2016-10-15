@@ -8,7 +8,6 @@ branches:
 language: python
 install:
   - pip install --upgrade pip
-  - sudo apt-get install pandoc
   - pip install -r requirements.txt
 deploy:
     provider: s3
