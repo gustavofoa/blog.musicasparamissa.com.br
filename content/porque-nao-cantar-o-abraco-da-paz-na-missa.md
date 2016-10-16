@@ -11,7 +11,7 @@ que gerou bastante discussão entre os músicos que prestam serviços nas
 missas. Então não é mais pra cantar no "Abraço da Paz" durante a missa?
 Mas por quê?
 
-![canto abraço da paz](/images/canto-abraço-da-paz.jpg){:style="float: right; padding: 10px;"}
+![canto abraço da paz](/images/canto-abraço-da-paz.jpg){:style="float: right; padding: 10px; max-width: 100%;"}
 
 Muita gente não sabia que, na verdade, o “canto da Paz” não é previsto
 em nenhum ritual da Igreja, embora seja comum em muitas comunidades.
@@ -55,7 +55,7 @@ pessoas.
 A carta foi escrita pelo **Cardeal CAÑIZARES LLOVERA**,
 prefeito da CONGREGAÇÃO PARA O CULTO DIVINO E A DISCIPLINA DOS SACRAMENTOS.
 
-![canĩzares e papa francisco](/images/canizares-francisco.jpg){:style="display: block; margin-left: auto; margin-right: auto; padding: 10px;" }
+![canĩzares e papa francisco](/images/canizares-francisco.jpg){:style="display: block; margin-left: auto; margin-right: auto; padding: 10px; max-width: 100%;" }
 
 *O Santo Padre Francisco, no dia 7 de junho de 2014, aprovou e confirmou
 o que se contém nesta Carta circular, preparada pela Congregação para o
