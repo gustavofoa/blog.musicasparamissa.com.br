@@ -7,7 +7,7 @@
   {% endif %}
 
   {% if article.image %}
-    <meta property="og:image" content="{{ SITEURL }}/{{ article.image }}" />
+    <meta property="og:image" content="{{ SITEURL }}{{ article.image }}" />
   {% endif %}
 
   {% for tag in article.tags %}
