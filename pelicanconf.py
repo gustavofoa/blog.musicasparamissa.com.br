@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado de Oliveira Alves'
 SITENAME = 'Blog Músicas para Missa'
-SITEURL = ''
+SITEURL = 'http://blog.musicasparamissa.com.br'
 
 PATH = 'content'
 
