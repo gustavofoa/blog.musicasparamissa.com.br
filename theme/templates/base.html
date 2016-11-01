@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
-        {% block head %}
-        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+  <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+  <link rel="canonical" href="http://blog.musicasparamissa.com.br/" />
+  <link rel="publisher" href="https://plus.google.com/u/0/+MusicasparamissaBr/"/>
+  <link rel="icon" href="https://dm8sjho5caga5.cloudfront.net/images/favicon.ico">
+  <!--[if IE 8]><html class="ie8"><![endif]-->
 
-        {% include 'header.html' %}
+  {% block metatags %}
+  <meta charset="utf-8">
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:site_name" content="{{ SITENAME }}" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% endblock metatags %}
 
-        {% endblock head %}
+  {% include 'css-loader.html' %}
+
 </head>
 
 <body class="body-nav-fixed-menu-top">
