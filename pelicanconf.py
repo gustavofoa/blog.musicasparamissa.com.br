@@ -35,7 +35,7 @@ THEME = 'theme'
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap',]
+PLUGINS = ['sitemap','minify',]
 
 # Sitemap
 
