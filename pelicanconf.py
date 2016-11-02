@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado de Oliveira Alves'
 SITENAME = 'Blog Músicas para Missa'
-SITEURL = 'http://blog.musicasparamissa.com.br'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -35,7 +35,7 @@ THEME = 'theme'
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap', 'minify']
+PLUGINS = ['sitemap']
 
 # Sitemap
 SITEMAP = {

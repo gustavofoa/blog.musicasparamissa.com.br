@@ -10,7 +10,7 @@ install:
   - pip install --upgrade pip
   - pip install -r requirements.txt
 script:
-  - make html
+  - make publish
 deploy:
     provider: s3
     access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
