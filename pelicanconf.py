@@ -35,10 +35,9 @@ THEME = 'theme'
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap','minify',]
+PLUGINS = ['sitemap', 'minify']
 
 # Sitemap
-
 SITEMAP = {
     'format': 'xml',
     'priorities': {
