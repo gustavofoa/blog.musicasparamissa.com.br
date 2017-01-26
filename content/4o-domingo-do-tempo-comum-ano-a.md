@@ -6,9 +6,9 @@ slug: 4o-domingo-do-tempo-comum-ano-a
 description: Eu também não sou perfeito
 image: https://dm8sjho5caga5.cloudfront.net/images/diasLiturgicos/sabeis.jpg
 
-Que a paz do Senhor Jesus Cristo esteja contigo, [Name,fallback=]!
+Que a paz do Senhor Jesus Cristo esteja contigo!
 
-Na liturgia do próximo domingo dia 29 de janeiro de 2017 - 4º Domingo do Tempo Comum, somos mais uma vez chamados a refletir sobre o chamado que recebemos.
+Na liturgia do próximo domingo dia [**29 de janeiro de 2017 - 4º Domingo do Tempo Comum**](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a), somos mais uma vez chamados a refletir sobre o chamado que recebemos.
 
 Na segunda leitura (Primeira Carta de São Paulo aos Coríntios), percebemos que Deus não escolhe os mais sábios, os mais nobres, ele chama o mais humilde.
 
@@ -24,7 +24,10 @@ para assim mostrar a inutilidade
 do que é considerado importante,
 29. para que ninguém possa gloriar-se diante dele.  (1Cor 1, 27-29)
 
-E aí, você se encaixa em algum desses requisitos? Você é perfeito em tudo que você faz ou, assim como eu, você é fraco ou mediano?
+E aí, você se encaixa em algum desses requisitos?
+
+Você é perfeito em tudo que você faz ou, assim como eu, você é fraco ou mediano?
+
 No evangelho recebemos mais uma vez o lindíssimo ensinamento de Jesus sobre as bem-aventuranças.
 
 Muitas vezes nós nos sentimos fracos e pensamos que não somos capazes de cumprir o ministério que recebemos. Isso é normal, não se sinta mal por isso.
@@ -34,6 +37,7 @@ Deus capacita os escolhidos! Você foi escolhido(a)! Mas para receber essa capac
 Como um fogo que se acende, é normal que ele vá se apagando ao longo do tempo. Concorda?
 
 Talvez hoje você possa estar desanimado, só tem uma brasinha fumegando no seu coração. Mas você se lembra como era a chama do Espírito Santo dentro de você naquela sua primeira conversão? Lembra como era forte quando o fogo foi aceso no seu coração?
+
 Para ter de novo aquele fogo forte e iluminador, você precisa se voltar com toda a sua vida àquele que traz o fogo do Espírito Santo: Jesus, o primeiro Amor.
 
 Cantar e tocar na missa dando o melhor de si, oferecendo a sua música pra Deus é maravilhoso. Não tem nada de errado com isso, que nosso trabalho ajude nossos irmãos a participarem com mais entrega na Santa Missa. Mas se esse é o seu principal foco e isso te traz preocupações, seu foco está errado.
