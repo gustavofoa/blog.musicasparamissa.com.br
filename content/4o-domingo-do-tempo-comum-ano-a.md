@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-do-tempo-comum-ano-a
 description: Eu também não sou perfeito
-image: bem-aventurancas.jpg
+image: /images/bem-aventurancas.jpg
 
 Que a paz do Senhor Jesus Cristo esteja contigo!
 
