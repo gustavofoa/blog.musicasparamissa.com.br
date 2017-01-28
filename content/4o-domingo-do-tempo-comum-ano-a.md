@@ -1,9 +1,9 @@
-title: Reflexão sobre o 4º domingo do tempo comum - Ano A
+title: Eu não sou perfeito, e você?
 date: 2017-01-26
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-do-tempo-comum-ano-a
-description: Eu também não sou perfeito
+description: Reflexão sobre o 4º domingo do tempo comum - Ano A
 image: /images/bem-aventurancas.jpg
 
 Que a paz do Senhor Jesus Cristo esteja contigo!
@@ -28,6 +28,8 @@ E aí, você se encaixa em algum desses requisitos?
 
 Você é perfeito em tudo que você faz ou, assim como eu, você é fraco ou mediano?
 
+[Bem-aventuranças](/images/bem-aventurancas.jpg)
+
 No evangelho recebemos mais uma vez o lindíssimo ensinamento de Jesus sobre as bem-aventuranças.
 
 Muitas vezes nós nos sentimos fracos e pensamos que não somos capazes de cumprir o ministério que recebemos. Isso é normal, não se sinta mal por isso.
@@ -50,12 +52,13 @@ A nossa preocupação deve ser a purificação da nossa vida de pecados, a entre
 
 Que Deus abençoe a sua vida de constante conversão e que Nossa Senhora e São Miguel Arcanjo te proteja das tentações do maligno.
 
-Vai tocar/cantar nesta missa do 4º domingo do tempo comum? Aqui estão as nossas sugestões de músicas:
+Vai tocar/cantar na missa do **4º domingo do tempo comum - Ano A**? Aqui estão as nossas sugestões de músicas:
 
-[Sugestões de música para a missa do 4º domingo do tempo comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a)
+[>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
-[Melodia para o Salmo 145(146)](http://www.musicasparamissa.com.br/musica/salmo-145-felizes-os-pobres-em-espirito-porque-deles-e-o-reino-dos-ceus/)
+
+[>>Melodia para o Salmo 145(146)](http://www.musicasparamissa.com.br/musica/salmo-145-felizes-os-pobres-em-espirito-porque-deles-e-o-reino-dos-ceus/)
 
 Que Deus nos abençoe!
 
