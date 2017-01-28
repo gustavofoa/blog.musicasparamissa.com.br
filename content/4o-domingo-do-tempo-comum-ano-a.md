@@ -28,7 +28,7 @@ E aí, você se encaixa em algum desses requisitos?
 
 Você é perfeito em tudo que você faz ou, assim como eu, você é fraco ou mediano?
 
-![Bem-aventuranças](/images/bem-aventurancas.jpg)
+![Bem-aventuranças](/images/bem-aventurancas.jpg){:style="float: right; width: 200px; padding: 10px;"}
 
 No evangelho recebemos mais uma vez o lindíssimo ensinamento de Jesus sobre as bem-aventuranças.
 
