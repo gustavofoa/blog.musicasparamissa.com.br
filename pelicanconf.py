@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado de Oliveira Alves'
 SITENAME = 'Blog Músicas para Missa'
-SITEURL = 'http://localhost:8000'
+#SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -51,3 +51,8 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
