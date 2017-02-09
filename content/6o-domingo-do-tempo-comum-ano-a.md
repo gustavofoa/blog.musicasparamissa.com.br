@@ -1,4 +1,4 @@
-title: A decisão é sua!
+﻿title: A decisão é sua!
 date: 2017-02-01
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
@@ -6,7 +6,7 @@ slug: 6o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 6º domingo do tempo comum - Ano A
 image: /images/bem-aventurancas.jpg
 
-**A ninguém Deus não deu licença para pecar.** 
+**Deus não deu licença para ninguém pecar.** 
 É o que diz o final da primeira leitura da liturgia do domingo dia 
 [**12 de fevereiro de 2017 - 6º Domingo do Tempo Comum**](http://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-a).
 
