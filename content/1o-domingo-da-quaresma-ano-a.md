@@ -1,5 +1,5 @@
 ﻿title: Se afastar do pecado e se aproximar de Deus!
-date: 2017-03-02
+date: 2017-03-07
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 2o-domingo-da-quaresma-ano-a
