@@ -6,7 +6,7 @@ slug: 2o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 2º domingo da quaresma - Ano A
 image: /images/sentado-com-jesus.jpg
 
-Podemos notar na primeira leitura da liturgia deste [domingo (dia 12 de janeiro de 2017)](http://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/)
+Podemos notar na primeira leitura da liturgia deste [domingo (dia 12 de março de 2017)](http://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/)
 o quanto Deus é fiel a quem se entrega sem limites a ele.
 
 Abraão deixou tudo e seguiu o que Deus lhe pediu.
@@ -60,12 +60,12 @@ Que nessa quaresma você se torne mais santo e colabore para a santidade dos nos
 
 Se for tocar/cantar na missa deste **2º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-[>>Sugestões de música para a missa do 2º domingo da quaresma](http://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/)
+**[>>Sugestões de música para a missa do 2º domingo da quaresma](http://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/)**
 
 Ah! Se você ainda não sabe, o Maikon Máximo, baterista da banda Anjos de Resgate, está gravando salmos exclusivamente para o nosso site.
 Você pode conferir a melodia (com letra e cifra) que ele gravou para o salmo deste domingo neste link:
 
-[>>SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](http://musicasparamissa.com.br/musica/salmo-32-33-sobre-nos-venha-senhor/)
+**[>>SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](http://musicasparamissa.com.br/musica/salmo-32-33-sobre-nos-venha-senhor/)**
 
 Boa quaresma!
 
