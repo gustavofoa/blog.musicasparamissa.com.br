@@ -38,7 +38,7 @@ Ele vai mudar a sua vida!
 
 Talvez você ainda esteja perdido procurando a felicidade aqui e alí, em coisas deste mundo e vive frustrado.
 Se abra para receber a água viva, Jesus vai mudar a sua tarde, 
-Ele vai mudar a sua vida e você nunca mais vai procurar o que te falta hoje. Você nunca mais terá cede.
+Ele vai mudar a sua vida e você nunca mais vai procurar o que te falta hoje. Você nunca mais terá sede.
 
 A quaresma é um tempo de recrutamento.
 Jesus está convocando os Santos que vão adorar e permanecer na glória de Deus.
