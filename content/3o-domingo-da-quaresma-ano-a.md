@@ -62,7 +62,7 @@ Se for tocar/cantar na missa deste **3º domingo da quaresma**, clique no link a
 
 **[>>Sugestões de música para a missa do 3º domingo da quaresma](http://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/)**
 
-Para quem vai cantar o salmo, temo uma sugestão de melodia. Confira no link abaixo.
+Para quem vai cantar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
 **[>>SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR.](http://musicasparamissa.com.br/musica/salmo-94-95-hoje-nao-fecheis-o-vosso-coracao/)**
 
