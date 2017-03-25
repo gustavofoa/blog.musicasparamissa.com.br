@@ -30,6 +30,9 @@ gulp.task('reload:output', function () {
 
 gulp.task('watch', function(){
   gulp.watch('content/*', ['run:pelican', 'reload:output']);
+  gulp.watch('*', ['run:pelican', 'reload:output']);
+  gulp.watch('theme/*', ['run:pelican', 'reload:output']);
+  gulp.watch('theme/templates/*', ['run:pelican', 'reload:output']);
 })
 
 gulp.task('serve', ['connect', 'run:pelican', 'watch']);
