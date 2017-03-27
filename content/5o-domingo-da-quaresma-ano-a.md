@@ -1,4 +1,4 @@
-﻿title: O Espírito de Deus mora dentro de você!
+﻿title: Vem! Vem para longe da morte!
 date: 2017-03-27
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
