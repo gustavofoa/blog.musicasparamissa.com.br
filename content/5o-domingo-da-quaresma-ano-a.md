@@ -30,6 +30,7 @@ Não somos capazes de manter a nossa vida longe de Deus.
 
 É Ele a fonte da nossa vida, é Ele quem nos resgata da morte.
 Por que buscar sentido para a nossa vida aqui neste mundo?
+Se Ele é a fonte da nossa vida, devemos ter Ele como destino.
 
 > 'Eu sou a ressurreição e a vida.
 > Quem crê em mim, mesmo que morra, viverá.
