@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock title %}
+
 {% block metatags %}
   {{ super() }}
   {% if article.description %}
