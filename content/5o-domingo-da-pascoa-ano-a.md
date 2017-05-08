@@ -57,9 +57,9 @@ No link abaixo você encontra as nossas sugestões de músicas para este **5º d
 
 **[>>Sugestões de música para a missa do 5º domingo do tempo pascal](http://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)**
 
-Se for cantar/tocar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
+<!-- Se for cantar/tocar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
-**[>>SALMO 22 - O SENHOR É O PASTOR QUE ME CONDUZ; PARA AS ÁGUAS REPOUSANTES ME ENCAMINHA](http://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor/)**
+**[>>SALMO 22 - O SENHOR É O PASTOR QUE ME CONDUZ; PARA AS ÁGUAS REPOUSANTES ME ENCAMINHA](http://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor/)** -->
 
 Que a paz de Cristo esteja contigo. Boa páscoa!
 
