@@ -1,4 +1,4 @@
-﻿title:
+﻿title: Vivemos um tempo perigoso.
 date: 2017-05-16
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
