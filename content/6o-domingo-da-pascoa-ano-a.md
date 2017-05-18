@@ -24,7 +24,7 @@ os atos dos apóstolos nos evidencia a corrida dos primeiros cristãos.
 
 Os apóstolos e os discípulos apresentavam Cristo ao povo, convertiam muitos no lugar em que estavam
 e logo já tinham que sair correndo daquela cidade porque estavam ameaçados por alguns que
-sofreram abalados em suas "posições privilegiadas", como diz Padre Zezinho na música
+sofreram abalos em suas "posições privilegiadas", como diz Padre Zezinho na música
 [**Um certo Galileu**](http://musicasparamissa.com.br/musica/um-certo-galileu/).
 
 Mas apesar de todas as ameaças, aqueles pioneiros levavam consigo o Espirito Santo.
@@ -58,7 +58,7 @@ está acontecendo no oriente médio, por exemplo, veremos
 
 Este é o tempo de ficarmos ainda mais atentos, oferecermos orações e penitências pela conversão do mundo.
 Principalmente dentro de nossas famílias, pois como
-[disse a Irmã Lúcia (uma dos três pastorinhos de Fátima), ao Cardeal Carlo Caffarra](http://www.acidigital.com/noticias/irma-lucia-batalha-final-entre-cristo-e-satanas-sera-sobre-familia-e-matrimonio-66002/), a batalha final descrita no apocalipse será
+[disse a Irmã Lúcia (uma dos três pastorinhos de Fátima) ao Cardeal Carlo Caffarra](http://www.acidigital.com/noticias/irma-lucia-batalha-final-entre-cristo-e-satanas-sera-sobre-familia-e-matrimonio-66002/), a batalha final descrita no apocalipse será
 o ataque de Satanás contra a Família e o Matrimônio.
 
 Por isso te convido a rezar pelos nossos irmãos que estão na linha de frente
