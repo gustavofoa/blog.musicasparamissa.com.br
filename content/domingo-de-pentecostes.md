@@ -1,4 +1,4 @@
-﻿title: A paz esteja convosco
+﻿title: A paz esteja convosco!
 date: 2017-05-31
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
