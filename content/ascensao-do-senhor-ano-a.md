@@ -1,5 +1,5 @@
 ﻿title: Não vos afasteis de Jerusalém
-date: 2017-05-20
+date: 2017-05-21
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: ascensao-do-senhor-ano-a
@@ -38,7 +38,7 @@ Cabe a nós entregarmos nossa alma para recebermos o Espírito Santo!
 
 Após vários ensinamentos como este Jesus subiu aos céus.
 
-![Ascensão do Senhor](/images/ascensao.jpg){width:100%}
+![Ascensão do Senhor](/images/ascensao.jpg){:width=100%}
 
 Ah como eu contemplo esse momento da **ascenção de Jesus** ...
 Fico imaginando os anjos chegando aos apóstolos que estavam completamente admirados,
