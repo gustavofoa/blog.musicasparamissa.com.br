@@ -40,9 +40,7 @@ Você não faz ideia do quanto a sua colaboração é importante.
 
 O **Músicas para Missa** é apenas um pequeno exemplo do que dons colocados a serviço pode produzir.
 
-E como **São João Paulo II** disse aos jovens.
-
-**Não tenha medo!**
+E como **São João Paulo II** disse aos jovens: **Não tenha medo!**
 
 > "Ide por todo o mundo, pregai o evangelho a toda criatura." - Mc 16, 15
 
