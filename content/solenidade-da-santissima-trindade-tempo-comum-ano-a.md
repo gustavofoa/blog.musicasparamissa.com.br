@@ -34,7 +34,7 @@ e essa comunidade perfeita.
 Você nunca encontrará neste mundo amor maior do que o amor presente na comunidade perfeita.
 Portanto te convido a se unir a Ela através da comunhão com Aquele que veio até nós
 e **está no meio de nós**.
-Aquele que está no sacrário e que te tocar fisicamente quando você recebe a Santa Eucaristia.
+Aquele que está no sacrário e que te toca fisicamente quando você recebe a Santa Eucaristia.
 
 E te convido também a viver esse amor em sua comunidade,
 pois se não formos capazes de viver esse amor com nossos irmãos,
