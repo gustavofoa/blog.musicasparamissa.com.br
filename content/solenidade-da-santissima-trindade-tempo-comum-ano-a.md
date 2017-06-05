@@ -14,7 +14,7 @@ Mas esse primeiro amor não foi retribuído.
 O ser humano pecou originalmente.
 
 Apesar de nossas quedas, Deus nunca deixou de nos amar!
-Ele nos ama tanto que enviou seu único filho para nos salvar de nossos pecados e unirmos a Ele.
+Ele nos ama tanto que enviou seu único filho para nos salvar de nossos pecados e nos unirmos a Ele.
 
 Agora eu te pergunto: Você sabe viver em comunidade?
 Você sabe o que é essencial para viver em comunidade com seus irmãos?
