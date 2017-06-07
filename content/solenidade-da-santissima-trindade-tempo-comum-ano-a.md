@@ -45,6 +45,10 @@ de Solenidade da Santíssima Trindade.
 
 **[>>Sugestões de música para a missa de Solenidade da Santíssima Trindade - Tempo Comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/solenidade-da-santissima-trindade-tempo-comum-ano-a)**
 
+Se for cantar/tocar o salmo deste domingo, abaixo você encontra a nossa sugestão de melodia.
+
+**[>>Sugestões de melodia para o SALMO DN 3 - A VÓS LOUVOR HONRA E GLÓRIA ETERNAMENTE](http://musicasparamissa.com.br/musica/salmo-dn-3-a-vos-louvor/)**
+
 Que evangelizemos com Amor
 
 Deus nos abençoe!
