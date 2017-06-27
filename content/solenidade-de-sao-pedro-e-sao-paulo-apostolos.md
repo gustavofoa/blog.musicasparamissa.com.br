@@ -19,7 +19,7 @@ Os primeiros anos do cristianismo foram os mais difíceis da nossa igreja e gra�
 principalmente, a estes dois Santos, o evangelho pôde ser levado a todas as nações.
 Eles deram a vida para evangelizar.
 
-![São Pedro e São Paulo](/images/sao-pedro-e-sao-paulo.jpg)
+![São Pedro e São Paulo](/images/sao-pedro-e-sao-paulo.jpg){:style="width: 100%; padding: 10px;"}
 
 É importante notar que São Pedro e São Paulo não foram os maiores exemplos de fé
 antes de serem escolhidos por Jesus.
