@@ -1,4 +1,5 @@
 #intellij
+.idea/
 *.iml
 
 # pelican
