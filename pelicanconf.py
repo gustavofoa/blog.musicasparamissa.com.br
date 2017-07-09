@@ -8,7 +8,7 @@ SITENAME = 'Blog Músicas para Missa'
 
 PATH = 'content'
 
-STATIC_ENDPOINT = 'static.musicasparamissa.com.br'
+STATIC_ENDPOINT = 'http://static.musicasparamissa.com.br'
 
 TIMEZONE = 'America/Sao_Paulo'
 
