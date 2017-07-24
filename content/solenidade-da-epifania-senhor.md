@@ -19,7 +19,7 @@ Os Reis Magos não eram membros do povo escolhido por Deus no antigo testamento.
 
 E São Paulo diz (2ª leitura) que Deus o revelou o mistério da admissão dos pagãos à mesma herança. Todos são associados à mesma promessa em Jesus Cristo, por meio do Evangelho.
 
-![Epifania do Senhor - Reis Magos!](https://dm8sjho5caga5.cloudfront.net/images/diasLiturgicos/epifania-do-senhor.jpg){: style="float:right; padding:10px;"}
+![Epifania do Senhor - Reis Magos!](https://static.musicasparamissa.com.br/images/diasLiturgicos/epifania-do-senhor.jpg){: style="float:right; padding:10px;"}
 
 A viagem dos Reis Magos é cheia de significado, apesar de serem pagãos, isso não os impediu de reconhecer Jesus como o verdadeiro Rei. A tradição da igreja fala dos presentes como reconhecimento dos reis magos, sendo o ouro se referindo à Sua realeza; o incenso, à Sua divindade; e a mirra, à Sua humanidade.
 
