@@ -39,7 +39,7 @@ também a nossa misericórdia deve ser infinita para com todos os nossos irmãos
 
 As vezes nós vamos ao confessionário e pedimos perdão a Deus e voltamos a cometer o mesmo pecado.
 Mas a misericórdia de Deus é infinita e devemos nos confessar novamente quando estivermos nesta situação.
-Deus está pronto para nos perdoar quantas vezes for necessário! Ele não quer nos perder.
+Deus está pronto para nos perdoar quantas vezes forem necessárias! Ele não quer nos perder.
 
 O mesmo se aplica à misericórdia que devemos ter para com os nossos irmãos.
 Se perdoarmos alguém e essa pessoa voltar a cometer o mesmo erro,
