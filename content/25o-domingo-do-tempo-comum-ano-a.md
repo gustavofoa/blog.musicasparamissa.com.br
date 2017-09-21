@@ -22,7 +22,7 @@ não somos capazes de compreender o que é Deus, que está acima de tudo que exi
 
 Mesmo assim, pela **fé**, somos capazes de entregar a nossa vida à Deus.
 Como São Paulo, que permitiu Jesus viver na vida dele. E como diz na segunda leitura,
-Seu maior desejo era morrer logo para estar com o Senhor  
+seu maior desejo era morrer logo para estar com o Senhor.
 
 Você deve concordar que nosso pensamento mundano foge da morte!
 Isso é o mais lógico! Ninguém quer morrer!
@@ -36,13 +36,13 @@ contribuir para a obra divina.
 
 Mas a nossa recompensa não está aqui. Ela está lá no céu.
 
-Nós devemos abraçar com amor o caminho que Deus nos designou.
+Portanto, nós devemos abraçar com amor o caminho que Deus nos designou.
 Inclusive a morte.
 
 Como diz São Paulo: "O viver é Cristo e o morrer é lucro."
 
-O evangelho deste domingo nos convida a refletir que não podemos
-achar que nossos pensamentos e são como os de Deus.
+O evangelho deste domingo nos convida a refletir a realidade de que não podemos
+achar que nossos pensamentos são como os de Deus.
 
 Jesus conta uma parábola que mostra a insatisfação de alguns que acharam
 que deveriam receber uma recompensa maior que os outros, pois trabalharam mais tempo.
