@@ -1,4 +1,4 @@
-﻿title: Recompensa justa!
+﻿title: VIVER E MORRER POR CRISTO!
 date: 2017-09-21
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
@@ -11,7 +11,7 @@ Os pensamentos e caminhos de Deus está infinitamente acima dos nossos pensament
 Portanto, devemos a todo momento renunciar os nossos pensamentos e caminhos mundanos,
 e nos confiar por inteiro a Deus, que tem os melhores caminhos e pensamentos para nós.
 
-A primeira leitura da liturgia deste domingo (24 de setembro de 2017),
+A primeira leitura da liturgia deste domingo (24 de setembro de 2017)
 nos pede para "Voltar para Deus", que se revela infinitamente acima do nosso pensamento.
 
 Nós (homens e mulheres) não temos a capacidade de entender Deus.
@@ -24,22 +24,27 @@ Mesmo assim, pela **fé**, somos capazes de entregar a nossa vida à Deus.
 Como São Paulo, que permitiu Jesus viver na vida dele. E como diz na segunda leitura,
 seu maior desejo era morrer logo para estar com o Senhor.
 
-Você deve concordar que nosso pensamento mundano foge da morte!
-Isso é o mais lógico! Ninguém quer morrer!
+Veja que exemplo de entrega. É o inverso do que o pensamento de qualquer animal quer!
 
-Só que desejar viver simplesmente para viver a vida nesse mundo é puro egoísmo.
+Você deve concordar que nosso pensamento mundano foge da morte! Isso é o mais lógico!
+Ninguém quer morrer! É um instinto natural defender a vida.
+
+Mas por Amor a Deus, os Santos são capazes de até desejar morrer POR Cristo,
+e PARA encontrar Cristo.
+
+Desejar viver simplesmente para viver a vida nesse mundo é puro egoísmo.
 Achar que este mundo nos satisfaz é viver uma vida sem sentido.
 
 Não podemos desejar apenas viver. Devemos querer viver para trabalhar para Deus,
-produzir para Deus, gerar frutos com os dons que Ele nos confiou,
+produzir para Deus, gerar frutos com os dons que Ele nos confiou, salvar almas,
 contribuir para a obra divina.
 
-Mas a nossa recompensa não está aqui. Ela está lá no céu.
-
 Portanto, nós devemos abraçar com amor o caminho que Deus nos designou.
-Inclusive a morte.
+Viver por Ele e para Ele e também morrer por Ele e para participar com Ele na glória.
 
 Como diz São Paulo: "O viver é Cristo e o morrer é lucro."
+
+Também é importante entender que a nossa recompensa não está aqui. Ela está lá no céu.
 
 O evangelho deste domingo nos convida a refletir a realidade de que não podemos
 achar que nossos pensamentos são como os de Deus.
@@ -56,7 +61,7 @@ Podemos questionar os pensamentos de Deus?
 Você se julga mais merecedor do que o seu irmão?
 
 Dexemos Jesus viver em nós para que transformemos nossa vida e nossos pensamentos.
-Que nosso relacionamento com Deus seja marcado pelo amor, não pelo interesse.
+E que nosso relacionamento com Deus seja marcado pelo amor, não pelo interesse.
 
 Se for tocar/cantar na missa deste **25º domingo do tempo comum - Ano A** (24/09/2017),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
