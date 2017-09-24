@@ -1,7 +1,14 @@
 .content {
-  padding-top: 60px;
+  padding-top: 10px;
 }
 
-p {
+p li {
   text-align: justify;
+}
+
+li {
+  font-size: 16px;
+  line-height: 25px;
+  margin: 0 0 10px;
+  color: #6b6b6b;
 }

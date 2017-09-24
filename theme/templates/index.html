@@ -3,7 +3,7 @@
 
   {{ super() }}
     <meta name="description" content="Blog para músicos católicos que servem na missa."/>
-    <meta property="og:image" content="https://dm8sjho5caga5.cloudfront.net/images/logo/logoMpM.png" />
+    <meta property="og:image" content="https://static.musicasparamissa.com.br/images/logo/logoMpM.png" />
   {% endblock %}
 
 {% block content %}
@@ -16,6 +16,9 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="wrapper-post">
+            <a href="{{ SITEURL }}/{{ article.url }}" class="text-theme display-block">
+                  <img src="{{ article.image }}" class="img-responsive full-width" alt="img-theme">
+            </a>
             <div class="wrapper-post-text">
               <h3 class="title-lg text-uppercase text-theme"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
               <ul class="list-unstyled list-inline text-theme post-date-author">
@@ -36,10 +39,10 @@
       </div>
 {% endfor %}
 
-    </div>
-
 {% if articles_page.has_other_pages() %}
     {% include 'pagination.html' %}
 {% endif %}
+
+  </div>
 
 {% endblock content %}

@@ -1,3 +1,7 @@
+#intellij
+.idea/
+*.iml
+
 # pelican
 output/
 output/*

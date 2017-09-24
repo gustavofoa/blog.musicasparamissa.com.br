@@ -4,9 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado de Oliveira Alves'
 SITENAME = 'Blog Músicas para Missa'
-SITEURL = 'http://blog.musicasparamissa.com.br'
+#SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
+
+STATIC_ENDPOINT = 'https://static.musicasparamissa.com.br'
 
 TIMEZONE = 'America/Sao_Paulo'
 
@@ -35,10 +37,9 @@ THEME = 'theme'
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap','minify',]
+PLUGINS = ['sitemap']
 
 # Sitemap
-
 SITEMAP = {
     'format': 'xml',
     'priorities': {
@@ -52,3 +53,8 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'

@@ -81,16 +81,16 @@ Com o passar do tempo, a quantidade de acessos ao site subiu bastante,
 também tivemos muitas novas ideias para o site
 e a utilização do Wordpress como plataforma se tornou inviável.
 
-Então, no início de 2016, eu decidi refazer o site,
+Então, no início de 2016 eu decidi refazer o site,
 dessa vez sem utilizar um sistema de gerenciamento de conteúdo como o Wordpress.
 Estava na hora de criar uma plataforma para suportar o crescimento do projeto Músicas para Missa.
 
 Comecei a trabalhar no novo Músicas para Missa.
-Trabalhei noites e noite no projeto e por vim virou uma realidade.
+Trabalhei noites e noites no projeto e por vim o projeto se concretizou.
 O novo site foi desenvolvido com a linguagem Python utilizando o framework Django,
-O banco de dados foi completamente reestruturado e agora estamos prontos para avançar o projeto.
+O banco de dados foi completamente reestruturado e agora estamos prontos para avançar o projeto ainda mais.
 
-Falando um pouco da parte técnica, nosso também site foi migrado para uma infraestrutura na núvem.
+Falando um pouco da parte técnica, nosso site também foi migrado para uma infraestrutura na núvem.
 O Músicas para Missa hoje é hospedado na infraestrutura da Amazon Web Services
 Lá eu implantei um sistema de balanceamento de carga na núvem que aumenta e diminui automaticamente
 a quantidade de servidores do site de acordo com a quantidade de acessos.
@@ -99,7 +99,7 @@ Com todo esse trabalho, agora o tempo de abertura de uma página do site, na mé
 
 Tem também a Webrádio que criamos para os amantes da música católica!
 Por enquanto a programação é apenas músicas católicas tocando aleatoreamente,
-mas pretendemos criar novos programas em breve.
+mas pretendemos criar novos programas futuramente.
 
 Ainda temos muitas ideias para aplicar no projeto Músicas para Missa.
 Aplicativos, área de acesso personalizado para você montar a sua missa com as nossas sugestões,

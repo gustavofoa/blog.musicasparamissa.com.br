@@ -1,4 +1,30 @@
 {% if DEFAULT_PAGINATION %}
+<!-- PAGINATAION -->
+<div class="row">
+  <div class="col-sm-12">
+    <ul class="pagination pagination-lg">
+      {% if articles_page.has_previous() %}
+      <li>
+        <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&laquo; Página Anterior</a>
+      </li>
+      {% endif %}
+      {% for num in range( 1, 1 + articles_paginator.num_pages ) %}
+      <li class="{{ 'active' if num == articles_page.number else '' }}">
+        <a href="{{ SITEURL }}/{{ articles_paginator.page(num).url if num > 1 else articles_paginator.page(1).url }}">{{ num }}</a>
+      </li>
+      {% endfor %}
+      {% if articles_page.has_next() %}
+      <li>
+        <a href="{{ SITEURL }}/{{ articles_next_page.url }}">Próxima Página &raquo;</a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
+{% endif %}
+
+
+<!--
 <p class="paginator">
     {% if articles_page.has_previous() %}
         <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&laquo;</a>
@@ -8,4 +34,4 @@
         <a href="{{ SITEURL }}/{{ articles_next_page.url }}">&raquo;</a>
     {% endif %}
 </p>
-{% endif %}
+-->
