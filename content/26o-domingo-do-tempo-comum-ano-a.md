@@ -47,7 +47,7 @@ O tempo todo! Devemos nos conservar do pecado. SEMPRE! **O tempo todo!**
 
 Não importa o passado de cada pessoa, não cabe a nós julgar quem receberá a salvação eterna.
 
-Às vezes nós achamos que estemos certos e no direito de olhar para o nosso irmão pensando que ele tem pecados...
+Às vezes nós achamos que estamos certos e no direito de olhar para o nosso irmão pensando que ele tem pecados...
 Este não é o pensamento correto!
 
 Na segunda leitura deste domingo recebemos a seguinte mensagem de São Paulo, em sua carta aos Filipenses ....
@@ -79,7 +79,7 @@ que foi _escravo dos escravos_ na Colombia.
 Antes de olhar para o nosso irmão com qualquer julgamento,
 tenhamos a humildade de olhar para nós mesmos, reconhecer as nossa falhas e suplicar por misericórdia.
 
-Devemos viver para servir! Viver para a Salvar a quantidade que pudermos!
+Devemos viver para servir! Viver para salvar a quantidade que pudermos!
 
 No evangelho deste domingo, percebemos o raciocínio humano frente ao raciocínio de Deus.
 
@@ -90,7 +90,7 @@ Os publicanos (cobradores de impostos) e as prostitutas ao reconhecerem Jesus co
 Logo, estavam prontos para participar de Sua glória!
 Ao contrário dos mestres da lei que tiveram dúvidas, pela falta de fé.
 
-A liturgia deste domingo nos convida a desconsiderar o tempo nos nossos pensametos.
+A liturgia deste domingo nos convida a desconsiderar o tempo nos nossos pensamentos.
 
 Pense no agora, a sua relação com Deus é particularmente entre você de Deus.
 
