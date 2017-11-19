@@ -31,7 +31,7 @@ Deus preeche toda a vida dos justos (santos), e está presente em todos os seus 
 Acabamos de passar pela 
 [**Celebração dos Fiéis Defuntos**](http://musicasparamissa.com.br/sugestoes-para/solenidade-da-comemoracao-de-todos-fieis-defuntos){target=\_blank},
  e na 2ª leitura deste domingo São Paulo nos garante que Cristo voltará para 
-realizar o fim dos tempos que conhecemos e o instituir o tempo definitivo, 
+realizar o fim dos tempos que conhecemos e instituir o tempo definitivo, 
 onde todos os fiéis _vivos ou mortos_, estarão para sempre na presença de Deus. 
 
 Portanto devemos ser vigilantes, estar preparados, ser fiéis e buscar a Deus sempre em nossa vida.
