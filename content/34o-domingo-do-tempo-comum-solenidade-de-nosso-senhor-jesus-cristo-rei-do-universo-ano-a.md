@@ -7,7 +7,7 @@ description: Reflexão sobre a Solenidade de Nosso Senhor Jesus Cristo, Rei do u
 image: https://static.musicasparamissa.com.br/images/diasLiturgicos/cristo-rei.jpg
 
 No próximo domingo (26 de novembro de 2017), a igreja celebra a [**Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo**](http://www.musicasparamissa.com.br/sugestoes-para/34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-a/).
-A leitura desta liturgia da palavra, nos traz a paz de filhos(as) bem cuidado(as), que recebem o amor do Pai como fim último da vida.
+A leitura desta liturgia da palavra nos traz a paz de filhos(as) bem cuidado(as), que recebem o amor do Pai como fim último da vida.
 
 Deus, em sua infinita bondade, se entrega e vem Ele próprio para nos resgatar da morte.
 A primeira leitura deste domingo nos apresenta Deus como o Bom Pastor, que vai atrás das ovelhas desperças para resgatá-las.
@@ -33,6 +33,8 @@ Segurança, Amor, carinho, alimento, vida ...
 Pois é ... Você se reconhece como esta ovelhinha que estava perdida e encontrou a salvação para sua vida?
 Você está indo correndo para os braços do seu pastor, ou está preferindo continuar explorando o mundo escuro
 cheio de armadilhas que te atraem para ainda mais longe daquele que mais te amou?
+
+![O bom pastor](https://static.musicasparamissa.com.br/images/diasLiturgicos/pastor.jpg){:style="width: 100%; padding: 10px;"}
 
 Deus vem até nós através de Jesus como este Bom Pastor que enfrenta tudo para ir atrás da ovelhinha amada.
 Mas tem uma ressalva ...
