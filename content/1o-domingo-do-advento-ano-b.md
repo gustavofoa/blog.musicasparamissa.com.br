@@ -14,7 +14,7 @@ Confiança que ele virá para interferir no tempo a favor do Seu povo e realizar
 Ou seja, dar a vida eterna para os santos merecedores e a devida sentença a quem não merece contemplar a Sua face.
 
 Diante desta realidade, nós estamos preparados para receber o Deus do universo, Criador de todas as coisas,
-que vem até nós? O que precisamos fazer para estarmos preparados?
+que vem até nós? O que precisamos fazer para estarmos preparados? Somos santos merecedores de contemplar a Sua face?
 Peça a Deus a graça de descobrir o caminho da Salvação,
 a graça de ter consciência do que é necessário fazer para estar pronto para receber o Salvador.
 
