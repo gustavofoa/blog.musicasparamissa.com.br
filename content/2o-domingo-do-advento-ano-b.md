@@ -1,4 +1,4 @@
-title: Que sejamos instrumento de Evangelização!
+title: Que sejamos instrumentos de Evangelização!
 date: 2017-12-06
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
