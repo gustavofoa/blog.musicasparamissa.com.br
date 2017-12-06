@@ -37,7 +37,7 @@ Peçamos para que as nossas ações sejam para preparar a vinda e o encontro de 
 com todos os filhos d'Ele.
 Peçamos a Deus para que ele aja através de nós e de nossos instrumentos.
 
-Se você se colocou na posição de instrumento e vai tocar/cantar na missa deste **2º domingo do advento**.
+Se você se colocou na posição de instrumento do Altíssimo e vai tocar/cantar na missa deste **2º domingo do advento**.
 Aqui estão as nossas sugestões de músicas para você:
 
 [**>>Sugestões de música para a missa do 2º Domingo do Advento - Ano B**](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-do-advento-ano-b/){target=\_blank}
