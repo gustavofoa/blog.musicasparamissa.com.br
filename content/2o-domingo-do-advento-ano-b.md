@@ -44,7 +44,7 @@ Aqui estão as nossas sugestões de músicas para você:
 
 Se quiser sugestão de melodia para o salmo, clique no link abaixo.
 
-[**>>SALMO 84 - MOSTRAI-NOS, Ó SENHOR VOSSA BONDADE E A VOSSA SALVAÇÃO NOS CONCEDEI!**](https://musicasparamissa.com.br/musica/salmo-84-ano-a/){target=\_blank}
+[**>>SALMO 84 - MOSTRAI-NOS, Ó SENHOR, VOSSA BONDADE, E A VOSSA SALVAÇÃO NOS CONCEDEI!**](http://musicasparamissa.com.br/musica/salmo-84-mostrai-nos-o-senhor-vossa-bondade-e-vossa-salvacao-nos-concedei/){target=\_blank}
 
 Um ótimo tempo do Advento do Senhor!
 
