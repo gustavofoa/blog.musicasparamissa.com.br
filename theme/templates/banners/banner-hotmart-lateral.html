@@ -1,0 +1,13 @@
+
+{% set random_hotmart_1 = range(1, 4)|random %}
+
+
+{% if random_hotmart_1 == 1 %}
+    {% include 'banners/hotmart/lateral/centralcontato-baixo.html' %}
+{% elif random_hotmart_1 == 2 %}
+    {% include 'banners/hotmart/lateral/centralcontato-guitarra.html' %}
+{% elif random_hotmart_1 == 3 %}
+    {% include 'banners/hotmart/lateral/centralcontato-teclado.html' %}
+{% elif random_hotmart_1 == 4 %}
+    {% include 'banners/hotmart/lateral/centralcontato-violao.html' %}
+{% endif %}
