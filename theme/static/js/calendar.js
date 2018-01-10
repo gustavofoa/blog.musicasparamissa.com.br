@@ -14,7 +14,7 @@ var calendarOptions = {
   todayHighlight: true,
   datas: [],
   beforeShowDay: function(date) {
-
+    date.setHours(date.getHours()+1);
     var data = formatDate(date);
 
     if(this.datas[data])
@@ -32,14 +32,17 @@ var calendarOptions = {
 
 $(document).ready(function() {
 
-  $.get( "http://musicasparamissa.com.br/datas.json", function( datas ) {
+  $.get( "https://musicasparamissa.com.br/datas.json", function( datas ) {
+
+    console.log('buscou datas', datas);
 
     calendarOptions.datas = datas;
 
     var onClick = function(e){
-      var data = formatDate(e.date);
+      var date = e.date;
+      date.setHours(date.getHours()+1);
+      var data = formatDate(date);
       var url = calendarOptions.datas[data].url;
-      url = "http://musicasparamissa.com.br" + url;
       //window.open(url);
       document.location = url;
     }
