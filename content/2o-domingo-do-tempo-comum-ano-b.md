@@ -57,6 +57,10 @@ você pode conferir as nossas sugestões de músicas no link abaixo.
 
 [**>>Sugestões de música para a missa do 2º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-do-tempo-comum-ano-b)
 
+Também temos uma sugestão de melodia para cantar o salmo.
+
+[**>>Melodia para o salmo: SALMO 39 (40) - EU DISSE: EIS QUE VENHO, SENHOR, COM PRAZER FAÇO A VOSSA VONTADE!**](https://musicasparamissa.com.br/musica/salmo-39-40-eu-disse-eis-que-venho-senhor-com-prazer-faco-a-vossa-vontade/)
+
 Boa missa!
 
 Maikon Máximo.
