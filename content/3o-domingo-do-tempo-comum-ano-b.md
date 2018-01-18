@@ -1,4 +1,4 @@
-﻿title: 
+﻿title: Deixaram tudo e O seguiram! 
 date: 2018-01-18
 author: Maikon Máximo
 category: Reflexões
