@@ -61,11 +61,11 @@ deixando-nos quites com a Lei e permitindo que fôssemos salvos, mesmo sem cumpr
 
 Vai tocar/cantar na missa do **4º domingo do tempo comum - Ano B**? Aqui estão as nossas sugestões de músicas:
 
-[>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano B](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-b)
+[**>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-b)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[>>Melodia para o SALMO 94 - NÃO FECHEIS O CORAÇÃO, OUVI HOJE A VOZ DE DEUS!](https://musicasparamissa.com.br/musica/salmo-94-nao-fecheis-o-coracao-ouvi-hoje-a-voz-de-deus/)
+[**>>Melodia para o SALMO 94 - NÃO FECHEIS O CORAÇÃO, OUVI HOJE A VOZ DE DEUS!**](https://musicasparamissa.com.br/musica/salmo-94-nao-fecheis-o-coracao-ouvi-hoje-a-voz-de-deus/)
 
 Que Deus nos abençoe!
 
