@@ -32,25 +32,32 @@ var calendarOptions = {
 
 $(document).ready(function() {
 
-  $.get( "https://musicasparamissa.com.br/datas.json", function( datas ) {
+   $.ajax({
+          //url: 'https://musicasparamissa.com.br/datas.json',
+          url: '/datas.json',
+          crossDomain: true,
+          dataType: 'json',
+          type: 'GET',
+          success: function( datas ) {
 
-    console.log('buscou datas', datas);
+			   console.log('buscou datas', datas);
 
-    calendarOptions.datas = datas;
+			   calendarOptions.datas = datas;
 
-    var onClick = function(e){
-      var date = e.date;
-      date.setHours(date.getHours()+1);
-      var data = formatDate(date);
-      var url = calendarOptions.datas[data].url;
-      //window.open(url);
-      document.location = url;
-    }
+			   var onClick = function(e){
+				 var date = e.date;
+				 date.setHours(date.getHours()+1);
+				 var data = formatDate(date);
+				 var url = calendarOptions.datas[data].url;
+				 //window.open(url);
+				 document.location = url;
+			   }
 
-    $('#calendar-navbar').datepicker(calendarOptions).on("changeDate",onClick);
-    $('#calendar').datepicker(calendarOptions).on("changeDate",onClick);
-    $('#calendar-footer').datepicker(calendarOptions).on("changeDate",onClick);
+			   $('#calendar-navbar').datepicker(calendarOptions).on("changeDate",onClick);
+			   $('#calendar').datepicker(calendarOptions).on("changeDate",onClick);
+			   $('#calendar-footer').datepicker(calendarOptions).on("changeDate",onClick);
 
-  });
+			}
+      });
 
 });
