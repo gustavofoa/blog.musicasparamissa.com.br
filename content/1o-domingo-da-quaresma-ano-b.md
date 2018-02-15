@@ -6,7 +6,6 @@ slug: 1o-domingo-da-quaresma-ano-b
 description: Reflexão sobre o 1º domingo da quaresma - Ano B
 image: /images/diabo-tentando-jesus-pedra-pao.jpg
 
-
 O evangelho desse domingo fala rapidamente sobre Jesus levado ao deserto.
 
 O evangelho de S. Mateus IV.1-4 é mais complexo ao dizer:
@@ -55,7 +54,6 @@ Somos pó, e a ele retornaremos. Mas a fé na vida que a de vir com o reino de D
 Fiquemos firmes na preparação para Páscoa, não pensando no Ovo de chocolate que vou escolher, mas no sentido da morte e ressurreição de Jesus. 
 O cordeiro de Deus que tira os pecados do mundo! Afinal, só ele seria o suficiente sufrágio para redenção da humanidade.
 Por Cristo, com Cristo e em Cristo.
-
 
 Que nessa quaresma você se torne mais santo e colabore para a santidade dos nossos irmãos.
 
