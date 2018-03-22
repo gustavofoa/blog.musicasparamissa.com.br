@@ -17,7 +17,7 @@ A lição de Cristo fica ainda mais clara quando ele diz que um grão precisa mo
 Sim ele falava de si, mas veja em nossa vida. Somos constantemente cercados de desafios e dificuldades.
 Muitas vezes, precisamos abrir mão de planos e sonhos, precisamos "morrer" pra eles. E é isso que Jesus nos ensina.
 
-![Serpente de bronse levantada por Moisés](https://blog.musicasparamissa.com.br/images/morte-de-cristo.jpg){:style="width:100%;"}
+![Jesus Cristo na cruz](https://blog.musicasparamissa.com.br/images/morte-de-cristo.jpg){:style="width:100%;"}
 
 A união hipostática, dogma promulgodo em Concílio pela Igreja, diz que Jesus tem a natureza Divina e a humana.
 Em outras palavras, ele, mesmo sendo divino, se fez homem por nós.
