@@ -67,7 +67,7 @@ Pois o espírito está pronto, mas a carne é fraca." 
 Jesus volta a rezar e o evangelho específica:
 
 >Jesus afastou-se de novo 
-e rezou, repetindo as mesmas palavras. 
+e rezou, repetindo as mesmas palavras.
 
 Aqui vale ressaltar também que Jesus repetia as mesmas palavras! Repetir as mesmas palavras não são jogar palavras ao vento. Até mesmo Jesus o fazia.
 
