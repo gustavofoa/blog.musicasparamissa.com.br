@@ -1,4 +1,4 @@
-﻿title: Venceu a morte.
+﻿title: Venceu a morte!
 date: 2018-03-26
 author: Maikon Máximo
 category: Reflexões
