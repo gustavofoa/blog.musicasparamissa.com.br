@@ -77,6 +77,18 @@ Por fim, no
 começamos um novo tempo litúrgico:
 **[Tempo Pascal](https://musicasparamissa.com.br/musicas-de/tempo-pascal)!**
 
+
+
+Gostou do post? Quer saber mais sobre a igreja?
+
+Entre em contato e saiba como levar uma Palestra, Formação, Luau e/ou Show com **Maikon Máximo** para tua
+cidade, catequese, paróquia, grupo, pastoral...
+
+Estado de São Paulo:
+11989650018 - Letícia
+Demais regiões:
+3384478524 - Farlei
+
 Uma abençoada Semana Santa para você e sua família!
 
 Maikon Máximo.
