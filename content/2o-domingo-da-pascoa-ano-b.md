@@ -2,7 +2,7 @@
 date: 2018-04-05
 author: Maikon Máximo
 category: Reflexões
-slug: 2o-domingoda-pascoa-ano-b
+slug: 2o-domingo-da-pascoa-ano-b
 description: Reflexão sobre a liturgia do 2º Domingo da Páscoa ano B!
 image: http://static.musicasparamissa.com.br/images/diasLiturgicos/S%C3%A3o-Tom%C3%A9.jpg
 
