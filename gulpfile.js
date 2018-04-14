@@ -33,6 +33,8 @@ gulp.task('watch', function(){
   gulp.watch('*', ['run:pelican', 'reload:output']);
   gulp.watch('theme/*', ['run:pelican', 'reload:output']);
   gulp.watch('theme/templates/*', ['run:pelican', 'reload:output']);
+  gulp.watch('theme/static/css/*', ['run:pelican', 'reload:output']);
+  gulp.watch('theme/static/js/*', ['run:pelican', 'reload:output']);
 })
 
 gulp.task('serve', ['connect', 'run:pelican', 'watch']);

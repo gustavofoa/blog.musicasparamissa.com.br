@@ -12,3 +12,30 @@ li {
   margin: 0 0 10px;
   color: #6b6b6b;
 }
+
+
+
+.entry-author {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+	background-color: #fcfcfc;
+
+}
+
+.entry-author .author-avatar {
+	float:left;
+	width: 100px;
+	margin-top: 5px;
+}
+
+.entry-author .author-avatar .avatar{
+	margin-right: 10px;
+	height: 90px;
+	width: 90px;
+}
+
+.entry-author .author-description {
+    text-align: justify;
+}

@@ -45,6 +45,9 @@
 
           {% include 'banners/banner-adsense-bottom.html' %}
 
+          {% set author = article.author %}
+          {% include 'author-info.html' %}
+
           {% include 'comments.html' %}
 
         </div>
