@@ -72,9 +72,12 @@ AUTHORS = {
         'image': 'http://gustavofurtado.com.br/images/profile.jpg'
     },
     'Maikon Máximo': {
-        'summary':'Baterista profissional. Criador do projeto <b>Porque sou católico</b>. '+
+        'summary':'Baterista católico profissional. Criador do projeto <b>Porque sou católico</b>. '+
         'Entre em contato e saiba como levar uma Palestra, Formação, Luau e/ou Show com Maikon Máximo para tua cidade, catequese, paróquia, grupo, pastoral... '+
-        'Estado de São Paulo: (11) 98965-0018 - Letícia Demais regiões: (33) 8447-8524 - Farlei',
+        '<h3>Contato</h3><ul><li>Estado de São Paulo: (11) 98965-0018 Letícia</li><li>Demais regiões: (33) 8447-8524 - Farlei</li></ul>'+
+        '<h3>Redes sociais</h3> <ul><li><a href="https://www.facebook.com/maikdrum">Facebook.com/maikdrum</a></li>'+
+                  '<li><a href="https://instagram.com/maikonmaximo">Instagram.com/maikonmaximo</a></li>'+
+                  '<li><a href="https://youTube.com/maikonmaximo">YouTube.com/maikonmaximo</a></li></ul>',
         'image': '/images/maikon-maximo.jpg'
     }
 }
