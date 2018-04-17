@@ -4,12 +4,14 @@
   {{ super() }}
     <meta name="description" content="Blog para músicos católicos que servem na missa."/>
     <meta property="og:image" content="https://static.musicasparamissa.com.br/images/logo/logoMpM.png" />
-  {% endblock %}
+{% endblock %}
 
 {% block content %}
     <!-- GRID POSTS -->
     <!--===============================================================-->
     <div class="col-sm-8 grid-posts">
+
+        {% block content_title %}{% endblock %}
 
 {% for article in articles_page.object_list %}
       <!-- POST ITEM 1 -->

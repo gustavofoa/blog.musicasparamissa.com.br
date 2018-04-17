@@ -60,3 +60,21 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 AUTHOR_URL = '{slug}/'
 AUTHOR_SAVE_AS = '{slug}/index.html'
+
+
+
+AUTHORS = {
+    'Gustavo Furtado de Oliveira Alves': {
+        'summary':'É mestre em computação aplicada pelo Institudo Nacional de Pesquisas Espaciais, '+
+                  'Engenheiro da Computação pela ETEP Faculdades e '+
+                  'Técnico em Informática pela Escola Técnica Pandiá Calógeras. '+
+                  'Possui as certificações ASF, SCWCD e SCJP e trabalha com desenvolvimento de softwares desde 2007.',
+        'image': 'http://gustavofurtado.com.br/images/profile.jpg'
+    },
+    'Maikon Máximo': {
+        'summary':'Baterista profissional. Criador do projeto <b>Porque sou católico</b>. '+
+        'Entre em contato e saiba como levar uma Palestra, Formação, Luau e/ou Show com Maikon Máximo para tua cidade, catequese, paróquia, grupo, pastoral... '+
+        'Estado de São Paulo: (11) 98965-0018 - Letícia Demais regiões: (33) 8447-8524 - Farlei',
+        'image': '/images/maikon-maximo.jpg'
+    }
+}
