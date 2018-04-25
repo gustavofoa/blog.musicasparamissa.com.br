@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 2o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 2º domingo do tempo comum - Ano B
-image: http://blog.musicasparamissa.com.br/images/eis-o-cordeiro-de-deus.jpg
+image: https://blog.musicasparamissa.com.br/images/eis-o-cordeiro-de-deus.jpg
 
 Existem muitas coisas para se considerar nesse evangelho.
 

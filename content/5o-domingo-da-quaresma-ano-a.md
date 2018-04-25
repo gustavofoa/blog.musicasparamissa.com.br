@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 5º domingo da quaresma - Ano A
-image: http://blog.musicasparamissa.com.br/images/lazaro-venha-para-fora.jpg
+image: https://blog.musicasparamissa.com.br/images/lazaro-venha-para-fora.jpg
 
 A origem da morte é o pecado. Mais especificamente o _pecado original_.
 A única pessoa que **não** herdou o pecado original é a **Santíssima Virgem Maria**.

@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 26o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 26º domingo do tempo comum - Ano A
-image: http://blog.musicasparamissa.com.br/images/tempo.jpg
+image: https://blog.musicasparamissa.com.br/images/tempo.jpg
 
 Pare pra pensar na seguinte situação...
 

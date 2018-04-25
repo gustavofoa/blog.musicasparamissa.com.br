@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 6o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 6º domingo do tempo comum - Ano B
-image: http://blog.musicasparamissa.com.br/images/leproso-de-joelhos-diante-de-Jesus.jpg
+image: https://blog.musicasparamissa.com.br/images/leproso-de-joelhos-diante-de-Jesus.jpg
 
 O evangelho do próximo domingo (11/02/2018) nos fala sobre fé
 e ao mesmo tempo sobre saber colocar em prática os pedidos de Jesus.
@@ -44,7 +44,7 @@ mas de alguma forma sabia que era o CRISTO (Ungido).
 Vale ressaltar que Jesus nos quer curar, mas o que ele quer para nós é muito mais que uma cura física,
 mas uma aliança e, por esse motivo veio a nós.
 
-![Se queres, tens o poder de me curar.](http://blog.musicasparamissa.com.br/images/leproso-de-joelhos-diante-de-Jesus.jpg){:style="width: 100%; padding: 10px;"}
+![Se queres, tens o poder de me curar.](https://blog.musicasparamissa.com.br/images/leproso-de-joelhos-diante-de-Jesus.jpg){:style="width: 100%; padding: 10px;"}
 
 O evangelho ainda diz que Jesus pede ao leproso que não saia por aí falando da cura.
 Parece que ele não aquentou segurar e (deu com a língua nos dentes).

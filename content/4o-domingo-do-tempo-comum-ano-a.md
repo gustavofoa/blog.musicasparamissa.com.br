@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 4º domingo do tempo comum - Ano A
-image: http://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
+image: https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
 
 Que a paz do Senhor Jesus Cristo esteja contigo!
 

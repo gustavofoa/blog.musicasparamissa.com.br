@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 4o-domingo-da-pascoa-ano-b
 description: Reflexão sobre a liturgia do 4º Domingo da Páscoa ano B!
-image: http://blog.musicasparamissa.com.br/images/pastor.jpg
+image: https://blog.musicasparamissa.com.br/images/pastor.jpg
 
 
 Em se falando das naturezas de Jesus, podemos ver uma verdade de fé revelada pelo próprio Cristo quando diz:
@@ -17,7 +17,7 @@ esta é a ordem que recebi do meu Pai". 
 
 O bom Pastor da a vida por suas ovelhas e o mercenário vê os lobos e foge.
 
-![Jesus: o bom pastor.](http://blog.musicasparamissa.com.br/images/pastor.jpg){:style="width:100%;"}
+![Jesus: o bom pastor.](https://blog.musicasparamissa.com.br/images/pastor.jpg){:style="width:100%;"}
 
 Neste Evangelho cheio de sentidos podemos levar em conta duas coisas.
 

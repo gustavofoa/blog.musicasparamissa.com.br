@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 5o-domingo-da-pascoa-ano-b
 description: Reflexão sobre a liturgia do 5º Domingo da Páscoa ano B!
-image: http://blog.musicasparamissa.com.br/images/vinhateiros.jpg
+image: https://blog.musicasparamissa.com.br/images/vinhateiros.jpg
 
 O evangelho do próximo domingo (29/04/2018) fala sobre a figura de linguagem usada por Jesus ao nos mostrar que ele é como uma videira e o Pai o agricultor.
 
@@ -15,7 +15,7 @@ O vinho tem um sentido muito mais intenso do que simplesmente sua função socia
 >“O ramo unido e em conjunto com o tronco produz fruto não por virtude própria, mas em virtude do tronco..."
 (São Francisco de Sales)
 
-![Jesus e a videira](http://blog.musicasparamissa.com.br/images/vinhateiros.jpg){:style="width:100%;"}
+![Jesus e a videira](https://blog.musicasparamissa.com.br/images/vinhateiros.jpg){:style="width:100%;"}
 
 Somos nós os ramos que ao dar mal fruto é podado! Se dá bom fruto, não por mérito mais por conter bom ato do tronco, este então é limpo, para que de mais frutos.
 

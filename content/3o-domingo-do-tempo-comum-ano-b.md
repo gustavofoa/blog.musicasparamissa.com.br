@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 3o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 3º domingo do tempo comum - Ano B
-image: http://blog.musicasparamissa.com.br/images/Deixaram-tudo-e-O-seguiram.jpg
+image: https://blog.musicasparamissa.com.br/images/Deixaram-tudo-e-O-seguiram.jpg
 
 Refletindo a liturgia da palavra deste 3º domingo do tempo comum (ano b), dia 21/01/2018.
 

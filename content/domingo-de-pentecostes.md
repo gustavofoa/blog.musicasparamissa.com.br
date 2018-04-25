@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: domingo-de-pentecostes
 description: Reflexão sobre o Domingo de Pentecostes
-image: http://blog.musicasparamissa.com.br/images/pentecostes.jpg
+image: https://blog.musicasparamissa.com.br/images/pentecostes.jpg
 
 **"A paz esteja convosco!"**
 

@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: domingo-da-pascoa
 description: Reflexão sobre a liturgia do Domingo de Páscoa!
-image: http://blog.musicasparamissa.com.br/images/domingo-de-pascoa.jpg
+image: https://blog.musicasparamissa.com.br/images/domingo-de-pascoa.jpg
 
 
 Para os dias de hoje, na nossa realidade, a ressurreição parece algo fantasioso, algo impossível. De fato, nascemos, crescemos e morremos, e em nós fica aquela insegurança de crer que a ressurreição é de fato uma verdade.
@@ -37,7 +37,7 @@ Voltemos então ao evangelho.
 
 Jesus de fato não está lá! Ele disse que iria reconstruir o Templo em três dias e assim o fez. Cristo falava de seu corpo, e  apesar de o evangelho desse domingo terminar por aqui e ainda dizer que os discípulos não entenderam ainda muito bem a escritura, sabemos bem o desenrolar dessa história.
 
-![Domingo de páscoa](http://blog.musicasparamissa.com.br/images/domingo-de-pascoa.jpg){:style="width:100%;"}
+![Domingo de páscoa](https://blog.musicasparamissa.com.br/images/domingo-de-pascoa.jpg){:style="width:100%;"}
 
 A páscoa significa aos Judeus a festa da liberdade do povo escravizado no Egito. A páscoa para nós Católicos, significa Jesus realizando aquilo que estava escrito, vindo a nós como Salvador, não apenas do Egito, mas de toda humanidade. Aquele prefigurado em Isaac, Melquisedeque, no cordeiro perfeito servido aos hisraelitas o qual nenhum de seus ossos foram quebrados, aquele que é da linhagem de Davi, aquele o qual transfigurado é chamado de filho por Deus.
 

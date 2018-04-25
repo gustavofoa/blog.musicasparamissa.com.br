@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Músicas para Missa
 slug: porque-nao-cantar-o-abraco-da-paz-na-missa
 description: Porque não se deve ter a música de 'Abraço da Paz' na missa.
-image: http://blog.musicasparamissa.com.br/images/canto-abraço-da-paz2.jpg
+image: https://blog.musicasparamissa.com.br/images/canto-abraço-da-paz2.jpg
 
 Em julho do ano de 2014, a Santa Sé, por meio da Congregação para o
 Culto Divino e a Disciplina dos Sacramentos, [emitiu uma

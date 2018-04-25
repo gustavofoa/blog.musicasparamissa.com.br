@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-de-sao-pedro-e-sao-paulo-apostolos
 description: Reflexão sobre a Solenidade de São Pedro e São Paulo, Apóstolos
-image: http://blog.musicasparamissa.com.br/images/sao-pedro-e-sao-paulo.jpg
+image: https://blog.musicasparamissa.com.br/images/sao-pedro-e-sao-paulo.jpg
 
 No próximo domingo (02 de julho de 2017) a igreja celebra a **Solenidade de São Pedro e São Paulo**.
 Dois dos maiores instrumentos de Deus após a encarnação do Verbo Divino.

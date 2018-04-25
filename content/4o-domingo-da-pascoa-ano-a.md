@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-da-pascoa-ano-a
 description: Reflexão sobre o 4º domingo da páscoa - Ano A
-image: http://blog.musicasparamissa.com.br/images/bom-pastor.jpg
+image: https://blog.musicasparamissa.com.br/images/bom-pastor.jpg
 
 A liturgia deste [**4<sup>o</sup> domingo do tempo pascal**](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)
 nos adverte para a importância da conversão, a correção no rumo da nossa vida para alcançarmos o Céu.

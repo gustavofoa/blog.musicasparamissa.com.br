@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 2o-domingo-da-quaresma-ano-b
 description: Reflexão sobre o 2º domingo da quaresma - Ano B
-image: http://blog.musicasparamissa.com.br/images/transfiguração.jpg
+image: https://blog.musicasparamissa.com.br/images/transfiguração.jpg
 
 Imagine em tua vida, você abrir mão de tudo que conquistou e viveu até agora para seguir um homem.
 Imagine sua vida sendo tomada por uma vontade enorme, mas ao mesmo tempo a sensação de perder tudo o que tem aqui.
