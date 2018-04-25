@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 5o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 5º domingo do tempo comum - Ano B
-image: /images/Deixaram-tudo-e-O-seguiram.jpg
+image: https://blog.musicasparamissa.com.br/images/Deixaram-tudo-e-O-seguiram.jpg
 
 Jesus continua sua Jornada com os Apóstolos, pregando, ensinando e curando. 
 Temos 19 relatos de milagres em Mt; 18 em Mc; 20 em Lc e 8 em Jo.

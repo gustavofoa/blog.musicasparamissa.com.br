@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 24o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 24º domingo do tempo comum - Ano A
-image: /images/perdao.jpg
+image: https://blog.musicasparamissa.com.br/images/perdao.jpg
 
 A liturgia deste domingo nos convida a refletir sobre o **perdão**.
 

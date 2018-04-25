@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 4o-domingo-da-quaresma-ano-b
 description: Reflexão sobre o 4º domingo da quaresma - Ano B
-image: /images/moises-serpente.jpg
+image: https://blog.musicasparamissa.com.br/images/moises-serpente.jpg
 
 
 Desde muito pequeno tentava entender do que se tratava o fato de Jesus vir até nós. Eu ficava confuso e não entendia direito o motivo. 

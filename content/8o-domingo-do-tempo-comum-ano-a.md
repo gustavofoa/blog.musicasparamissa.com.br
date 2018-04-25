@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 8o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 8º domingo do tempo comum - Ano A
-image: /images/jesus-e-apóstolos.jpg
+image: https://blog.musicasparamissa.com.br/images/jesus-e-apóstolos.jpg
 
 >"Que todo o mundo nos considere como servidores de
 Cristo e administradores dos mistérios de Deus."

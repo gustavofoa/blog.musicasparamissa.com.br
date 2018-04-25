@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-da-pascoa-ano-a
 description: Reflexão sobre o 3º domingo da páscoa - Ano A
-image: /images/a-caminho-de-emaus.jpg
+image: https://blog.musicasparamissa.com.br/images/a-caminho-de-emaus.jpg
 
 Quando Jesus morreu e foi sepultado, naquele sepulcro não foi sepultado apenas
 o corpo de Nosso Senhor Jesus Cristo, a fé de todos foi sepultada com ele.

@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 1o-domingo-da-quaresma-ano-b
 description: Reflexão sobre o 1º domingo da quaresma - Ano B
-image: /images/diabo-tentando-jesus-pedra-pao.jpg
+image: https://blog.musicasparamissa.com.br/images/diabo-tentando-jesus-pedra-pao.jpg
 
 O evangelho desse domingo fala rapidamente sobre Jesus levado ao deserto.
 

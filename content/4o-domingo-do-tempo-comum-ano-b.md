@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 4o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 4º domingo do tempo comum - Ano B
-image: /images/autoridade.jpg
+image: https://blog.musicasparamissa.com.br/images/autoridade.jpg
 
 Carfanaum era a cidade as margens norte do Mar da Galileia, próxima de Betsaida.
 Foi nesta região onde Jesus morava, que aconteceu os grandes chamados dos discípulos de Cristo.
