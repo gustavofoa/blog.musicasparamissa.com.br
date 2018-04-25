@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 14o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 14º domingo do tempo comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/o-brado-do-redentor.jpg
+image: http://blog.musicasparamissa.com.br/images/o-brado-do-redentor.jpg
 
 >"Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, 
   e eu vos darei descanso."

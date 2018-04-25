@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 3o-domingo-da-quaresma-ano-b
 description: Reflexão sobre o 3º domingo da quaresma - Ano B
-image: https://blog.musicasparamissa.com.br/images/abraao-sacrificar-isaac.jpg
+image: http://blog.musicasparamissa.com.br/images/abraao-sacrificar-isaac.jpg
 
 Existem histórias que em nossa éra tecnológica, não faz o menor sentido! Mas pra entender a história da Igreja, antes você precisa se abrir a fé e deixar a razão tomar conta do teu ser. Isso não é fácil, ainda mais depois de ler alguns parágrafos abaixo. Mas insisto, se desfaça por alguns instantes de sua visão do século em que vivemos para entender a maravilha contida nesta lógica e perceba que aos poucos você entenderá que mesmo na atualidade vivemos de fato a mesma questão analisada a seguir: 
 

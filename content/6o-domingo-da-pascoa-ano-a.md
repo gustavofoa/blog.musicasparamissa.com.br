@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 6o-domingo-da-pascoa-ano-a
 description: Reflexão sobre o 6º domingo da páscoa - Ano A
-image: https://blog.musicasparamissa.com.br/images/JoaoPauloII-IrmaLucia.jpg
+image: http://blog.musicasparamissa.com.br/images/JoaoPauloII-IrmaLucia.jpg
 
 Estamos acompanhando nestes dias de páscoa as leituras dos atos dos apóstolos.
 Não sei se você tem o hábito da leitura diária da liturgia

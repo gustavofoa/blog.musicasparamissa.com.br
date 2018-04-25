@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-da-santissima-trindade-tempo-comum-ano-a
 description: Reflexão sobre a Solenidade da Santíssima Trindade - Tempo Comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/santissima-trindade.jpg
+image: http://blog.musicasparamissa.com.br/images/santissima-trindade.jpg
 
 Quando Deus criou o mundo e o homem, a expectativa Dele era de que vivêssemos em comunhão com Ele,
 ou seja, que formássemos uma comunidade com Ele unidos pelo amor.

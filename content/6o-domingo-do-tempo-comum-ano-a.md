@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 6o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 6º domingo do tempo comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
+image: http://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
 
 **Deus não deu licença para ninguém pecar.** 
 É o que diz o final da primeira leitura da liturgia do domingo dia 

@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-da-epifania-senhor
 description: Reflexão sobre a Epifania do Senhor
-image: https://blog.musicasparamissa.com.br/images/reis-magos.jpg
+image: http://blog.musicasparamissa.com.br/images/reis-magos.jpg
 
 No próximo domingo dia 7 de janeiro de 2018, a igreja celebra a **Solenidade da Epifania do Senhor**.
 Epifania significa "manifestação". Em Jesus, Deus se manifestou.

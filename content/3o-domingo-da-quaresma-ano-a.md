@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 3º domingo da quaresma - Ano A
-image: https://blog.musicasparamissa.com.br/images/samaria.jpg
+image: http://blog.musicasparamissa.com.br/images/samaria.jpg
 
 Fico encantado toda vez que leio o evangelho. A cada dia me surpriendo mais.
 O evangelho deste [3º domingo da quaresma - Ano A (dia 19 de março de 2017)](http://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/)

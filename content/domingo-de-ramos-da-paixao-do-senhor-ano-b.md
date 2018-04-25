@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: domingo-de-ramos-da-paixao-do-senhor-ano-b
 description: Domingo de Ramos da Paixão do Senhor - Ano B
-image: https://blog.musicasparamissa.com.br/images/eucaristia-papa.jpg
+image: http://blog.musicasparamissa.com.br/images/eucaristia-papa.jpg
 
 O evangelho desse domingo de Ramos (25/03/2018) fala sobre vários pontos importantes para o entendimento da Paixão de Jesus.
 Ele se inicia, falando da festa Judaica da Páscoa e dos Ázimos.
@@ -12,7 +12,7 @@ Ele se inicia, falando da festa Judaica da Páscoa e dos Ázimos.
 O pão de ázimo foi feito pelos israelitas antes da fuga do Antigo Egito, porem não houve tempo para esperar até a massa fermentar, por isso é conhecido como pão sem fermento.
 Isso nos remete ao pão eucarístico e prefigura Jesus em sua Paixão.
 
-![Pão eucarístico com Papa Francisco](https://blog.musicasparamissa.com.br/images/eucaristia-papa.jpg){:style="width:100%;"}
+![Pão eucarístico com Papa Francisco](http://blog.musicasparamissa.com.br/images/eucaristia-papa.jpg){:style="width:100%;"}
 
 Esse pão, é comida obrigatória na festa do Pessach (páscoa judaica), que também se chama Hag ha-matzot, ou a festa dos pães ázimos.
 

@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Músicas para Missa
 slug: como-nasceu-o-musicas-para-missa
 description: Conheça a história de como surgiu o site músicas para missa.
-image: https://blog.musicasparamissa.com.br/images/topo-de-bolo-musicas-para-missa.jpg
+image: http://blog.musicasparamissa.com.br/images/topo-de-bolo-musicas-para-missa.jpg
 
 Muitas pessoas do Brasil e do mundo já conhecem o site **Músicas para
 Missa** e muitos de vocês não sabem quem são as pessoas responsáveis por

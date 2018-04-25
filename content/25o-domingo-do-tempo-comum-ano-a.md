@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 25o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 25º domingo do tempo comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/vinha.jpg
+image: http://blog.musicasparamissa.com.br/images/vinha.jpg
 
 Os pensamentos e caminhos de Deus está infinitamente acima dos nossos pensamentos e caminhos.
 

@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: ascensao-do-senhor-ano-a
 description: Reflexão sobre o Domingo da Ascensão do Senhor - Ano A
-image: https://blog.musicasparamissa.com.br/images/ascensao.jpg
+image: http://blog.musicasparamissa.com.br/images/ascensao.jpg
 
 **"Não vos afasteis de Jerusalém"** é uma **ordem** de Jesus,
 escrita em _Atos dos Apóstolos 1, 4_ na primeira leitura da liturgia deste domingo da **Ascenção do Senhor**.

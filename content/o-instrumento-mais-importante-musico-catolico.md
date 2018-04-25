@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Músicas para Missa
 slug: o-instrumento-mais-importante-musico-catolico
 description: Descubra qual o instrumento mais importante que todo músico católico deve saber.
-image: https://blog.musicasparamissa.com.br/images/terço.jpg
+image: http://blog.musicasparamissa.com.br/images/terço.jpg
 
 Músico católico que toca nas missas e usa a música
 para evangelizar muitas vezes se esquece do **instrumento mais

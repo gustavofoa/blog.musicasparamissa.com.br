@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-da-pascoa-ano-a
 description: Reflexão sobre o 5º domingo da páscoa - Ano A
-image: https://blog.musicasparamissa.com.br/images/igreja-catolica.jpg
+image: http://blog.musicasparamissa.com.br/images/igreja-catolica.jpg
 
 A liturgia deste [**5<sup>o</sup> domingo do tempo pascal**](http://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)
 nos convida a refletir sobre a igreja de Cristo, nos convida a sermos comunidade em Cristo.

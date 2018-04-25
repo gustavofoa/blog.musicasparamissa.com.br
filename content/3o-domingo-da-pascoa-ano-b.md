@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 3o-domingo-da-pascoa-ano-b
 description: Reflexão sobre a liturgia do 3º Domingo da Páscoa ano B!
-image: https://blog.musicasparamissa.com.br/images/discipulos-de-emaus.jpg
+image: http://blog.musicasparamissa.com.br/images/discipulos-de-emaus.jpg
 
 O que você faria diante de uma verdade que deve ser revelada, versus o medo de ser retalhado?
 Medo de perder tua liberdade, teus planos, tua vida?
@@ -29,7 +29,7 @@ Com efeito, estavam unidos em seu nome.
 Por isso, "aproximou-se deles o próprio Jesus e ia com eles"(S.Luc. XXIV, 15).
 Afinal, havia ele prometido: "Onde dois ou mais estiverem reunidos em meu Nome, Eu estarei no meio deles"(S.Mat., XVIII, 20).
 
-![Discípulos de Emaus!](https://blog.musicasparamissa.com.br/images/discipulos-de-emaus.jpg){:style="width:100%;"}
+![Discípulos de Emaus!](http://blog.musicasparamissa.com.br/images/discipulos-de-emaus.jpg){:style="width:100%;"}
 
 Era dia e eles não o reconheceram, porque "os seus olhos estavam como que fechados"(S.Luc.XXIV,16).
 A "Luz que ilumina todo homem que vem a este mundo"( S.Jo. I, 9), mas não viam.
