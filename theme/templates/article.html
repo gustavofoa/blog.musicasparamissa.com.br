@@ -8,7 +8,7 @@
     <meta name="og:description" content="{{article.description}}" />
   {% endif %}
   {% if article.image %}
-    <meta property="og:image:secure_url" content="{{ article.image }}" />
+    <meta property="og:image" content="{{ article.image }}" />
   {% endif %}
   {% for tag in article.tags %}
     <meta name="tags" content="{{tag}}" />
