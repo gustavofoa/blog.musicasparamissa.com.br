@@ -20,15 +20,15 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap', 'minify']
+PLUGINS = ['sitemap']
 
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
-MINIFY = {
- 'remove_comments': True,
- 'remove_all_empty_space': True,
- 'remove_optional_attribute_quotes': False
-}
+# MINIFY = {
+#  'remove_comments': True,
+#  'remove_all_empty_space': True,
+#  'remove_optional_attribute_quotes': False
+# }
