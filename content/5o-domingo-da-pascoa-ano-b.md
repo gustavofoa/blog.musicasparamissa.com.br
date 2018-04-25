@@ -38,6 +38,10 @@ Se for tocar/cantar na missa deste **5º domingo da páscoa**, não se esqueça 
 
 **[>>Sugestões de música para a missa do 5º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-b/){:target=\_blank}**
 
+Também preparamos uma sugestão de melodia para o salmo deste domingo.
+
+**[>>SALMO 21 (22) - SENHOR SOIS MEU LOUVOR EM MEIO À GRANDE ASSEMBLÉIA!](https://musicasparamissa.com.br/musica/salmo-21-22-senhor-sois-meu-louvor/){:target=\_blank}**
+
 Uma abençoada semana para você e sua família!
 
 Maikon Máximo.
