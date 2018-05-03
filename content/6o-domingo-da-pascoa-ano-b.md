@@ -1,4 +1,4 @@
-﻿title: 
+﻿title: Amai-vos uns aos outros.
 date: 2018-05-03
 author: Maikon Máximo
 category: Reflexões
