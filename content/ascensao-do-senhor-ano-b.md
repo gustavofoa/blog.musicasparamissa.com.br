@@ -6,7 +6,7 @@ slug: ascensao-do-senhor-ano-b
 description: Reflexão sobre a liturgia da Ascensão do Senhor - Ano B!
 image: https://blog.musicasparamissa.com.br/images/ascensao.jpg
 
-Do evangelho da liturgia do próximo **Domingo da Ascensão do Senhor**,
+No evangelho da liturgia do próximo **Domingo da Ascensão do Senhor**,
 Jesus apresenta aos apóstolos um pedido muito direto.
 
 >"Ide pelo mundo inteiro
