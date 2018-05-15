@@ -1,5 +1,5 @@
 ﻿title: A paz esteja convosco!
-date: 2017-05-31
+date: 2018-05-15
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: domingo-de-pentecostes
@@ -18,7 +18,7 @@ A liturgia do _domingo de pentecostes_ nos apresenta o derramamento do Espírito
 O Pentecostes em que o Espírito Santo desceu sobre os apóstolos ficou marcado
 pelo dom de falar em outras línguas recebido pelos apóstolos.
 
-![Pentecostes](/images/pentecostes.jpg){:width=100%}
+![Pentecostes](https://blog.musicasparamissa.com.br/images/pentecostes.jpg){:width=100%}
 
 São muitos dons que recebemos do Espírito Santo,
 que vem como fogo para purificar a nossa alma e nos direcionar a Deus.
