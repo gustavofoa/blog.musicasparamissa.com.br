@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: solenidade-da-santissima-trindade-tempo-comum-ano-b
 description: Reflexão sobre a liturgia da Solenidade da Santíssima Trindade - Tempo Comum - Ano B
-image: https://blog.musicasparamissa.com.br/images/santissima-trindade-2.jpg
+image: https://blog.musicasparamissa.com.br/images/santissima-trindade-b.jpg
 
 O evangelho desta semana fala da trindade, pois então vamos aqui analisar vários pontos importantes que norteiam a trindade.
 
@@ -13,7 +13,7 @@ Umas das grandes objeções dos não católicos é com o **Dogma da Trindade**.
 Existe no fogo, duas essências que são inseparáveis, luz e calor. Não é possível separar o fogo a luz e o calor. Assim é a trindade. Não se pode separar o Pai do Filho e do Espírito, embora seja assim, como do Fogo procede a Luz e o Calor os quais têm em si suas naturezas, O Filho e o Espírito que procedem do Pai têm suas particularidades, o que não os separa, mas dão sentidos às suas ações em nossas vidas através do Pai.
 Assim como no fogo há fogo, luz e calor.  Em Deus há o Pai, o Filho e o Espírito Santo.
 
-![Santíssima Trindade](https://blog.musicasparamissa.com.br/images/santissima-trindade-2.jpg){:style="width:100%;"}
+![Santíssima Trindade](https://blog.musicasparamissa.com.br/images/santissima-trindade-b.jpg){:style="width:100%;"}
 
 A própria Bíblia proclama infalivelmente:
 
