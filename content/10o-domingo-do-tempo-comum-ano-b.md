@@ -1,4 +1,4 @@
-title: Na miséria humana, um amor divino.
+title: Quem são a mãe e os irmãos de Jesus?
 date: 2018-06-05
 author: Maikon Máximo
 category: Reflexões
