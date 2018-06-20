@@ -5,15 +5,15 @@
 {% block metatags %}
   {{ super() }}
   {% if article.description %}
-    <meta name="og:description" content="{{article.description}}" />
+    <meta property="og:description" content="{{article.description}}" />
   {% endif %}
   {% if article.image %}
     <meta property="og:image" content="{{ article.image }}" />
   {% endif %}
   {% for tag in article.tags %}
-    <meta name="tags" content="{{tag}}" />
+    <meta property="tags" content="{{tag}}" />
   {% endfor %}
-  <meta property="og:url" content="{{ SITEURL }}/{{ article.slug }}" />
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.slug }}/" />
   <meta property="og:title" content="{{ article.title }} - {{ SITENAME }}" />
   <meta property="og:type" content="article" />
   <meta property="og:author" content="{{ article.author }}" />
