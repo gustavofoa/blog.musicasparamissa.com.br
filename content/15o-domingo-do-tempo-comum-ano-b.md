@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 15o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 15º domingo do tempo comum - Ano B
-image: https://static.musicasparamissa.com.br/images/diasLiturgicos/Eis-que-estamos-subindo-para-Jerusal%C3%A9m-e-o-Filho-do-Homem-vai-ser-entregue.jpg
+image: https://static.musicasparamissa.com.br/images/diasLiturgicos/Eis-que-estamos-subindo-para-Jerusalém-e-o-Filho-do-Homem-vai-ser-entregue.jpg
 
 No evangelho do próximo domingo (15/07/2018) veremos Jesus enviando seus discípulos. E Jesus os enviam de dois em dois.
 
@@ -13,7 +13,7 @@ Provavelmente o envio “dois a dois” seja uma referência ao costume judaico 
 Em seguida “_deu-lhes poder sobre os espíritos impuros_".
 Os espíritos impuros representam aqui tudo aquilo que escraviza o homem, seja no carácter físico, seja de carácter espiritual – que destrói a vida e a felicidade do homem (podemos dizer que a missão dos discípulos é lutar contra o “pecado”).
 
-![Ide ao mundo!](https://static.musicasparamissa.com.br/images/diasLiturgicos/Eis-que-estamos-subindo-para-Jerusal%C3%A9m-e-o-Filho-do-Homem-vai-ser-entregue.jpg){:style="width: 100%; padding: 10px;"}
+![Ide ao mundo!](https://static.musicasparamissa.com.br/images/diasLiturgicos/Eis-que-estamos-subindo-para-Jerusalém-e-o-Filho-do-Homem-vai-ser-entregue.jpg){:style="width: 100%; padding: 10px;"}
 
 Em seguida, vêm as instruções para a missão.
 Os discípulos devem partir para a missão,
