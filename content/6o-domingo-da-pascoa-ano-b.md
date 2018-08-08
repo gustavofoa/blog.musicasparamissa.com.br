@@ -55,7 +55,7 @@ Se for tocar/cantar na missa do **6º domingo da páscoa**, confira as nossas su
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 97 (98) - O SENHOR FEZ CONHECER A SALVAÇÃO E REVELOU SUA JUSTIÇA ÀS NAÇÕES**](https://musicasparamissa.com.br/musica/salmo-97-98-o-senhor-fez-conhecer-a-salvacao-e-revelou/)
+[**>>Melodia para o SALMO 97 (98) - O SENHOR FEZ CONHECER A SALVAÇÃO E REVELOU SUA JUSTIÇA ÀS NAÇÕES**](https://musicasparamissa.com.br/musica/salmo-97-98-o-senhor-fez-conhecer-a-salvacao-e-revelou/){:target=\_blank}
 
 Uma abençoada semana para você e sua família!
 
