@@ -33,8 +33,8 @@ var calendarOptions = {
 $(document).ready(function() {
 
    $.ajax({
-          //url: 'https://musicasparamissa.com.br/datas.json',
-          url: '/datas.json?v=2',
+          url: 'https://musicasparamissa.com.br/datas.json',
+          // url: '/datas.json?v=2',
           crossDomain: true,
           dataType: 'json',
           type: 'GET',
