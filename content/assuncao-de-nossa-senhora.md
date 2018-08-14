@@ -1,4 +1,4 @@
-title: Maria e a Arca da Alicança
+title: Maria e a Arca da Aliança
 date: 2018-08-14
 author: Maikon Máximo
 category: Reflexões
