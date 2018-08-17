@@ -48,7 +48,7 @@ $(document).ready(function() {
 				 var date = e.date;
 				 date.setHours(date.getHours()+1);
 				 var data = formatDate(date);
-				 var url = "https://musicasparamissa.com.br/"+calendarOptions.datas[data].url;
+				 var url = "https://musicasparamissa.com.br"+calendarOptions.datas[data].url;
 				 //window.open(url);
 				 document.location = url;
 			   }
