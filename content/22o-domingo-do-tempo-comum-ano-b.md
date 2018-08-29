@@ -1,10 +1,10 @@
-title: 
+title: Sagrada Tradição
 date: 2018-08-29
 author: Maikon Máximo
 category: Reflexões
 slug: 22o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 22º domingo do tempo comum - Ano B
-image: 
+image: /images/sagrada-tradicao.jpg
 
 Iniciamos um mês importante para a Igreja! O **mês da Bíblia** não é somente da palavra escrita, mas da palavra falada.
 
@@ -15,6 +15,8 @@ Interpretar este Evangelho sem atenção, pode fazer o leitor incorrer em grande
 Paulo, como Cristo, condena as tradições humanas, e ainda ordena que se guardem os ensinamentos por escrito e pela PALAVRA.
 
 >"Permanecei, pois, constantes, irmãos, e conservai as tradições que aprendestes, ou por nossas palavras, ou por nossa carta" (II Tess.II, 14).
+
+![Sagrada tradição](/images/sagrada-tradicao.jpg){:style="width: 100%; padding: 10px;"}
 
 Lembra da música?
 
