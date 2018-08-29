@@ -22,7 +22,7 @@ Lembra da música?
 
 >"... Pois o antigo testamento, deu ao novo o seu lugar..."
 
-Santo Tomás de Aquino, doutor da Igreja, foi muito feliz em compor tal maravilhosa explicação do plano de Deus, feito sob e na Terra.
+Santo Tomás de Aquino, doutor da Igreja, foi muito feliz em compor tal maravilhosa explicação do plano de Deus, feito sobre e na Terra.
 
 >"...Et antiquum documentum 
 Novo cedat ritui..."
