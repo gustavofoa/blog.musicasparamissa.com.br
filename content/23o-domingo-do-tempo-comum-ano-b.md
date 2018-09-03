@@ -51,7 +51,7 @@ aqui estão as nossas sugestões de músicas:
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o **](){:target=\_blank}
+[**>>Melodia para o SALMO 145 - BENDIZE, Ó MINHA ALMA AO SENHOR. BENDIREI AO SENHOR TODA A VIDA!**](https://musicasparamissa.com.br/musica/salmo-145-bendize-o-minha-alma-ao-senhor-bendirei-ao-senhor-toda-a-vida/){:target=\_blank}
 
 Que Deus nos abençoe!
 
