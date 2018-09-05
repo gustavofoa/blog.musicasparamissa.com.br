@@ -6,7 +6,7 @@ slug: 23o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 23º domingo do tempo comum - Ano B
 image: /images/Efata.jpg
 
-Escrevo-lhes este artigo sobre o evangelho deste domingo (09/09/2018) com um certo sorriso no rosto, mas de coração apertado, pois uma ironia profunda acometeu meus sentimentos. Estou sentado na sala, e agora neste momento quando comecei a escrever, passou lá fora um carro de som divulgando a "terça do milagre urgente" do auto intitulado "Apóstolo Valdomiro Santiago". 
+Escrevo este artigo sobre o evangelho deste domingo (09/09/2018) com um certo sorriso no rosto, mas de coração apertado, pois uma ironia profunda acometeu meus sentimentos. Estou sentado na sala, e agora neste momento quando comecei a escrever, passou lá fora um carro de som divulgando a "terça do milagre urgente" do auto intitulado "Apóstolo Valdomiro Santiago". 
 
 >"Você será impactado"
 
