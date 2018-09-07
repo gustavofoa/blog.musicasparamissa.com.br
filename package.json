@@ -11,7 +11,7 @@
     "url": "git+https://github.com/gustavofoa/blog.musicasparamissa.com.br.git"
   },
   "author": "Gustavo Furtado de Oliveira Alves",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gustavofoa/blog.musicasparamissa.com.br/issues"
   },
@@ -22,7 +22,6 @@
     "gulp-connect": "^5.5.0",
     "gulp-connect-multi": "^1.0.8",
     "gulp-shell": "^0.6.5",
-    "gulp-watch": "^5.0.1",
-    "npm": "^6.3.0"
+    "gulp-watch": "^5.0.1"
   }
 }
