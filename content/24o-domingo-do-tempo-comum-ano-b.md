@@ -69,7 +69,7 @@ aqui estão as nossas sugestões de músicas:
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMOSALMO 114 - ANDAREI NA PRESENÇA DE DEUS, JUNTO A ELE NA TERRA DOS VIVOS**](https://musicasparamissa.com.br/musica/salmo-114-andarei-na-presenca-de-deus-junto-a-ele-na-terra-dos-vivos/){:target=\_blank}
+[**>>Melodia para o SALMO 114 - ANDAREI NA PRESENÇA DE DEUS, JUNTO A ELE NA TERRA DOS VIVOS**](https://musicasparamissa.com.br/musica/salmo-114-andarei-na-presenca-de-deus-junto-a-ele-na-terra-dos-vivos/){:target=\_blank}
 
 Que Deus nos abençoe!
 
