@@ -1,4 +1,4 @@
 pelican==3.6
 ghp-import
-Markdown
+Markdown==2.6.11
 pelican-minify
