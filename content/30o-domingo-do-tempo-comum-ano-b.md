@@ -1,4 +1,4 @@
-title: 
+title: "Coragem, levanta-te, Jesus te chama!" 
 date: 2018-10-22
 author: Maikon Máximo
 category: Reflexões
