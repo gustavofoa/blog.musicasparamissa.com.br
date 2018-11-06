@@ -39,7 +39,7 @@ Neste evangelho ainda, ao ver uma Senhora dar tudo que tem em doação, Jesus mo
 
 ![Viuva doando tudo o que tem](/images/viuva-doando-tudo.jpg){:style="width: 100%; padding: 10px;"}
 
-Se for tocar/cantar nessa missa deste **32º domingo do tempo comum - Ano B**, dia 28/10/2018),
+Se for tocar/cantar nessa missa deste **32º domingo do tempo comum - Ano B**, dia 11/11/2018),
 aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa do 32º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/32o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
