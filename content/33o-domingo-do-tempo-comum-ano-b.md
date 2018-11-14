@@ -51,7 +51,7 @@ Porém para O Dono do tempo, este pode acontecer de forma completamente diferent
 
 A nós, cabe como instruído pela Igreja, irmos à missa, para lá, encontrar as multidões do Céu, unindo-nos ao reino de forma extraordinária, com fé no coração e com a busca pela razão através da sabedoria que o próprio Senhor do tempo nos deu.
 
-Se for tocar/cantar nessa missa deste **33º domingo do tempo comum - Ano B**, dia 11/11/2018),
+Se for tocar/cantar nessa missa deste **33º domingo do tempo comum - Ano B**, dia 18/11/2018),
 aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa do 33º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/33o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
