@@ -1,5 +1,5 @@
-title: 
-date: 2018-11-22
+title: Vigiai e Orai
+date: 2018-11-29
 author: Maikon Máximo
 category: Reflexões
 slug: 1o-domingo-do-advento-ano-c
