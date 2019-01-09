@@ -1,4 +1,4 @@
-title: Sejamos semelhança de Cristo!
+title: Sejamos semelhantes a Cristo!
 date: 2019-01-09
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
@@ -46,13 +46,13 @@ Pelo batismo nos tormamos discípulos, missionários, instrumentos, contato dire
 Então cumpramos a nossa missão de lutar contra o pecado e em favor da evangelização do mundo!
 
 Para quem for cantar/tocar nesta missa, aqui estão as sugestões de músicas que oferecemos no site
-[Músicas para Missa](http://www.musicasparamissa.com.br/):
+[Músicas para Missa](http://www.musicasparamissa.com.br/){:target=\_blank}:
 
-[**>> Sugestões de músicas para a missa da Festa do Batismo do Senhor - Ano C**](https://musicasparamissa.com.br/sugestoes-para/batismo-do-senhor-ano-c/)
+[**>> Sugestões de músicas para a missa da Festa do Batismo do Senhor - Ano C**](https://musicasparamissa.com.br/sugestoes-para/batismo-do-senhor-ano-c/){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que você pode acessar aqui:
 
-[**>> Melodia para o SALMO 28 (29) - QUE O SENHOR ABENÇOE, COM A PAZ, O SEU POVO!**](https://musicasparamissa.com.br/musica/salmo-28-29-que-o-senhor-abencoe/)
+[**>> Melodia para o SALMO 28 (29) - QUE O SENHOR ABENÇOE, COM A PAZ, O SEU POVO!**](https://musicasparamissa.com.br/musica/salmo-28-29-que-o-senhor-abencoe/){:target=\_blank}
 
 Que sejamos servidores fieis para levar o Evangelho à todas as criaturas!
 
