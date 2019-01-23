@@ -1,4 +1,4 @@
-﻿title: Pede à mãe que o Filho atende!
+﻿title: Jesus é a Palavra de Deus
 date: 2019-01-23
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
@@ -7,7 +7,7 @@ description: Reflexão sobre o 3º domingo do tempo comum - Ano C
 image: /images/jesus-palavra.jpg
 
 No próximo domingo, dia 27/01/2019, vamos celebrar o **3º Domingo do Tempo Comum - Ano C**
-e as leituras deste domingo nos trazem em ceu centro as Sagradas Escrituras.
+e as leituras deste domingo nos trazem em seu centro as Sagradas Escrituras.
 
 A primeira leitura se contextualiza em um momento difícil da história do povo de Deus,
 o retorno do exílio da Babilônia.
@@ -15,9 +15,9 @@ o retorno do exílio da Babilônia.
 Neste momento em que eles voltam para Jerusalém, a cidade é encontrada completamente destruída,
 completamente diferente daquela bela cidade que eles tiveram que deixar.
 
-Todo o povo chorava, pois toda aquela desolação tinha sido causada por eles mesmos ao transgrediram a lei, e eles tomaram consciência disso.
+Todo o povo chorava, pois toda aquela desolação tinha sido causada por eles mesmos ao transgredirem a lei, e eles tomaram consciência disso.
 
-E neste momento de começo da restauração o povo fixa suas fundações, não mais no templo, mas na Palavra de Deus.
+E neste momento de começo da restauração o povo fixa suas fundações, não mais no templo, mas na **Palavra de Deus**.
 
 É interessante notar que a Palavra de Deus é a primeira luz naquele ambiente de tristeza, choro e desolação. E junto com a palavra vem a esperança e a alegria.
 
@@ -38,9 +38,9 @@ de Deus para conosco.
 
 Aqui Jesus assume o papel de ungido, o enviado, o centro de toda a Sagrada Escritura.
 Ele é o mensageiro e a mensagem ao mesmo tempo.
-Aliás, Ele é a própria Palavra de Deus encarnada.
+Aliás, **Ele é a própria Palavra de Deus encarnada**.
 
-Toda a Palavra de Deus aponta para Jesus, n'Ele se cumpre os Oráculos dos Profetas e do Antigo Testamento.
+Toda a Palavra de Deus aponta para Jesus, n'Ele se cumprem os Oráculos dos Profetas e do Antigo Testamento.
 
 Evangelizar, levar a Palavra de Deus, o próprio Jesus, aos nossos irmãos é missão que a
 igreja deve cumprir com todas as suas forças, com todos os seus diversos dons!
