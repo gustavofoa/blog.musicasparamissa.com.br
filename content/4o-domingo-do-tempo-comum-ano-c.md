@@ -8,13 +8,13 @@ image:
 
 
 
-Vai tocar/cantar na missa deste **4º domingo do tempo comum - Ano C**? Aqui estão as nossas sugestões de músicas:
+Vai tocar/cantar na missa deste **4º domingo do tempo comum - Ano C** (03/02/2019)? Aqui estão as nossas sugestões de músicas:
 
 [>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano C](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-c)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[>>Melodia para o ]()
+[>>Melodia para o SALMO 70 (71) - MINHA BOCA ANUNCIARÁ TODOS OS DIAS, VOSSAS GRAÇAS INCONTÁVEIS, Ó SENHOR.](https://musicasparamissa.com.br/musica/salmo-70-71-minha-boca-anunciara-todos-os-dias/)
 
 Que Deus nos abençoe!
 
