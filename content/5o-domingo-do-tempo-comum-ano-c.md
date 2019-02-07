@@ -44,7 +44,7 @@ Peçamos a Deus a **Verdadeira Contrição** para estarmos aptos a devolver a El
 
 Segundo a [Wikipedia](https://pt.wikipedia.org/wiki/Contri%C3%A7%C3%A3o){:target=\_blank}
 "_Contrição é o arrependimento sincero e completo dos pecados cometidos._"
-E este é o primeiro passo da conversão.
+e este é o primeiro passo da conversão.
 
 Deus está de braços abertos esperando que voltemos para Ele, para assim como ao Filho Pródigo,
 nos encher de bênçaos, pela Sua misericórdia, pois estávamos mortos.
