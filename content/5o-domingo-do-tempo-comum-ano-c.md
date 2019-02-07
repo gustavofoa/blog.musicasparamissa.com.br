@@ -1,5 +1,5 @@
-title: 
-date: 2019-02-06
+title: Senhor, eu não sou dígno!
+date: 2019-02-07
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-do-tempo-comum-ano-c
