@@ -11,7 +11,7 @@ Desemprego, problemas financeiros, vícios, doenças, perdas, catástrofes, inju
 
 Muitas vezes pensamos: 'Alguns com tanto, outros com tão pouco...'
 
-Como é possível que Deus permita que algumas sejam tão ricas,
+Como é possível que Deus permita que algumas pessoas sejam tão ricas,
 enquanto bilhões vivem na pobreza, passam fome...?
 
 Mas a verdade é que devemos fixar nosso olhar na **vida eterna**, não neste mundo.
@@ -28,7 +28,7 @@ Não devemos esperar recompensas aqui neste mundo, mas na vida eterna.
 
 Se passamos fome neste momento, bem-aventurados somos nós, pois seremos saciados à mesa com Jesus.
 Se choramos pelas situações difíceis da vida,
-que graça será quando recebermos o consolo do abraço de Jesus no céu.
+que graça será quando recebermos o consolo do abraço de Jesus no céu e pudermos dar rizadas com Ele de tanta alegria.
 
 ![Vida eterna](/images/vida-eterna.jpg){:style="width:100%;padding:10px;"}
 
