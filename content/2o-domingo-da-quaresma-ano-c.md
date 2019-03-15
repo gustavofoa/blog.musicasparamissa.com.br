@@ -24,7 +24,7 @@ Pedro, Tiago e João tiveram a experiência de ver Jesus transfigurado e o texto
 Meu irmão, minha irmã, sigamos firmes nesta quaresma, por mais difícil que seja, por mais que pareça que só você está vivendo este tempo de Penitência, sigamos o exemplo dos Santos, nossos "irmãos mais velhos", e carreguemos a nossa cruz em direção a vida eterna.
 
 
-Vai tocar/cantar na missa deste **2º domingo da quaresma - Ano C** (07/03/2019)? Aqui estão as nossas sugestões de músicas:
+Vai tocar/cantar na missa deste **2º domingo da quaresma - Ano C** (17/03/2019)? Aqui estão as nossas sugestões de músicas:
 
 [>>Sugestões de música para a missa do 2º domingo da quaresma - Ano C](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-c){:target=\_blank}
 
