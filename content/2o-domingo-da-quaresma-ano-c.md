@@ -26,11 +26,11 @@ Meu irmão, minha irmã, sigamos firmes nesta quaresma, por mais difícil que se
 
 Vai tocar/cantar na missa deste **2º domingo da quaresma - Ano C** (17/03/2019)? Aqui estão as nossas sugestões de músicas:
 
-[>>Sugestões de música para a missa do 2º domingo da quaresma - Ano C](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-c){:target=\_blank}
+[**>>Sugestões de música para a missa do 2º domingo da quaresma - Ano C**](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-c){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[>>Melodia para o SALMO 26 - O SENHOR É MINHA LUZ E SALVAÇÃO.](https://musicasparamissa.com.br/musica/salmo-26-o-senhor-e-minha-luz-e-salvacao/){:target=\_blank}
+[**>>Melodia para o SALMO 26 - O SENHOR É MINHA LUZ E SALVAÇÃO.**](https://musicasparamissa.com.br/musica/salmo-26-o-senhor-e-minha-luz-e-salvacao/){:target=\_blank}
 
 Que Deus nos abençoe!
 
