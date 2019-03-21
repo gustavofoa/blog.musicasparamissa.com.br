@@ -14,13 +14,15 @@ nos apoiando n'Ele.
 Deus ouviu o clamor de seu povo que era escravo no Egito e os libertou.
 
 Mas é importante notar que Deus age em defesa daqueles que se voltam inteiramente para Ele, daqueles que confiam a vida a Ele.
-Mas também é importante perceber que a misericórdia Deus deve ser acompanhada de um profundo compromisso de conversão.
+Mas também é importante perceber que a misericórdia de Deus deve ser acompanhada de um profundo compromisso de conversão de nossa parte.
 
-Confessionário não é pastelaria onde você senta e diz: "O de sempre!"
+Confessionário não é pastelaria onde você senta e diz: "Padre, o de sempre!"
 
-Confissão não é um **sacramento** por acaso! A confissão deve ser acompanhada de compromisso.
+Confissão é um **sacramento** e não é por acaso! A confissão deve ser acompanhada de compromisso.
 
-Muitos dos povo hebreu que Deus libertou, não perseveraram na graça e morreram no deserto, como vemos na segunda leitura.
+![Papa Francisco no confessionário](/images/confessionario-papa-francisco.jpg){:style="width:100%;padding:10px;"}
+
+Muitos do povo hebreu que Deus libertou, não perseveraram na graça e morreram no deserto, como vemos na segunda leitura.
 
 Devemos constantemente nos entregarmos a Deus, confiar a nossa vida à Sua providência, estar sempre em oração.
 Devemos estar constantemente _conectados_ a Deus. Pois quando nos _desconectamos_ de Deus, ficamos vulneráveis ao inimigo.
@@ -34,8 +36,6 @@ O próprio Jesus, que é a cabeça da igreja, esta intercedendo por nós como na
 Ele está nos limpando, podando, adubando para não sermos cortados e jogados fora.
 Mas a misericórdia só gerará frutos se firmarmos um verdadeiro compromisso de conversão, se criarmos uma _conexão forte_ com Deus
 para nos mantermos verdadeiramente livres do pecado.
-
-![Papa Francisco no confessionário](/images/confessionario-papa-francisco.jpg){:style="width:100%;padding:10px;"}
 
 Vai tocar/cantar na missa deste **3º domingo da quaresma - Ano C** (24/03/2019)? Aqui estão as nossas sugestões de músicas:
 
