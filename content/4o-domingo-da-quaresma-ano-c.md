@@ -6,7 +6,7 @@ slug: 4o-domingo-da-quaresma-ano-c
 description: Reflexão sobre o 4º domingo da quaresma - Ano C
 image: /images/filho-prodigo.png
 
-A liturgia do próximo domingo (**3º domingo da quaresma - Ano C** - 31/03/2019) nos traz a famosa passagem do **filho pródigo** no evangelho,
+A liturgia do próximo domingo (**4º domingo da quaresma - Ano C** - 31/03/2019) nos traz a famosa passagem do **filho pródigo** no evangelho,
 em uma liturgia da palavra que destaca a **celebração** de Deus ao receber um pecador arrependido.
 
 A conversão de um pecador de ser muito celebrada. Não sejamos como o irmão do filho prógico, que não conseguiu enxergar o amor de Deus
