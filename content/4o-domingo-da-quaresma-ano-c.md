@@ -1,4 +1,4 @@
-title: 
+title: Devemos transformar o nosso coração
 date: 2019-03-28
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
