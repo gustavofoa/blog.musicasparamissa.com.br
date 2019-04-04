@@ -19,9 +19,9 @@ Assim nós também devemos nos libertar dos nossos erros do passado.
 
 Somos como os presos que têm aquelas grandes bolas de ferro amarradas nos pés.
 Não conseguiremos nos entregar inteiramente à Jesus, se ainda estivermos essa corrente atada aos nossos pés.
-Nós temos a chave da corrente! Destranque! Remova esse elo com o pecado cometido!
+Nós temos a chave da corrente! Destranque-a! Remova esse elo com o pecado cometido!
 
-![/images/bola-de-ferro.jpg](Bola de ferro de preso){:style="width:100%;padding:10px;"}
+![Bola de ferro de preso](/images/bola-de-ferro.jpg){:style="width:100%;padding:10px;"}
 
 No evangelho Jesus nos mostra que o amor é o que precisamos para cortarmos a ligação com os erros do passado.
 
