@@ -31,7 +31,7 @@ Muito menos acusar um irmão por um erro superado!
 O amor é capaz de apagar a culpa.
 
 Precisamos estar libertos de todo e qualquer tipo de elo com o pecado, mesmo que o do passado,
-para fazer como São Paulo:
+para fazermos como São Paulo:
 
 > Corro direto para a meta, 
 rumo ao prêmio, 
