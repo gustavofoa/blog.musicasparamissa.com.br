@@ -52,7 +52,7 @@ Também temos duas sugestões de melodia para o salmo.
 
 **[>>Sugestão 1: SALMO 103 (104) - ENVIAI O VOSSO ESPÍRITO SENHOR, E DA TERRA TODA A FACE RENOVAI](https://musicasparamissa.com.br/musica/salmo-103-104-enviai-o-vosso-espirito/){:target=\_blank}**
 
-**[>>Sugestão 2: SALMO 103 (104) - ENVIAI O VOSSO ESPÍRITO SENHOR, E DA TERRA TODA A FACE RENOVAI](https://musicasparamissa.com.br/musica/salmo-103-104-enviai-o-vosso/{:target=\_blank}**
+**[>>Sugestão 2: SALMO 103 (104) - ENVIAI O VOSSO ESPÍRITO SENHOR, E DA TERRA TODA A FACE RENOVAI](https://musicasparamissa.com.br/musica/salmo-103-104-enviai-o-vosso/){:target=\_blank}**
 
 Que você aplique os dons recebidos do **Espírito Santo** onde você estiver.
 
