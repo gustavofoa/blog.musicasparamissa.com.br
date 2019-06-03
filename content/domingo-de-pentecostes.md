@@ -1,5 +1,5 @@
 ﻿title: A paz esteja convosco!
-date: 2018-05-15
+date: 2019-06-03
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: domingo-de-pentecostes
@@ -28,7 +28,7 @@ E hoje quero te convidar a acolher os dons que VOCÊ recebeu.
 Como podemos refletir na segunda leitura desta liturgia, nós formamos uma só igreja.
 A cada um de nós é dada uma manifestação do Espírito Santo em favor de um bem comum.
 
-**Nós fomos batizados num único Espírito para formarmos um único corpo.**
+>>**Nós fomos batizados num único Espírito para formarmos um único corpo.** - (1 Cor 12,13)
 
 Não sei os dons que você recebeu. Cantar, tocar algum instrumento,
 falar em línguas (de fato, não em histeria coletiva), ciência, sabedoria, etc.
@@ -40,13 +40,19 @@ Você não faz ideia do quanto a sua colaboração é importante.
 
 O **Músicas para Missa** é apenas um pequeno exemplo do que dons colocados a serviço pode produzir.
 
-E como **São João Paulo II** disse aos jovens: **Não tenha medo!**
+E como **São João Paulo II** disse aos jovens: **Não tenham medo!**
 
 > "Ide por todo o mundo, pregai o evangelho a toda criatura." - Mc 16, 15
 
 Abaixo você pode conferir nossas sugestões de músicas para o a missa deste Domingo de Pentecostes.
 
-**[>>Sugestões de música para a missa de Pentecostes](http://musicasparamissa.com.br/sugestoes-para/domingo-de-pentecostes)**
+**[>>Sugestões de música para a missa de Pentecostes](https://musicasparamissa.com.br/sugestoes-para/domingo-de-pentecostes){:target=\_blank}**
+
+Também temos duas sugestões de melodia para o salmo.
+
+**[>>Sugestão 1: SALMO 103 (104) - ENVIAI O VOSSO ESPÍRITO SENHOR, E DA TERRA TODA A FACE RENOVAI](https://musicasparamissa.com.br/musica/salmo-103-104-enviai-o-vosso-espirito/){:target=\_blank}**
+
+**[>>Sugestão 2: SALMO 103 (104) - ENVIAI O VOSSO ESPÍRITO SENHOR, E DA TERRA TODA A FACE RENOVAI](https://musicasparamissa.com.br/musica/salmo-103-104-enviai-o-vosso/){:target=\_blank}**
 
 Que você aplique os dons recebidos do **Espírito Santo** onde você estiver.
 
