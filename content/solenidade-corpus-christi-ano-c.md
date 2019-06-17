@@ -17,6 +17,8 @@ Conta-se também que, na Italia, um padre teria duvidado da presença real de Cr
 Então, enquanto este celebrava uma missa na cripta de Santa Cristina (Bolsena, Italia),
 aconteceu um milagre eucarístico em que cairam gotas de sangue da hóstia consagrada, logo após a consagração.
 
+![Milagre Eucarístico de Bolsena - Italia](/images/MilagreEucaristicoBolsena.jpg){:width=100%}
+
 O papa da época (Urbano IV) residia em Orvieto, cidade próxima de Bolsena,
 e ordenou ao Bispo que levasse as relíquias do milagre de Bolsena a Orvieto.
 O Bisto Giacomo cumpriu a ordem levando as relíquias em procissão.
@@ -28,8 +30,6 @@ Assim, em 1264, o próprio Papa Urgano IV aprovou a Bula "_Transiturus de mundo_
 E quem ficou encarregado de compor o Ofício da celebração foi ninguém menos que Santo Tomás de Aquino.
 
 Então, em 1317, o Papa João XXII publicou na Constituição Clementina o dever de se levar a Eucaristia em procissão pelas vias públicas.
-
-![Presença de Jesus na Eucaristia](/images/MilagreEucaristicoBolsena.jpg){:width=100%}
 
 A procissão de Corpus Christi é a única vez no ano que o próprio Senhor saia as ruas para abençoar as pessoas, a cidade, as casas, as famílias.
 É a procissão mais importante do ano, por isso todo católico deve participar dessa procissão.
