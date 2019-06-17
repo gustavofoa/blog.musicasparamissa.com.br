@@ -1,4 +1,4 @@
-﻿title: O Senhor sai ao nosso encontro!
+﻿title: A origem da festa de Corpus Christi
 date: 2019-06-17
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
