@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-corpus-christi-ano-c
 description: Reflexão sobre a Solenidade do Santíssimo Corpo e Sangue de Cristo - Corpus Christi - Ano C
-image: /images/sacrificio-missa.jpg
+image: /images/MilagreEucaristicoBolsena.jpg
 
 Na próxima quinta-feira a igreja celebrará a **Solenidade do Santíssimo Corpo e Sangue de Cristo**,
 também conhecida como **_Corpus Christi_**.
@@ -29,7 +29,7 @@ E quem ficou encarregado de compor o Ofício da celebração foi ninguém menos 
 
 Então, em 1317, o Papa João XXII publicou na Constituição Clementina o dever de se levar a Eucaristia em procissão pelas vias públicas.
 
-![Presença de Jesus na Eucaristia](/images/sacrificio-missa.jpg){:width=100%}
+![Presença de Jesus na Eucaristia](/images/MilagreEucaristicoBolsena.jpg){:width=100%}
 
 A procissão de Corpus Christi é a única vez no ano que o próprio Senhor saia as ruas para abençoar as pessoas, a cidade, as casas, as famílias.
 É a procissão mais importante do ano, por isso todo católico deve participar dessa procissão.
