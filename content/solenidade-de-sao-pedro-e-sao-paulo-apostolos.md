@@ -38,11 +38,13 @@ Aqui estão as sugestões de músicas para o próximo domingo:
 
 [**>>Sugestões de música para a missa da Solenidade de São Pedro e São Paulo, Apóstolos**](https://musicasparamissa.com.br/sugestoes-para/solenidade-de-sao-pedro-e-sao-paulo-apostolos/)
 
-Temos uma sugestão de melodia para o Salmo deste domingo:
+Temos duas sugestões de melodias para o Salmo deste domingo:
 
-[**>>Sugestão de Melodia para o Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS**](https://musicasparamissa.com.br/musica/salmo-33/)
+[**>>Sugestão 1: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS**](https://musicasparamissa.com.br/musica/salmo-33/)
 
-Lembrando que você pode acessar o nosso [site](http://musicasparamissa.com.br/) 
+[**>>Sugestão 2: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores/)
+
+Lembrando que você pode acessar o nosso [site](https://musicasparamissa.com.br/) 
 a qualquer momento e escolher o dia no calendário para ver as nossas sugestões de música.
 
 Uma abençoada semana para você e sua família.
