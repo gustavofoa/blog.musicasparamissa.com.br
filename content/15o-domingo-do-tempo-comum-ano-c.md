@@ -1,10 +1,10 @@
 title: Vivamos o Evangelho dentro e fora da igreja
-date: 2019-07-08
+date: 2019-07-09
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 15o-domingo-do-tempo-comum-ano-c
 description: Reflexão sobre o 15º domingo do tempo comum - Ano C
-image: 
+image: /images/bomsamaritano.jpg
 
 A vida cristã exige que façamos escolhas a todo momento.
 E a escolha do cristão deve ser sempre em concordância com os mandamentos de Deus.
@@ -14,7 +14,9 @@ nos mostra que os mandamentos que Deus nos deu está sempre ao nosso alcance.
 
 Ao tomarmos as nossas decisões, temos sempre a opção de decidir pela vivência do Evangelho.
 
-Por exemplo, quando vemos alguém em situação vulnerável na rua, podemos parar e prestar ajuda de alguma forma, ou podemos passar pelo outro lado da rua evitando ter qualquer tipo de contato com ela.
+Por exemplo, quando vemos alguém em situação vulnerável na rua,
+podemos parar e prestar ajuda de alguma forma, ou podemos passar
+pelo outro lado da rua evitando ter qualquer tipo de contato com ela.
 
 O Evangelho deste domingo expõe justamente esta decisão na parábola do bom samaritano.
 
@@ -24,7 +26,7 @@ passaram pelo outro lado ao ver o homem que precisava de ajuda,
 uma pessoa considerada indígna (da Samaria) teve misericórdia
 e prestou a ajuda que o homem precisava.
 
-![-](-){:style="width: 100%; padding: 10px;"}
+![O bom samaritano](/images/bomsamaritano.jpg){:style="width: 100%; padding: 10px;"}
 
 Perceba que o Evangelho está ao alcance de todos,
 e cada um de nós tem a opção de colocá-lo em prática
