@@ -18,12 +18,12 @@ Por exemplo, quando vemos alguém em situação vulnerável na rua,
 podemos parar e prestar ajuda de alguma forma, ou podemos passar
 pelo outro lado da rua evitando ter qualquer tipo de contato com ela.
 
-O Evangelho deste domingo expõe justamente esta decisão na parábola do bom samaritano.
+O Evangelho deste domingo expõe justamente esta decisão na **parábola do bom samaritano**.
 
 Enquanto um sacerdote e outra pessoa da tribo de Levi
 (tribo responsável pelo serviço sagrado do templo)
 passaram pelo outro lado ao ver o homem que precisava de ajuda,
-uma pessoa considerada indígna (da Samaria) teve misericórdia
+um homem que não era judeu (era da Samaria), considerado indígno teve misericórdia
 e prestou a ajuda que o homem precisava.
 
 ![O bom samaritano](/images/bomsamaritano.jpg){:style="width: 100%; padding: 10px;"}
