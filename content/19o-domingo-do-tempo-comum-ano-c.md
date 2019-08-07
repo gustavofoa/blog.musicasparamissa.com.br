@@ -20,7 +20,7 @@ Já na oração de fé, nós estamos entregando ao Senhor o nosso futuro, agrade
 
 E logo no inicio da segunda leitura, São Paulo nos confirma isso:
 
-> _"1. A fé é um modo de já possuir o que ainda se espera, 
+> _"A fé é um modo de já possuir o que ainda se espera, 
 a convicção acerca de realidades que não se vêem."_ (Hb 11,1)
 
 A fé aponta para o tempo futuro. E mantendo a vigilância da fé, o futuro é a vida eterna.
