@@ -1,12 +1,14 @@
 title: Maria e a Arca da Aliança
-date: 2018-08-14
+date: 2019-08-12
 author: Maikon Máximo
 category: Reflexões
 slug: assuncao-de-nossa-senhora
 description: Reflexão sobre a ASSUNÇÃO DE NOSSA SENHORA
 image: https://blog.musicasparamissa.com.br/images/assuncao-de-nossa-senhora.jpg
 
-Maria foi um instrumento para que Jesus fosse gerado. Por isso foi por meio da Virgem Maria que nos vieram todas as graças. Graças de Deus.
+Maria foi um instrumento para que Jesus fosse gerado.
+Por isso foi por meio da Virgem Maria que nos vieram todas as graças.
+Graças de Deus.
 Pois quem é meio, é mediador.
 Maria é mediadora por que Deus quis vir a nós por meio dela.
 
@@ -21,12 +23,15 @@ e sobre a cabeça uma coroa de doze estrelas..."
 
 !["Assunção de Nossa Senhora"](https://blog.musicasparamissa.com.br/images/assuncao-de-nossa-senhora.jpg){:style="width: 100%; padding: 10px;"}
 
-A visão de João em Apocalipse, mostra a Arca da Aliança e logo após, Nossa Senhora. Tanto que em Ap12,2 o texto nos expecifica. "Estava Grávida".
+A visão de João em Apocalipse, mostra a Arca da Aliança e logo após, Nossa Senhora.
+Tanto que em _Ap 12,2_ o texto nos expecifica. "Estava Grávida".
 De quem? Fácilmente podemos perceber que de Cristo.
 
 Mas, o que a Arca da Nova Aliança tem a ver com Nossa Senhora?
 Pois prepare-se!
-Nossa jornada será reveladora e incrível! Porém não se engane. Eu não sou ninguém aqui, apenas um mero transmissor da incrível sabedoria dos Pais da Igreja, que inclusive já sabiam desta relação muito antes de nós podermos usar energia elétrica.
+Nossa jornada será reveladora e incrível! Porém não se engane.
+Eu não sou ninguém aqui, apenas um mero transmissor da incrível sabedoria dos Pais da Igreja,
+que inclusive já sabiam desta relação muito antes de nós podermos usar energia elétrica.
 
 Maria é importantíssima e caríssima para Deus. E é por isso que na Ladainha de Nossa Senhora, ela recebe inúmeros títulos. Adjetivos estes, que fazem justiça a sua imensurável colaboração com o plano de Salvação.
 
@@ -47,7 +52,8 @@ As Tábuas da Lei, prefigurando o Verbo encarnado, que é o próprio Cristo.
 E a vara de Aarão, irmão de Moisés, que foi o primeiro Sumo Sacerdote, prefigurado no próprio Jesus, que, ao se oferecer na Eucaristia e renovando seu sacrifício como vítima e sacerdote em toda missa, torna-se o eterno Sumo Sacerdote.
 Ou seja, estas três coisas contidas no interior da Arca, prefiguravam o próprio Cristo, que esteve no ventre de sua Mãe, María.
 
-Existe uma relação muito grande entre a Arca e Nossa Senhora, Além disso, quando a Arca desapareceu, Deus tem uma promessa para Jeremias.
+Existe uma relação muito grande entre a Arca e Nossa Senhora.
+Além disso, quando a Arca desapareceu, Deus tem uma promessa para Jeremias.
 O desaparecimento da Arca é narrado no livro de II Macabeus, onde o profeta Jeremias mandou que levassem a Arca até o monte Nebo para ali, esconde-la em uma caverna (IIMac 2).
 Quando chegou ao mesmo monte que subiu Moisés, descobriu uma caverna, na qual mandou depositar a arca, o tabernáculo e o altar dos perfumes; em seguida, tapou a entrada. Alguns daqueles que o haviam acompanhado voltaram para marcar o caminho com sinais, mas não puderam achá-lo. Quando Jeremias soube, repreendeu-os e disse-lhes que esse lugar ficaria desconhecido, até que Deus reunisse seu povo e usasse com ele de misericórdia.
 
@@ -73,7 +79,7 @@ Enfim notamos que, Maria e a Arca estavam da mesma forma indo para a região mon
 
 Honrar Maria é entender que ela é de fato um sinal visível da presença de Deus.
 
-Se for tocar/cantar na missa da **SOLENIDADE DA ASSUNÇÃO DE NOSSA SENHORA**, aqui estão as nossas sugestões de músicas:
+Se você for tocar/cantar a missa da **SOLENIDADE DA ASSUNÇÃO DE NOSSA SENHORA**, aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa de SOLENIDADE DA ASSUNÇÃO DE NOSSA SENHORA**](https://musicasparamissa.com.br/sugestoes-para/assuncao-de-nossa-senhora/){:target=\_blank}
 
