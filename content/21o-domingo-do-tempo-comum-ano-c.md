@@ -7,7 +7,7 @@ description: Reflexão sobre o 21º domingo do tempo comum - Ano C
 image: /images/morte-de-cristo.jpg
 
 As leituras da missa do próximo domingo dia 25/08/2019 (21º domingo do tempo comum - Ano C)
-nos ensina a seguir os ensinamentos do Pai para alcançarmos a salvação.
+nos ensina a seguir os ensinamentos de Deus para alcançarmos a salvação.
 
 Muitos podem pensar que só por ser católico, ir à missa, rezar o terço, etc. já está com a salvação garantida.
 Mas não é bem assim ...
