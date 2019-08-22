@@ -44,7 +44,7 @@ E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confir
 [**>>Melodia para o SALMO 116 (117) - PROCLAMAI O EVANGELHO A TODA CRIATURA!**](https://musicasparamissa.com.br/musica/salmo-116-117-proclamai-o-evangelho-a-toda-criatura/){:target=\_blank}
 
 Lembrando que quem é usuário da [plataforma Minhas Músicas para Missa](https://minhas.musicasparamissa.com.br/){:target=\_blank}
-pode fazer download do mp3 do audio e do playback desta melodia de salmo, além de montar o repertório da missa e várias outras funcionalidades.
+pode fazer download do mp3 do audio e do playback desta melodia de salmo, além de montar o repertório da missa e ter acesso a várias outras funcionalidades.
 
 A paz de Cristo!
 
