@@ -35,9 +35,9 @@ mesmo em situações difíceis, mas para dar esmola não usamos a criatividade?
 A vida eterna é infinitamente melhor do que ficar milionário, no entanto a nossa motivação geralmente é inversa.
 
 Mas para conseguir a motivação necessária pela coisa certa é importante ter fé.
-Sem fé não conseguimos enchergar o valor infinito da nossa salvação em comparação com os bens materiais deste mundo.
+Sem fé não conseguimos enxergar o valor infinito da nossa salvação em comparação com os bens materiais deste mundo.
 
-Peçamos a Deus que envie o seu Espírito Santo e nos dê fé para conseguirmos enchergar o essencial para a nossa vida,
+Peçamos a Deus que envie o seu Espírito Santo e nos dê fé para conseguirmos enxergar o essencial para a nossa vida,
 isto é, alcançar a vida eterna, e a criatividade e força para alcançá-la.
 
 Pedir a Deus é importante, mas nós também podemos fazer a nossa parte e a igreja nos ensina como aprender a valorizar mais a vida eterna: Jejum e Penitência.
