@@ -26,7 +26,7 @@ Todo domingo nós professamos a nossa fé e assumimos, perante a todos, que crem
 Se você for tocar/cantar nessa missa deste **26º domingo do tempo comum - Ano C**, dia (29/09/2019),
 aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 26º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
+[**>>Sugestões de música para a missa do 26º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/26o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
