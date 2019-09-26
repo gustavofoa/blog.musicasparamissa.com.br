@@ -46,7 +46,7 @@ Pedir a Deus é importante, mas nós também podemos fazer a nossa parte e a igr
 Se for tocar/cantar nessa missa deste **25º domingo do tempo comum - Ano C**, dia (22/09/2019),
 aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 24º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
+[**>>Sugestões de música para a missa do 25º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
