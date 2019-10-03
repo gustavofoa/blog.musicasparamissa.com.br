@@ -29,7 +29,7 @@ Se for tocar/cantar a missa deste 27º Domingo do Tempo Comum, aqui estão as no
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 94 - NÃO FECHEIS O CORAÇÃO, OUVI HOJE A VOZ DE DEUS!**](https://musicasparamissa.com.br/musica/salmo-94-nao-fecheis-o-coracao-ouvi-hoje-a-voz-de-deus/){:target=\_blank}
+[**>>Melodia para o SALMO 94 (95) - NÃO FECHEIS O CORAÇÃO, OUVI VOSSO DEUS!**](https://musicasparamissa.com.br/musica/salmo-94-95-nao-fecheis-o-coracao-ouvi-vosso-deus/){:target=\_blank}
 
 Que Deus abençoe a sua semana e que o Espírito Santo te dê forças para levar a Esperança aos corações sofredores.
 
