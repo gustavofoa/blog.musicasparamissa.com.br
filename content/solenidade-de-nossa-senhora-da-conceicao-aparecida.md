@@ -17,7 +17,7 @@ Maria é a Mulher do Apocalípse que luta em nosso favor contra a serpente.
 
 Ela é a Mulher que nos ensina a obediência em fazer tudo o que o Seu Filho nos disser.
 
-![Nossa Senhora Aparecida](/images/diasLiturgicos/imagem-de-nossa-senhora-aparecida.jpg){:width=100%}
+![Nossa Senhora Aparecida](/images/imagem-de-nossa-senhora-aparecida.jpg){:width=100%}
 
 Obediência que inclui atender ao preceito que Nosso Senhor Jesus Cristo nos deixou enquanto estava pregado na cruz antes de morrer: <strong>Acolher Maria como nossa Mãe!</strong>
 
