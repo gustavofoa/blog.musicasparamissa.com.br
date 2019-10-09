@@ -6,7 +6,7 @@ slug: solenidade-de-nossa-senhora-da-conceicao-aparecida
 description: Reflexão sobre a SOLENIDADE DE NOSSA SENHORA DA CONCEIÇÃO APARECIDA
 image: /images/imagem-de-nossa-senhora-aparecida.jpg
 
-> !Viva a Mãe de Deus e nossa, sem pecado concebida! Salve a Virgem Imaculada, a Senhora Aparecida!"
+> Viva a Mãe de Deus e nossa, sem pecado concebida! Salve a Virgem Imaculada, a Senhora Aparecida!"
 
 Essa música bem expressa o sentimento do povo brasileiro pela Mãe de Deus,
 que "apareceu" na história do nosso país como sinal de Seu amor materno.
