@@ -11,9 +11,9 @@ No próximo Domingo (29° Domingo do Tempo Comum - 20/10/2019) o Evangelho nos f
 
 Se nós amarmos a Deus e rezarmos sempre, com fé, Ele não nos fará justiça?
 
-![A viúva e o Juíz injusto](/images/a-viuva-e-o-juiz.jpg){:style="width: 100%; padding: 10px;"}
-
 Jesus nos ensina que Deus não tarda em atender aos que têm fé. Também é importante lembrar que Deus, como bom Pai, sabe distinguir o que é bom do que é ruim, os pedidos certos dos errados. Portanto, não tenhamos medo de pedir. E se não sabemos o que pedir, peçamos ao Espírito Santo para pedir à Deus por nós.
+
+![A viúva e o Juíz injusto](/images/a-viuva-e-o-juiz.jpg){:style="width: 80%; padding: 10px;"}
 
 Acalme o seu coração, feche-se no seu quarto e converce com Deus, sozinho, só você e Ele. Deus te conhece e te ama. O que está deixando o seu coração inquieto? Entregue a Ele! Peça, com fé, que Deus te fará justiça!
 
