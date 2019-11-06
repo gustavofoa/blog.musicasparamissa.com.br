@@ -39,6 +39,7 @@ height: 100%;
 }
 </style>
 <div class="video-container1"><iframe width="853" height="480" src="https://www.youtube.com/embed/THsR-VxFzwY" frameborder="0" allowfullscreen></iframe></div>
+<br />
 
 Para a SOLENIDADE DA COMEMORAÇÃO DE TODOS FIÉIS DEFUNTOS - FINADOS são indicadas 3 liturgias com leituras, salmos e Evangelhos diferentes.
 
