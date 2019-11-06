@@ -1,4 +1,4 @@
-title: Deus é o Deus dos vivos.
+title: Vida eterna...
 date: 2019-11-06
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
@@ -8,7 +8,7 @@ image: /images/vida-eterna.jpg
 
 Domingo passado nós comemoramos a Solenidade de todos os santos.
 A nossa fé nos faz acreditar que as pessoas que morrem em estado de graça
-goza da verdadeira vida, a vida eterna.
+gozam da verdadeira vida, a vida eterna.
 
 E a liturgia do próximo domingo (10/11/2019) também fala sobre a vida eterna
 e a esperança da ressureição.
@@ -27,7 +27,10 @@ Primeiro, Jesus garante a ressureição para os que forem julgados dignos.
 Entretanto, nós não somos capazes de imaginar como é de fato a vida eterna.
 Não podemos usar nossos sentidos limitados deste mundo para tentar compreendê-la.
 
-A vida eterna será total, na presença de Deus.
+A vida eterna não será baseado na nossa experiência terrena,
+nem estará sujeito às leis naturais ou às leis humanas (como mostra o evangelho).
+
+A vida eterna será total, na presença de Deus. **O Deus da vida!**
 Mas para nós, enquanto vivermos aqui neste mundo, ela será sempre um mistério.
 
 A única coisa que Jesus nos garantiu é que **a vida eterna é uma certeza para quem for digno dela**.
