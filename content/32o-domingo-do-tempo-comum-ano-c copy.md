@@ -1,0 +1,70 @@
+title: A construção do novo mundo
+date: 2019-11-12
+author: Gustavo Furtado de Oliveira Alves
+category: Reflexões
+slug: 33o-domingo-do-tempo-comum-ano-c
+description: Reflexão sobre o 33º domingo do tempo comum - Ano C
+image: /images/padre-pio-rosario.jpg
+
+É fato que o mundo muda a todo instante.
+Seja mudanças naturais, ou mudanças provocadas pelos seres humanos.
+
+O mundo tecnológico em que vivemos hoje era inconcebível na época de nossos avós.
+
+Internet? Computador? Celular? Aliás, telefone? A pouco tempo atrás, nada disso existia.
+
+E ainda estamos falando de um minúsculo lápso de tempo na história.
+
+A realidade é que um tempo acaba, outro começa. Uma era acaba, outra começa. Um "mundo" acaba, outro começa.
+
+E muita gente se preocupa com o futuro, com o mundo novo que há de vir,
+se sentindo sem ação.
+
+Teremos guerra, doenças, fome, tribulação?
+
+Na realidade esta "pré-ocupação" se tornou uma doença muito comum deste século: a "asiedade".
+
+![Padre Pio rezando o Rosário](/images/padre-pio-rosario.jpg){:style="width: 100%; padding: 10px;"}
+
+A liturgia da palavra do próximo domingo (17/11/2019) nos convida
+a trabalhar na construção de um novo mundo, o mundo do reinado de Deus.
+
+E quando digo trabalhar, não é um pequeno esforço ...
+
+Na segunda leitura São Paulo nos convida seguir seu exemplo e "_trabalhar com esforço e cansaço, de dia e de noite_".
+
+Talvez você já tenha entendido onde quero chegar com essa reflexão:
+
+**O novo tempo, o reino de Deus é construído por nós! Aqui! Agora!**
+
+O mundo está sempre mudando, mas nós conseguimos atuar no mundo para configurar os novos tempos ao reino de Deus.
+
+Jesus nos diz no Evangelho:
+
+>17. Todos vos odiarão por causa do meu nome.<br />
+>18. Mas vós não perdereis<br />
+>um só fio de cabelo da vossa cabeça.<br />
+>19. É permanecendo firmes que ireis ganhar a vida!
+
+Em meio à esse trabalho e luta na construção do novo mundo, seremos atacados. Com certeza!
+
+Quantas vezes o fato de sermos cristãos e servirmos a Deus através da música ou de alguma outra pastoral, incomoda as pessoas? Quantas vezes somos odiamos por isso?
+
+Jesus nos pede para sermos firmes. É uma grande batalha, mas com Deus tudo é possível!
+
+Querido(a) irmão(ã), a força para vencer a guerra e construir um novo mundo está na oração.
+Então pegue o seu terço (_la arma como dizia Padre Pio_),
+prepare o seu joelho e vamos pra batalha!
+
+Se você for tocar/cantar a missa deste **33º domingo do tempo comum - Ano C**, dia 17/11/2019),
+aqui estão as nossas sugestões de músicas:
+
+[**>>Sugestões de música para a missa do 33º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/33o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
+
+E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+
+[**>>Melodia para o SALMO 97 (98) - O SENHOR VIRÁ JULGAR A TERRA INTEIRA; COM JUSTIÇA JULGARÁ.**](https://musicasparamissa.com.br/musica/salmo-97-o-senhor-vira-julgar-a-terra-inteira-com-justica-julgara/){:target=\_blank}
+
+Que Deus nos abençoe!
+
+Gustavo
