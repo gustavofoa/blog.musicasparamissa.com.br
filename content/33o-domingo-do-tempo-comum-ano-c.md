@@ -24,8 +24,6 @@ Teremos guerra, doenças, fome, tribulação?
 
 Na realidade esta "pré-ocupação" se tornou uma doença muito comum deste século: a "ansiedade".
 
-![Padre Pio rezando o Rosário](/images/padre-pio-rosario.jpg){:style="width: 100%; padding: 10px;"}
-
 A liturgia da palavra do próximo domingo (17/11/2019) nos convida
 a trabalhar na construção de um novo mundo, o mundo do reinado de Deus.
 
@@ -47,6 +45,8 @@ Jesus nos diz no Evangelho:
 >19. É permanecendo firmes que ireis ganhar a vida!
 
 Em meio à esse trabalho e luta na construção do novo mundo, seremos atacados. Com certeza!
+
+![Padre Pio rezando o Rosário](/images/padre-pio-rosario.jpg){:style="width: 100%; padding: 10px;"}
 
 Quantas vezes o fato de sermos cristãos e servirmos a Deus através da música ou de alguma outra pastoral, incomoda as pessoas? Quantas vezes somos odiamos por isso?
 
