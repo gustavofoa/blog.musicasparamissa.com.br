@@ -7,7 +7,7 @@ description: Reflexão sobre o 33º domingo do tempo comum - Ano C
 image: /images/padre-pio-rosario.jpg
 
 É fato que o mundo muda a todo instante.
-Seja mudanças naturais, ou mudanças provocadas pelos seres humanos.
+Sejam mudanças naturais, ou mudanças provocadas pelos seres humanos.
 
 O mundo tecnológico em que vivemos hoje era inconcebível na época de nossos avós.
 
@@ -20,7 +20,7 @@ A realidade é que um tempo acaba, outro começa. Uma era acaba, outra começa. 
 E muita gente se preocupa com o futuro, com o mundo novo que há de vir,
 se sentindo sem ação.
 
-Teremos guerra, doenças, fome, tribulação?
+Teremos guerra, doenças, fome, tribulações?
 
 Na realidade esta "pré-ocupação" se tornou uma doença muito comum deste século: a "ansiedade".
 
@@ -29,31 +29,31 @@ a trabalhar na construção de um novo mundo, o mundo do reinado de Deus.
 
 E quando digo trabalhar, não é um pequeno esforço ...
 
-Na segunda leitura São Paulo nos convida seguir seu exemplo e "_trabalhar com esforço e cansaço, de dia e de noite_".
+Na segunda leitura São Paulo nos convida a seguir seu exemplo e "_trabalhar com esforço e cansaço, de dia e de noite_".
 
 Talvez você já tenha entendido onde quero chegar com essa reflexão:
 
-**O novo tempo, o reino de Deus é construído por nós! Aqui! Agora!**
+**O novo tempo, o reino de Deus aqui na terra, é construído por nós, com a nossa dedicação! Aqui! Agora! A todo instante!**
 
 O mundo está sempre mudando, mas nós conseguimos atuar no mundo para configurar os novos tempos ao reino de Deus.
 
 Jesus nos diz no Evangelho:
 
->17. Todos vos odiarão por causa do meu nome.<br />
->18. Mas vós não perdereis<br />
->um só fio de cabelo da vossa cabeça.<br />
->19. É permanecendo firmes que ireis ganhar a vida!
+><em>"Todos vos odiarão por causa do meu nome.<br />
+Mas vós não perdereis<br />
+um só fio de cabelo da vossa cabeça.<br />
+É permanecendo firmes que ireis ganhar a vida!</em>
 
-Em meio à esse trabalho e luta na construção do novo mundo, seremos atacados. Com certeza!
+Em meio à esse trabalho e luta na construção do novo mundo, seremos atacados.
 
 ![Padre Pio rezando o Rosário](/images/padre-pio-rosario.jpg){:style="width: 100%; padding: 10px;"}
 
-Quantas vezes o fato de sermos cristãos e servirmos a Deus através da música ou de alguma outra pastoral, incomoda as pessoas? Quantas vezes somos odiamos por isso?
+Quantas vezes o fato de sermos cristãos e servirmos a Deus através da música ou de alguma outra pastoral, incomoda as pessoas? Quantas vezes somos odiados por isso?
 
 Jesus nos pede para sermos firmes. É uma grande batalha, mas com Deus tudo é possível!
 
 Querido(a) irmão(ã), a força para vencer a guerra e construir um novo mundo está na oração.
-Então pegue o seu terço (_**la arma** como dizia Padre Pio_),
+Então pegue o seu terço (_**la arma**, como dizia Santo Padre Pio_),
 prepare o seu joelho e vamos pra batalha!
 
 Se você for tocar/cantar a missa deste **33º domingo do tempo comum - Ano C**, dia 17/11/2019),
