@@ -22,7 +22,7 @@ se sentindo sem ação.
 
 Teremos guerra, doenças, fome, tribulação?
 
-Na realidade esta "pré-ocupação" se tornou uma doença muito comum deste século: a "asiedade".
+Na realidade esta "pré-ocupação" se tornou uma doença muito comum deste século: a "ansiedade".
 
 ![Padre Pio rezando o Rosário](/images/padre-pio-rosario.jpg){:style="width: 100%; padding: 10px;"}
 
@@ -53,7 +53,7 @@ Quantas vezes o fato de sermos cristãos e servirmos a Deus através da música 
 Jesus nos pede para sermos firmes. É uma grande batalha, mas com Deus tudo é possível!
 
 Querido(a) irmão(ã), a força para vencer a guerra e construir um novo mundo está na oração.
-Então pegue o seu terço (_la arma como dizia Padre Pio_),
+Então pegue o seu terço (_**la arma** como dizia Padre Pio_),
 prepare o seu joelho e vamos pra batalha!
 
 Se você for tocar/cantar a missa deste **33º domingo do tempo comum - Ano C**, dia 17/11/2019),
