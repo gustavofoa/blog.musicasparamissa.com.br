@@ -4,6 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-c
 description: Reflexão sobre a Solenidade de Nosso Senhor Jesus Cristo, Rei do universo - Ano C
+image: /images/morte-de-cristo.jpg
 
 Como somos privilegiados por saber que Jesus é o nosso Rei
 e que o Seu reino não é aqui neste mundo.
