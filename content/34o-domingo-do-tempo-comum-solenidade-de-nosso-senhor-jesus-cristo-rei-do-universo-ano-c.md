@@ -25,7 +25,7 @@ Este Jesus é o Nosso Rei.
 Aquele que deu a própria vida por mim e por você,
 que nos amou até o último suspiro de dor, e que venceu a morte.
 
-É a Ele que devemos servir com muito amor, pois ele nos amou primeiro!
+É a Ele que devemos servir com muito amor, pois Ele nos amou primeiro!
 
 Se for tocar/cantar nessa missa deste **34º Domingo do Tempo Comum - Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo - Ano B**, dia 24/11/2019,
 aqui estão as nossas sugestões de músicas:
