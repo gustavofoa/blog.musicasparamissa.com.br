@@ -37,3 +37,5 @@ E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confir
 [**>> Melodia para o SALMO 121 (122) - QUANTA ALEGRIA E FELICIDADE: VAMOS À CASA DO SENHOR!**](https://musicasparamissa.com.br/musica/salmo-121-quanta-alegria-e-felicidade-vamos-a-casa-do-senhor/){:target=\_blank}
 
 Que Deus nos abençoe!
+
+Gustavo
