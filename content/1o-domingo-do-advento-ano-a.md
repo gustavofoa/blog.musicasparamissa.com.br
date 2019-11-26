@@ -10,7 +10,7 @@ No próximo Domingo dia 1º de dezembro de 2019 iniciamos um novo ano litúrgico
 
 E neste 1º domingo do Advento, a liturgia nos adverte para estarmos sempre atentos e preparados, pois não sabemos o tempo da vinda do Senhor.
 
-![-](/images/noe-e-a-arca-da-alianca.jpeg){:style="width: 100%; padding: 10px;"}
+![Noé e a Arca da Aliança](/images/noe-e-a-arca-da-alianca.jpeg){:style="width: 100%; padding: 10px;"}
 
 O evangelho nos diz que:
 
