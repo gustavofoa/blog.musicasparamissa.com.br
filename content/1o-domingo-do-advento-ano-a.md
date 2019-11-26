@@ -14,7 +14,7 @@ E neste 1º domingo do Advento, a liturgia nos adverte para estarmos sempre aten
 
 O evangelho nos diz que:
 
-"A vinda do Filho do Homem será como no tempo de Noé." (Mt 24, 37)
+> "A vinda do Filho do Homem será como no tempo de Noé." (Mt 24, 37)
 
 Muitos estarão despreparados quando Jesus chegar,
 assim como muitos foram levados pelo dilúvio.
