@@ -1,4 +1,4 @@
-title: Ave Maria, cheia de graça!
+title: Ave Maria, cheia de graça ...
 date: 2019-12-04
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
