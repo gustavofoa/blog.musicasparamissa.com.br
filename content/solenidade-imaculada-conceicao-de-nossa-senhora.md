@@ -45,7 +45,7 @@ E esse é justamente o dogma procla­mado pelo Papa Pio IX em 1854. Como está e
 
 Também encontramos no Catecismo da Igreja Católica:
 
-> 492. Este esplendor de uma “santidade de todo singular”, com que foi “enriquecida desde o primeiro instante da sua conceição”, vem-lhe totalmente de Cristo: foi “remida de um modo mais sublime, em atenção aos méritos de seu Filho”. Mais que toda e qualquer outra pessoa  criada, o Pai a “encheu de toda a espécie de bênçãos espirituais, nos céus, em Cristo” (Ef 1, 3). “N’Ele a escolheu antes da criação do mundo, para ser, na caridade, santa e irrepreensível na sua presença” (Ef 1, 4).
+> (CIC 492) Este esplendor de uma “santidade de todo singular”, com que foi “enriquecida desde o primeiro instante da sua conceição”, vem-lhe totalmente de Cristo: foi “remida de um modo mais sublime, em atenção aos méritos de seu Filho”. Mais que toda e qualquer outra pessoa  criada, o Pai a “encheu de toda a espécie de bênçãos espirituais, nos céus, em Cristo” (Ef 1, 3). “N’Ele a escolheu antes da criação do mundo, para ser, na caridade, santa e irrepreensível na sua presença” (Ef 1, 4).
 
 Se você for tocar/cantar nessa missa da **Solenidade da Imaculada Conceição de Nossa Senhora**,
 dia 08/12/2019, aqui estão as nossas sugestões de músicas:
