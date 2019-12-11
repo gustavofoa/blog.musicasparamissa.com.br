@@ -19,7 +19,7 @@ João Batista, que como o próprio Jesus diz "_de todos os homens que já nascer
 
 Quando ele foi preso, enviou discípulos a Jesus para perguntá-lo se Ele era mesmo o Messias.
 
-E assim também somos nós, com as nossas incertezas e dificuldades de enchergar o Reino de Deus diante de tantas injustiças.
+E assim também somos nós, com as nossas incertezas e dificuldades de enxergar o Reino de Deus diante de tantas injustiças.
 
 ![João Batista apontando para Jesus](/images/Joao-Batista-e-discipulos.jpg){:style="width: 100%; padding: 10px;"}
 
