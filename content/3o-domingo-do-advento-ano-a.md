@@ -26,7 +26,7 @@ E assim também somos nós, com as nossas incertezas e dificuldades de enxergar 
 Mas também devemos observar a vida de João Batista.
 Que mostra que o caminho até Jesus passa pela conversão diária.
 
-João Batista viveu a entrega na fé, na simplicidade e confiança na providência divína.
+João Batista viveu a entrega na fé, na simplicidade e confiança na providência divina.
 
 Mas uma das coisas que mais me chama a atenção na vida de João Batista foi a sua coerência.
 A coerência que o levou à prisão e morte. A santidade passa pela coerência de vida!
