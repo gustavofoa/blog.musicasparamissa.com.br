@@ -1,5 +1,5 @@
-title: O SIM de José e Maria.
-date: 2018-12-17
+title: O SIM de Maria de de José
+date: 2019-12-17
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-do-advento-ano-a
