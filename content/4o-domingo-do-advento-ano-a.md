@@ -1,4 +1,4 @@
-title: O SIM de Maria de José
+title: O SIM de Maria e de José
 date: 2019-12-17
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
