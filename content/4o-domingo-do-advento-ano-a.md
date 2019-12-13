@@ -37,7 +37,7 @@ Você já tinha pensado nisso?
 Enfim, voltando à reflexão sobre as leituras do 4º domingo do advento...
 
 A obra de Salvação de Deus, anunciada pelos profetas, passa pela contribuição humana, direta e indiretamente. Maria deu o SIM para receber em seu ventre o Filho de Deus,
-assim também José, garantiu a profecia, dando o seu SIM para Deus, acolhendo Maria e dando o seu nome e descendência para Jesus, o filho de Deus.
+assim também José garantiu a profecia, dando o seu SIM para Deus, acolhendo Maria e dando o seu nome e descendência para Jesus, o filho de Deus.
 
 Então, com profundo acolhimento à Deus e aos nossos irmãos, vamos escolher as músicas para esta missa.
 
