@@ -9,7 +9,7 @@ image: /images/joao-batista-apontando-para-jesus.jpg
 Todas as vezes que vamos escolher as músicas que serão cantadas durante a missa
 é extremamente importante lermos as leituras da missa e entendermos o mistério que vamos celebrar naquela missa específicamente.
 
-Por isso, a anos nós do site músicas para missa publicamos
+Por isso, há anos nós do site músicas para missa publicamos
 e enviamos reflexões sobre as leituras das missas para auxiliar
 os agentes da música litúrgica que vão prestar o serviço musical
 na liturgia da missa.
@@ -36,26 +36,20 @@ Pense comigo por um instante sobre as proclamações de Deus na primeira leitura
 
 Quem é o servo perfeito de Deus? Você, eu, o profeta Isaias?
 Quem glorifica a Deus? Você, eu, o profeta Isaias?
-Quem restaura as tribos de Israrel? E além ...
+Quem restaura as tribos de Israel? E além ...
 Quem é luz das nações para que a Salvação de Deus chegue aos confins da Terra!?!?!?
 
 Quando não temos Jesus em foco, as leituras da Biblia não fazem sentido,
 ou viram leituras que lemos apenas "por obrigação" ...
 
-Agora com Jesus no foco vamos ler o salmo desta missa:
+Agora com Jesus no foco vamos ler uma parte do salmo desta missa:
 
-```
+<strong>
 EU DISSE: EIS QUE VENHO, SENHOR, COM PRAZER FAÇO A VOSSA VONTADE.
+<em>este é o refrão</em>
+</strong>
 
-ESPERANDO, ESPEREI NO SENHOR,
-E INCLINANDO-SE, OUVIU MEU CLAMOR.
-CANTO NOVO ELE PÔS EM MEUS LÁBIOS,
-UM POEMA EM LOUVOR AO SENHOR.
-
-SACRIFÍCIO E OBLAÇÃO NÃO QUISESTES,
-MAS ABRISTES, SENHOR, MEUS OUVIDOS;
-NÃO PEDISTES OFERTAS NEM VÍTIMAS,
-HOLOCAUSTOS POR NOSSOS PECADOS.
+<em>focando nas últimas 2 estrofes, veja:</em>
 
 E ENTÃO EU VOS DISSE: 'EIS QUE VENHO!'
 SOBRE MIM ESTÁ ESCRITO NO LIVRO:
@@ -84,7 +78,7 @@ centraliza Jesus como o elo que liga as comunidades do mundo inteiro em uma úni
 que é o corpo místico de Nosso Senhor Jesus Cristo.
 
 E este corpo místico é composto de Santos,
-que foram santificados pelo Batísmo em Jesus Cristo
+que foram santificados pelo Batismo em Jesus Cristo
 e que são chamados a serem santos, juntos com todos os outros
 Santos que invocam o nome de nosso Senhor Jesus Cristo em qualquer lugar do mundo,
 ou seja, em qualquer nação!
@@ -94,7 +88,7 @@ O Evangelho da missa deste domingo, nos apresenta Jesus como o "Cordeiro de Deus
 Sabe aqueles sacríficios do antigo testamento que nunca foram suficientes para redimir os nossos pecados? Aquele cordeiro que era caro, que os santos do tempo do antigo testamento,
 ofereciam a Deus para expiar os pecados do povo? Aqueles sacrifícios, nunca redimiram os pecados da humanidade ...
 
-O sacrifício que expiou o pedado da humanidade foi o sacrifício do próprio Deus!
+O sacrifício que expiou o pecado da humanidade foi o sacrifício do próprio Deus!
 
 São João Batista nos aponta: Este é o cordeiro de Deus, este é o sacrifício de Deus que é o único cordeiro capaz de expiar os nossos pecados, os pecados do mundo inteiro: O próprio filho de Dele!
 
