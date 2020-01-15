@@ -1,4 +1,4 @@
-title: Sejamos semelhantes a Cristo!
+title: A chave da nossa existência
 date: 2020-01-14
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
