@@ -6,7 +6,7 @@ slug: 3o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 3º Domingo do Tempo Comum - Ano A
 image: /images/Deixaram-tudo-e-O-seguiram.jpg
 
-<iframe width="100%" src="https://www.youtube.com/embed/OR7BPe3Ksdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/OR7BPe3Ksdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Todas as vezes que vamos escolher as músicas que serão cantadas durante a missa
 é extremamente importante lermos as leituras da missa e entendermos o mistério que vamos celebrar naquela missa específicamente.
