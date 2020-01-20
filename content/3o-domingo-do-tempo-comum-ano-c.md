@@ -6,6 +6,8 @@ slug: 3o-domingo-do-tempo-comum-ano-c
 description: Reflexão sobre o 3º domingo do tempo comum - Ano C
 image: /images/jesus-palavra.jpg
 
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/OR7BPe3Ksdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 No próximo domingo, dia 27/01/2019, vamos celebrar o **3º Domingo do Tempo Comum - Ano C**
 e as leituras deste domingo nos trazem em seu centro as Sagradas Escrituras.
 
