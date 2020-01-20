@@ -6,6 +6,8 @@ slug: 3o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 3º Domingo do Tempo Comum - Ano A
 image: /images/Deixaram-tudo-e-O-seguiram.jpg
 
+<iframe width="100%" src="https://www.youtube.com/embed/OR7BPe3Ksdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Todas as vezes que vamos escolher as músicas que serão cantadas durante a missa
 é extremamente importante lermos as leituras da missa e entendermos o mistério que vamos celebrar naquela missa específicamente.
 
@@ -49,7 +51,7 @@ Muitas pessoas pensam que, por irem a missa aos domingos ou por cumprirem muitos
 Isto é um grande engano. Quanto mais católico, mais conversão e luta contra o pecado é preciso. A nossa conversão diária deve começar logo quando acordamos!
 Devemos começar o nosso dia com uma verdadeira declaração de guerra contra o pecado.
 
-A segunda leitura é uma carta de São Paulo ao povo de Conrinto.
+A segunda leitura é uma carta de São Paulo ao povo de Corinto.
 Aquela comunidade já tinha passado pela primeira conversão, já eram católicos,
 mas como podemos ver na carta de São Paulo, eles estavam brigando entre sí!
 
@@ -63,7 +65,7 @@ Eles imediatamente largaram as redes e seguiram Jesus, para se tornarem "pescado
 ![Jesus chamando os pescadores](/images/Deixaram-tudo-e-O-seguiram.jpg){:style="width: 100%; padding: 10px;"}
 
 Este chamado Jesus também faz para você hoje.
-Jesus está convidando você do jeito que você é, com os seus dons, a sua experiência, o seu conhecimento, para aplicar tudo isso a favor da evangelização ao lado d'Dele.
+Jesus está convidando você do jeito que você é, com os seus dons, a sua experiência, o seu conhecimento, para aplicar tudo isso a favor da evangelização ao lado d'Ele.
 
 Seja você pescador ou um violinista. Jesus te chama a aplicar o seu conhecimento, os seus dons, a sua vida para levar o evangelho a todas as criaturas.
 
