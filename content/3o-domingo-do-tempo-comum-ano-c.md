@@ -1,5 +1,5 @@
 ﻿title: Jesus é a Palavra de Deus
-date: 2019-01-23
+date: 2019-01-20
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-do-tempo-comum-ano-c
@@ -8,7 +8,7 @@ image: /images/jesus-palavra.jpg
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/OR7BPe3Ksdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-No próximo domingo, dia 27/01/2019, vamos celebrar o **3º Domingo do Tempo Comum - Ano C**
+No próximo domingo, dia 26/01/2019, vamos celebrar o **3º Domingo do Tempo Comum - Ano C**
 e as leituras deste domingo nos trazem em seu centro as Sagradas Escrituras.
 
 A primeira leitura se contextualiza em um momento difícil da história do povo de Deus,
