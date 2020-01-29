@@ -6,6 +6,8 @@ slug: festa-da-apresentacao-do-senhor
 description: Reflexão sobre a Festa da Apresentação do Senhor
 image: /images/apresentacao-do-senhor.jpg
 
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/61tyQDXAo78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Quarenta dias após o Natal a igreja celebra a **Festa da Apresentação do Senhor**.
 Nesta festa, que também é conhecida como a "festa das luzes",
 celebramos Maria e José oferecendo Jesus a Deus,
