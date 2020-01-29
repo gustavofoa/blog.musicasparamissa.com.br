@@ -1,5 +1,5 @@
-title: 
-date: 2017-01-28
+title: Sejamos Luz no mundo!
+date: 2020-01-28
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: festa-da-apresentacao-do-senhor
