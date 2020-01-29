@@ -56,8 +56,7 @@ Após Simeão proferir estas palavras, ele os abençoou se dirigiu a Nossa Senho
 
 Jesus é "sinal de contradição".
 
-"Contradição" significa _dizer contra_. Jesus, cabeça e corpo místico (a Igreja),
-vai contra o que o mundo ensina. Jesus foi perseguido e morto pelo que ele disse, sendo contra o que o mundo pregava. E também a doutrina da igreja sempre foi "sinal de contradição", sendo contra o que o mundo ensina. Contra o aborto, contra a eutanásia, contra a fertilização _in-vitro_, contra a ideologia de gênero, etc.
+"Contradição" significa _dizer contra_. Jesus, cabeça e corpo místico e santíssimo (a Igreja), vai contra o que o mundo ensina. Jesus foi perseguido e morto pelo que ele disse, sendo contra o que o mundo pregava. E também a doutrina da igreja sempre foi "sinal de contradição", sendo contra o que o mundo ensina. Contra o aborto, contra a eutanásia, contra a fertilização _in-vitro_, contra a ideologia de gênero, etc.
 
 E para fazermos parte do corpo de Cristo, devemos também nós sermos contradição ao mundo.
 Devemos ser luz onde estivermos. Não podemos simplesmente nos conformar e nos adaptar ao mundo, o mundo que deve ser adequar ao evangelho e se voltar a Deus.
