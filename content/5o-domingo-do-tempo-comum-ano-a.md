@@ -31,7 +31,7 @@ Os políticos devem criar leis e programas para ajudar os necessitados sim, mas 
 
 A caridade não pode ser "terceirizada"!
 
-Um termo que está na moda hoje em dia no mercado profissional é o _"accountability"_, que significa se responsabilizar pela solução de um problema, mesmo o trabalho de resolver seja delegado para alguém.
+Um termo que está na moda hoje em dia no mercado profissional é o _"accountability"_, que significa se responsabilizar pela solução de um problema, mesmo que o trabalho para resolver seja delegado para alguém.
 
 Por exemplo, se alguém chega até você e pede uma caneta emprestada e você não tem, você pode indicar para esta pessoa uma outra pessoa que provavelmente tenha a caneta para emprestar. Mas a solução deste problema (uma caneta para esta pessoa) não acabou ainda. Você deve se certificar que ela conseguiu, de fato, a caneta. Senão, você deve ajudá-la a encontrar outra solução. A missão termina quando o problema da pessoa é resolvido. Isso é o tal _accountability_.
 
@@ -45,7 +45,7 @@ A primeira leitura deste domingo do livro do profeta Isaías, diz asssim:
 
 **É assim que o cristão tempera a humanidade!**
 
-A leitura continua
+A primeira leitura continua:
 
 > "[...] se acolheres de coração aberto o indigente e prestares todo o socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia." (Is 58, 10)
 
