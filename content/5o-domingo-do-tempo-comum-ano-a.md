@@ -6,9 +6,7 @@ slug: 5o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 5º Domingo do Tempo Comum - Ano A
 image: /images/caridade.jpg
 
-<!--
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/YoGJAHnDkpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O evangelho do próximo domingo (09/02/2020) é a continuação do trecho das bem-aventuranças do evangelho de São Mateus. E no trecho deste evangelho Jesus diz para sermos **sal da terra e luz do mundo**.
 
