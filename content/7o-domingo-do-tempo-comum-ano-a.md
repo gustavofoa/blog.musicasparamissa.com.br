@@ -64,11 +64,11 @@ Na próxima missa entregue todo ressentimento no altar e vá se reconciliar com 
 
 Se for tocar/cantar na missa deste **7º domingo do tempo comum - Ano A**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-[>>Sugestões de música para a missa do 7º domingo do tempo comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/7o-domingo-do-tempo-comum-ano-a)
+[>>Sugestões de música para a missa do 7º domingo do tempo comum - Ano A](https://musicasparamissa.com.br/sugestoes-para/7o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[>>Melodia para o Salmo 102(103) - BENDIZE Ó MINH'ALMA, AO SENHOR POIS ELE É BONDOSO E COMPASSIVO!](http://www.musicasparamissa.com.br/musica/SALMO-102-103-BENDIZE-O-MINHALMA/)
+[>>Melodia para o Salmo 102(103) - BENDIZE Ó MINH'ALMA, AO SENHOR POIS ELE É BONDOSO E COMPASSIVO!](https://www.musicasparamissa.com.br/musica/SALMO-102-103-BENDIZE-O-MINHALMA/)
 
 Que Deus nos abençoe!
 
