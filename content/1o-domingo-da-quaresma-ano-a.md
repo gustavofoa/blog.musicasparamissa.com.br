@@ -1,5 +1,5 @@
 ---
-title: Quaresma Não deixe esta oportunidade passar
+title: 'Quaresma: Não deixe esta oportunidade passar!'
 date: '2020-02-26'
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
