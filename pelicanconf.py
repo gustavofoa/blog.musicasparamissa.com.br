@@ -23,7 +23,9 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 10
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'admin']
+
+TEMPLATE_PAGES = {'admin/index.html': 'admin/index.html'}
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},

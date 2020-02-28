@@ -1,10 +1,12 @@
-﻿title: Quaresma: Não deixe esta oportunidade passar!
+﻿---
+title: Quaresma: Não deixe esta oportunidade passar!
 date: 2020-02-26
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 1o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 1º Domingo da Quaresma - Ano A
 image: /images/diabo-tentando-jesus-pedra-pao.jpg
+---
 
 Começamos o tempo da quaresma e a liturgia do **1º Domingo da Quaresma** nos apresenta a tentação do diabo a Jesus no deserto.
 E também nos apresenta leituras sobre o pecado original que trouxe a morte para a humanidade.

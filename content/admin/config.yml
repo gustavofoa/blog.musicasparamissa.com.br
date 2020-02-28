@@ -1,0 +1,25 @@
+backend:
+    name: github
+    repo: gustavofoa/blog.musicasparamissa.com.br
+    branch: master
+    site_domain: https://blogmusicasparamissacombr.netlify.com
+
+media_folder: "content/images"
+public_folder: "images"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "post"
+    label: "Artigos"
+    folder: "content"
+    sort: "date:desc"
+    create: true
+    fields:
+      - {label: "Titulo", name: "title", widget: "string"}
+      - {label: "Data de publicacao", name: "date", widget: "datetime"}
+      - {label: "Autor", name: "author", widget: "string"}
+      - {label: "Categoria", name: "category", widget: "string", default: "Reflexões"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Descricao", name: "description", widget: "string", default: "Reflexão sobre "}
+      - {label: "Imagem de destaque", name: "image", widget: "string", default: "Reflexão sobre "}
+      - {label: "Conteudo", name: "body", widget: "markdown"}
