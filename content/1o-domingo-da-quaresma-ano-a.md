@@ -5,7 +5,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 1o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 1º Domingo da Quaresma - Ano A
-image: images/diabo-tentando-jesus-pedra-pao.jpg
+image: /images/diabo-tentando-jesus-pedra-pao.jpg
 ---
 Começamos o tempo da quaresma e a liturgia do **1º Domingo da Quaresma** nos apresenta a tentação do diabo a Jesus no deserto. E também nos apresenta leituras sobre o pecado original que trouxe a morte para a humanidade.
 
@@ -25,7 +25,7 @@ Nós começamos a quaresma na quarta-feira de cinzas lendo na segunda leitura qu
 
 Jesus foi conduzido ao deserto para ser tentado. O deserto é um lugar de provação, é onde amadurecemos a nossa vocação, onde nos aproximamos de Deus, que nos deu a vida.
 
-![Jesus sendo tentado pelo diabo no deserto](images/diabo-tentando-jesus-pedra-pao.jpg "Jesus sendo tentado pelo diabo no deserto")
+![Jesus sendo tentado pelo diabo no deserto](/images/diabo-tentando-jesus-pedra-pao.jpg "Jesus sendo tentado pelo diabo no deserto")
 
 A primeira leitura diz que Deus formou o homem do pó da terra. O verbo utilizado para descrever a ação de Deus é o verbo *"yasar"* que é um verbo técnico ligado ao trabalho do oleiro e significa "formar", "modelar".
 
