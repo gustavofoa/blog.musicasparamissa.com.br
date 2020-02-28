@@ -5,6 +5,6 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: teste
 description: 'Reflexão sobre '
-image: 'Reflexão sobre '
+image: /images/diabo-tentando-jesus-pedra-pao.jpg
 ---
 Conteúdo de teste
