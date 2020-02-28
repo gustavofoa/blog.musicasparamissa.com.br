@@ -2,7 +2,7 @@ backend:
     name: github
     repo: gustavofoa/blog.musicasparamissa.com.br
     branch: master
-    site_domain: https://blogmusicasparamissacombr.netlify.com
+    site_domain: blogmusicasparamissacombr.netlify.com
 
 media_folder: "content/images"
 public_folder: "images"
