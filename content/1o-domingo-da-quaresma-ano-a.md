@@ -25,7 +25,7 @@ Nós começamos a quaresma na quarta-feira de cinzas lendo na segunda leitura qu
 
 Jesus foi conduzido ao deserto para ser tentado. O deserto é um lugar de provação, é onde amadurecemos a nossa vocação, onde nos aproximamos de Deus, que nos deu a vida.
 
-![Jesus sendo tentado pelo diabo no deserto](/images/diabo-tentando-jesus-pedra-pao.jpg "Jesus sendo tentado pelo diabo no deserto")
+![Jesus sendo tentado pelo diabo no deserto](/images/diabo-tentando-jesus-pedra-pao.jpg "Jesus sendo tentado pelo diabo no deserto"){:style="width:100%;"}
 
 A primeira leitura diz que Deus formou o homem do pó da terra. O verbo utilizado para descrever a ação de Deus é o verbo *"yasar"* que é um verbo técnico ligado ao trabalho do oleiro e significa "formar", "modelar".
 
