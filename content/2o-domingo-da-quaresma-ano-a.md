@@ -33,20 +33,18 @@ O evangelho desta liturgia nos apresenta a Transfiguração do Senhor. Gostaria 
 
 > "Senhor, é bom ficarmos aqui."
 
-Afastar do pecado e estar na presença de Deus é bom! Esse deve ser o nosso objetivo na quaresma e sempre em nossa vida: **odiar o pecado e buscar estar na presença de Deus!**
+Afastar do pecado e estar na presença de Deus é bom! Este deve ser o nosso objetivo na quaresma e sempre em nossa vida: **odiar o pecado e buscar estar na presença de Deus!**
 
-Que nessa quaresma você se torne mais santo e colabore para a santidade dos nossos irmãos.
+Que nesta quaresma você se torne mais santo e colabore para a santidade dos nossos irmãos.
 
-Se for tocar/cantar na missa deste **2º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
+Se for tocar/cantar a missa deste **2º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
 **[\>>Sugestões de música para a missa do 2º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/){:target=_blank}**
 
-Ah! Se você ainda não sabe, o Maikon Máximo, baterista da banda Anjos de Resgate, está gravando salmos exclusivamente para o nosso site. Você pode conferir a melodia (com letra e cifra) que ele gravou para o salmo deste domingo neste link:
+E se for cantar o salmo desta missa, preparamos uma melodia para te ajudar.
 
 **[\>>SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](https://musicasparamissa.com.br/musica/salmo-32-33-sobre-nos-venha-senhor/){:target=_blank}**
 
 Boa quaresma!
 
 Gustavo
-
-P.S.: Lembrando que no nosso site tem um calendário em todas as páginas (no canto direito) onde você pode escolher o dia da missa que você vai tocar/cantar e ver as nossas sugestões de músicas junto com as leituras da liturgia da palavra.
