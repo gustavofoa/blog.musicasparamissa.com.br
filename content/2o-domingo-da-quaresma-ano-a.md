@@ -7,9 +7,9 @@ slug: 2o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 2º domingo da quaresma - Ano A
 image: 'https://blog.musicasparamissa.com.br/images/sentado-com-jesus.jpg'
 ---
-Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2017)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel a quem se entrega sem limites a ele.
+Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel a quem se entrega sem limites a ele.
 
-Abraão deixou tudo e seguiu o que Deus lhe pediu. Abraão foi provado na fé ao limite! Deus pediu que ele oferecesse seu próprio filho em sacrifício e ele se prontificou a fazê-lo, se essa era realmente a vontade de Deus. Agora que sou pai posso imaginar a agonia que Abraão viveu.
+Abraão deixou tudo e seguiu o que Deus lhe pediu. Abraão foi provado na fé ao limite! Deus pediu que ele oferecesse seu próprio filho em sacrifício e ele se prontificou a fazê-lo, se essa era realmente a vontade de Deus.
 
 ![Abraão sacrifica Isaac](/images/abraao-sacrificar-isaac.jpg){:style="width:100%;"}
 
@@ -27,7 +27,7 @@ Tem gente que aproveita da quaresma pra fazer aquela dieta pra emagrecer, né?
 
 Quaresma não é só penitência. Quaresma é uma escola de santidade se entendermos o seu real significado. É a grande oportunidade que a igreja nos propõe para nos santificar. Nos afastando do pecado (a penitência ajuda nisso) e nos aproximando de Deus com fé, oração, esmola, caridade e entregando toda a nossa vida, sem reservas, nos braços de Deus.
 
-![Transfiguração do Senhor](/images/transfiguração.jpg){:style="float: right; padding: 10px;"}
+![Transfiguração do Senhor](/images/transfiguração.jpg){:style="width:100%;"}
 
 O evangelho desta liturgia nos apresenta a Transfiguração do Senhor. Gostaria de chamar a sua atenção para a primeira frase que São Pedro disse.
 
