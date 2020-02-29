@@ -7,7 +7,7 @@ slug: 2o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 2º domingo da quaresma - Ano A
 image: 'https://blog.musicasparamissa.com.br/images/sentado-com-jesus.jpg'
 ---
-Podemos notar na primeira leitura da liturgia deste [domingo (dia 12 de março de 2017)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel a quem se entrega sem limites a ele.
+Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2017)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel a quem se entrega sem limites a ele.
 
 Abraão deixou tudo e seguiu o que Deus lhe pediu. Abraão foi provado na fé ao limite! Deus pediu que ele oferecesse seu próprio filho em sacrifício e ele se prontificou a fazê-lo, se essa era realmente a vontade de Deus. Agora que sou pai posso imaginar a agonia que Abraão viveu.
 
