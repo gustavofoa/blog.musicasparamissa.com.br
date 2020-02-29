@@ -41,17 +41,17 @@ A segunda leitura nos apresenta as nossas duas opções de vida. Podemos ser com
 
 São Paulo nos diz que: Se a morte entrou no mundo pela desobediência de Adão e Eva. De modo bem superior a graça de Deus foi derramada em abundancia sobre nós através de Jesus Cristo.
 
-O tempo da quaresma é este tempo favorável à conversão onde a igreja nos ensina a saírmos da nossa vida de Adão que gera a morte e seguirmos em direção à Jesus Cristo para vida eterna.
+O tempo da quaresma é este tempo favorável à conversão onde a igreja nos ensina a sairmos da nossa vida de Adão que gera a morte e seguirmos em direção à Jesus Cristo para vida eterna.
 
 Não deixe esta oportunidade passar.
 
 Se for tocar/cantar na missa deste **1º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[\>> Sugestões de música para a missa do 1º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/1o-domingo-da-quaresma-ano-a/)**{:target=_blank}
+**[\>> Sugestões de música para a missa do 1º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/1o-domingo-da-quaresma-ano-a/){:target=_blank}**
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-**[\>> Melodia para o SALMO 50 - PIEDADE Ó SENHOR TENDE PIEDADE POIS PECAMOS CONTRA VÓS](https://musicasparamissa.com.br/musica/salmo-50-piedade-o-senhor-tende-piedade-pois-pecamos/)**{:target=_blank}
+**[\>> Melodia para o SALMO 50 - PIEDADE Ó SENHOR TENDE PIEDADE POIS PECAMOS CONTRA VÓS](https://musicasparamissa.com.br/musica/salmo-50-piedade-o-senhor-tende-piedade-pois-pecamos/){:target=_blank}**
 
 Uma santa e abençoada quaresma para você e sua família.
 
