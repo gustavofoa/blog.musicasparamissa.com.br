@@ -31,7 +31,7 @@ Quaresma não é só penitência. Quaresma é uma escola de santidade se entende
 
 ![Transfiguração do Senhor](/images/transfiguração.jpg){:style="width:100%;"}
 
-O evangelho desta liturgia nos apresenta a Transfiguração do Senhor. Gostaria de chamar a sua atenção para a primeira frase que São Pedro disse.
+O evangelho desta liturgia nos apresenta a Transfiguração do Senhor. Gostaria de chamar a sua atenção para a primeira frase que São Pedro disse quando Jesus se transifigurou diante deles:
 
 > "Senhor, é bom ficarmos aqui."
 
