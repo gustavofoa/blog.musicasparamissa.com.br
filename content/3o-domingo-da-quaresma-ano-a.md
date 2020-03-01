@@ -1,20 +1,21 @@
-﻿title: Meio dia
-date: 2017-03-15
+---
+title: Meio dia
+date: '2020-03-09'
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 3º domingo da quaresma - Ano A
-image: https://blog.musicasparamissa.com.br/images/samaria.jpg
+image: /images/samaria.jpg
+---
 
 Fico encantado toda vez que leio o evangelho. A cada dia me surpriendo mais.
-O evangelho deste [3º domingo da quaresma - Ano A (dia 19 de março de 2017)](http://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/)
- nos traz a conversa de Jesus com a Samaritana no poço de Jacó.
+O evangelho deste [3º domingo da quaresma - Ano A (dia 15 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank} nos traz a conversa de Jesus com a Samaritana no poço de Jacó.
 E esta leitura me ajudou a compreender ainda mais o momento da quaresma.
 
 É interessante notar alguns detalhes que passam despercebidos à primeira leitura.
 **Era por volta do meio-dia.** O meio dia divide o dia entre a manhã e a tarde.
 Jesus não pergunta para a Samaritana o que ela fez no período da manhã.
-Mas ele sabia o que ela estava fazendo alí, ela buscava água.
+Mas ele sabia o que ela estava fazendo ali, ela buscava água.
 Mas em seu interior ela buscava Deus, só não compreendia.
 
 O interior daquela mulher estava vazio de alegria, estava cheio de culpa, 
@@ -60,11 +61,11 @@ Devemos entregar a nossa alma para o controle do Espírito Santo.
 
 Se for tocar/cantar na missa deste **3º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 3º domingo da quaresma](http://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/)**
+**[>>Sugestões de música para a missa do 3º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
 Para quem vai cantar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
-**[>>SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR.](http://musicasparamissa.com.br/musica/salmo-94-95-hoje-nao-fecheis-o-vosso-coracao/)**
+**[>>SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR.](https://musicasparamissa.com.br/musica/salmo-94-95-hoje-nao-fecheis-o-vosso-coracao/){:target=\_blank}**
 
 Boa quaresma!
 
