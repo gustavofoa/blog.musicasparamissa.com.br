@@ -15,7 +15,7 @@ Um fato que não está nesta leitura, mas é bom recordar, é que Abraão foi pr
 
 ![Abraão sacrifica Isaac](/images/abraao-sacrificar-isaac.jpg){:style="width:100%;"}
 
-Deus cumpriu a aliança que fez com o nosso pai da fé. E em Abraão, Deus abençoou todas as famílias da humanidade, de todas as gerações.
+Deus cumpriu a aliança e em Abraão, Ele abençoou todas as famílias da humanidade, de todas as gerações.
 
 Na segunda leitura, São Paulo faz um convite a São Timóteo: **Sofrer pelo evangelho**!
 
