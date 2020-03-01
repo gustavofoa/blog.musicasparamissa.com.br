@@ -21,7 +21,7 @@ Na segunda leitura, São Paulo faz um convite a São Timóteo: **Sofrer pelo eva
 
 Todos nós, batizados e crismados, somos chamados a nos entregar totalmente a Deus, a suportar tudo pelo Reino de Deus, a **sofrer pelo evangelho**. Como Jesus que, humanamente, sofreu a agonia ([primeiro mistério doloroso do Santo Terço](https://blog.musicasparamissa.com.br/o-instrumento-mais-importante-musico-catolico/){:target=_blank}) de saber que sofreria a **maior dor do mundo** para nos salvar, como Abraão que sofreu a agonia de entregar o filho em sacrifício, como Maria que sofreu ao ver seu filho sendo crucificado.
 
-É você aí ... Achando que está sofrendo para cumprir uma penitência.
+E você aí ... Achando que está sofrendo para cumprir uma penitência.
 
 A penitencia deve nos afastar do pecado e junto com a oração e a caridade, deve nos aproximar de Deus. Se você não está se afastando do pecado e não está se esforçando para se aproximar de Deus, desculpa te dizer, mas a sua quaresma é fraca.
 
