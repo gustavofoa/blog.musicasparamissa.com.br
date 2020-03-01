@@ -7,9 +7,11 @@ slug: 2o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 2º domingo da quaresma - Ano A
 image: 'https://blog.musicasparamissa.com.br/images/sentado-com-jesus.jpg'
 ---
-Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel a quem se entrega sem limites a ele.
+Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel em sua promessa a quem se entrega sem limites a Ele.
 
-Abraão deixou tudo e seguiu o que Deus lhe pediu. Abraão foi provado na fé ao limite! Deus pediu que ele oferecesse seu próprio filho em sacrifício e ele se prontificou a fazê-lo, se essa era realmente a vontade de Deus.
+Abraão é o nosso pai na fé, pois pela fé dele nós fomos abençoados por Deus. Ele deixou tudo e seguiu o que Deus lhe pediu.
+
+Um fato que não está nesta leitura, mas é bom recordar, é que Abraão foi provado na fé ao limite! Deus pediu que ele oferecesse seu próprio filho em sacrifício e ele se prontificou a fazê-lo, se essa era realmente a vontade de Deus.
 
 ![Abraão sacrifica Isaac](/images/abraao-sacrificar-isaac.jpg){:style="width:100%;"}
 
