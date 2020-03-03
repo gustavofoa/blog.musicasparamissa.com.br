@@ -5,7 +5,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 2o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 2º domingo da quaresma - Ano A
-image: 'https://blog.musicasparamissa.com.br/images/sentado-com-jesus.jpg'
+image: /images/transfiguração.jpg
 ---
 
 _>> Gravamos um PODCAST com o conteúdo deste post. Se você preferir, pode ouvir este conteúdo [clicando AQUI](https://www.youtube.com/watch?v=4qGj0OC-O6E){:target=\_blank}._
