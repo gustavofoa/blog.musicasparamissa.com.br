@@ -7,7 +7,11 @@ slug: 2o-domingo-da-quaresma-ano-a
 description: Reflexão sobre o 2º domingo da quaresma - Ano A
 image: 'https://blog.musicasparamissa.com.br/images/sentado-com-jesus.jpg'
 ---
-Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/) o quanto Deus é fiel em sua promessa a quem se entrega sem limites a Ele.
+
+_>> Gravamos um PODCAST com o conteúdo deste post. Se você preferir, pode ouvir este conteúdo [clicando AQUI](https://www.youtube.com/watch?v=4qGj0OC-O6E){:target=\_blank}._
+<hr/>
+
+Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/){:target=\_blank} o quanto Deus é fiel em sua promessa a quem se entrega sem limites a Ele.
 
 Abraão é o nosso pai na fé, pois pela fé dele nós fomos abençoados por Deus. Ele deixou tudo e seguiu o que Deus lhe pediu.
 
