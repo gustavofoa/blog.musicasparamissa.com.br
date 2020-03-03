@@ -49,7 +49,7 @@ Se for tocar/cantar a missa deste **2º domingo da quaresma**, clique no link ab
 
 E se for cantar o salmo desta missa, preparamos uma melodia para te ajudar.
 
-**[\>>SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](https://musicasparamissa.com.br/musica/salmo-32-33-sobre-nos-venha-senhor/){:target=_blank}**
+**[\>>SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](https://musicasparamissa.com.br/musica/salmo-32-33-sobre-nos-venha-senhor-a-vossa/){:target=_blank}**
 
 Boa quaresma!
 
