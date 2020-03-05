@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock title %}
+{% block title %}{{ article.title if article.title[0:1] != '\'' else article.title[1:(article.title | length)-1] }} - {{ SITENAME }}{% endblock title %}
 
 {% block metatags %}
   {{ super() }}
@@ -11,7 +11,7 @@
   <meta property="og:image" content="{{ article.image }}" />
   {% endif %}
   <meta property="og:url" content="{{ SITEURL }}/{{ article.slug }}/" />
-  <meta property="og:title" content="{{ article.title }} - {{ SITENAME }}" />
+  <meta property="og:title" content="{{ article.title if article.title[0:1] != '\'' else article.title[1:(article.title | length)-1] }} - {{ SITENAME }}" />
   <meta property="og:type" content="article" />
   <meta property="article:author" content="{{ article.author }}" />
   {% for tag in article.tags %}
@@ -29,7 +29,7 @@
     <div class="col-sm-12">
       <div class="wrapper-post">
         <div class="wrapper-post-text">
-          <h3 class="title-lg text-uppercase text-theme"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+          <h3 class="title-lg text-uppercase text-theme"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title if article.title[0:1] != '\'' else article.title[1:(article.title | length)-1] }}</a></h3>
           <ul class="list-unstyled list-inline text-theme post-date-author">
             <li style="text-align:right;">
               Por {% for author in article.authors %}
