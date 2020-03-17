@@ -11,7 +11,7 @@ image: /images/cura-cego-nascenca.jpg
 A cada dia que passa fica claro pra mim a importância de nos entregar inteiramente à Deus.
 É um grande erro achar que somos capazes de qualquer coisa boa sem confiar tudo o que somos à Deus, afinal, esta vida não é nossa, é dEle!
 
-As leituras da missa deste 4º domingo da quaresma (dia 22/03/2020) nos ensina essa realidade em que, sem Deus, nós não conseguimos nem enxergar direito. Isto é, quando você acorda e abre os olhos, se não estiver confiado toda a sua vida à Deus, tudo que você vê é escuridão, trevas.
+As leituras da missa deste 4º domingo da quaresma (dia 22/03/2020) nos ensina essa realidade em que, sem Deus, nós não conseguimos nem enxergar direito. Isto é, quando você acorda de manhã e abre os olhos, se não tiver confiado toda a sua vida à Deus, tudo que você vê é escuridão, trevas.
 
 O evangelho desta missa narra a história do cego de nascença que foi curado por Jesus. Ao longo da história os fariseus não conseguiam enxergar a presença de Deus naquele milagre, por orgulho, para não reconhecer a divindade de Jesus. 
 

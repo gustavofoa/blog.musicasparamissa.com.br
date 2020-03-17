@@ -11,7 +11,7 @@ A única pessoa que **não** herdou o pecado original é a **Santíssima Virgem 
 Fora ela, todos nós temos o pecado original em nossa natureza.
 Por consequência morreremos um dia.
 
-Mas, como diz São Paulo na segunda leitura damissa deste 5º domingo da quaresma, se o **Espírito de Deus** habitar em nós, ressuscitaremos.
+Mas, como diz São Paulo na segunda leitura da missa deste 5º domingo da quaresma, se o **Espírito de Deus** habitar em nós, ressuscitaremos.
 
 O que isso quer dizer?
 
