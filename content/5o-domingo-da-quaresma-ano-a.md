@@ -1,5 +1,5 @@
 ﻿title: Vem! Vem para longe da morte!
-date: 2017-03-27
+date: 2020-03-29
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-da-quaresma-ano-a
