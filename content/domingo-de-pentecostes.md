@@ -38,6 +38,9 @@ Pois fazemos parte da igreja, que verdadeiramente anuncia o Evangelho, o Reino d
 
 Você não faz ideia do quanto a sua colaboração é importante.
 
+_>> Gravamos um PODCAST com o conteúdo deste post. Se você preferir, pode ouvir este conteúdo [clicando AQUI](https://www.youtube.com/watch?v=riqIEaJ2u0U){:target=\_blank}._
+<hr/>
+
 O **Músicas para Missa** é apenas um pequeno exemplo do que dons colocados a serviço pode produzir.
 
 E como **São João Paulo II** disse aos jovens: **Não tenham medo!**
