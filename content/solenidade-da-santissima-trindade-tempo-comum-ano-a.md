@@ -1,5 +1,5 @@
 ﻿title: Ele está no meio de nós!
-date: 2017-06-05
+date: 2020-06-01
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-da-santissima-trindade-tempo-comum-ano-a
@@ -54,3 +54,7 @@ Que evangelizemos com Amor
 Deus nos abençoe!
 
 Gustavo
+
+Se preferir, você pode ouvir o conteúdo deste post neste video:
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/oKNlqCeT37c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
