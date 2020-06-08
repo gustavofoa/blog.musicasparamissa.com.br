@@ -1,9 +1,9 @@
 ﻿title: A origem da festa de Corpus Christi
-date: 2019-06-17
+date: 2020-06-08
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
-slug: solenidade-corpus-christi-ano-c
-description: Reflexão sobre a Solenidade do Santíssimo Corpo e Sangue de Cristo - Corpus Christi - Ano C
+slug: solenidade-corpus-christi-ano-a
+description: Reflexão sobre a Solenidade do Santíssimo Corpo e Sangue de Cristo - Corpus Christi - Ano A
 image: /images/MilagreEucaristicoBolsena.jpg
 
 Na próxima quinta-feira a igreja celebrará a **Solenidade do Santíssimo Corpo e Sangue de Cristo**,
@@ -37,7 +37,7 @@ A procissão de Corpus Christi é a única vez no ano que o próprio Senhor sai 
 Abaixo você pode conferir as nossas sugestões de músicas para a missa
 de Solenidade de Corpus Christi, inclusive para o momento da procissão.
 
-**[>>Sugestões de música para a missa de Solenidade do Santíssimo Corpo e Sangue de Cristo - Corpus Christi - Ano C](https://musicasparamissa.com.br/sugestoes-para/solenidade-corpus-christi-ano-c/)**
+**[>>Sugestões de música para a missa de Solenidade do Santíssimo Corpo e Sangue de Cristo - Corpus Christi - Ano C](https://musicasparamissa.com.br/sugestoes-para/solenidade-corpus-christi-ano-a/)**
 
 Se for cantar/tocar o salmo desta quinta-feira solene, abaixo você encontra a nossa sugestão de melodia.
 
