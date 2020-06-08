@@ -41,7 +41,7 @@ de Solenidade de Corpus Christi, inclusive para o momento da procissão.
 
 Se for cantar/tocar o salmo desta quinta-feira solene, abaixo você encontra a nossa sugestão de melodia.
 
-**[>>Sugestões de melodia para o SALMO 109 (110) - TU ÉS SACERDOTE ETERNAMENTE SEGUNDO A ORDEM DO REI MELQUISEDEC!](https://musicasparamissa.com.br/musica/salmo-109-110-tu-es-sacerdote/)**
+**[>>Sugestões de melodia para o SALMO 147 - GLORIFICA O SENHOR JERUSALÉM CELEBRA TEU DEUS, Ó SIÃO!](https://musicasparamissa.com.br/musica/salmo-147-glorifica-o-senhor/)**
 
 Deus nos abençoe!
 
