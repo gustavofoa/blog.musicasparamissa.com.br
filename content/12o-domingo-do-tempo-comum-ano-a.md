@@ -47,7 +47,7 @@ Se for tocar/cantar a missa deste **12º domingo do tempo comum**, clique no lin
 
 Para quem vai cantar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
-**[>> Melodia para o SALMO 68 (69) - ATENDEI-ME Ó SENHOR](https://musicasparamissa.com.br/musica/salmo-68-69-atendei-me-o-senhor/){:target=\_blank}**
+**[>> Melodia para o SALMO 68 (69) - ATENDEI-ME, Ó SENHOR, PELO VOSSO IMENSO AMOR!](https://musicasparamissa.com.br/musica/salmo-68-69-atendei-me-o-senhor-mpm/){:target=\_blank}**
 
 Que Deus nos Abençoe!
 
