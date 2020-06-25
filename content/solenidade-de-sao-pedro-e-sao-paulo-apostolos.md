@@ -1,12 +1,12 @@
 title: São Pedro e São Paulo
-date: 2019-06-26
+date: 2020-06-25
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-de-sao-pedro-e-sao-paulo-apostolos
 description: Reflexão sobre a Solenidade de São Pedro e São Paulo, Apóstolos
 image: https://blog.musicasparamissa.com.br/images/sao-pedro-e-sao-paulo.jpg
 
-No próximo domingo (30 de junho de 2019) a igreja celebra a **Solenidade de São Pedro e São Paulo**.
+No próximo domingo (28 de junho de 2019) a igreja celebra a **Solenidade de São Pedro e São Paulo**.
 Dois dos maiores instrumentos de Deus após a encarnação do Verbo Divino.
 Em São Pedro o próprio Jesus edificou a Sua Igreja.
 E São Paulo foi o apóstolo que só viu Jesus após a morte deste.
@@ -38,11 +38,13 @@ Aqui estão as sugestões de músicas para o próximo domingo:
 
 [**>>Sugestões de música para a missa da Solenidade de São Pedro e São Paulo, Apóstolos**](https://musicasparamissa.com.br/sugestoes-para/solenidade-de-sao-pedro-e-sao-paulo-apostolos/)
 
-Temos duas sugestões de melodias para o Salmo deste domingo:
+Temos três sugestões de melodias para o Salmo deste domingo ():
 
-[**>>Sugestão 1: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS**](https://musicasparamissa.com.br/musica/salmo-33/)
+[**>>Sugestão 1: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Gustavo)**](https://musicasparamissa.com.br/musica/salmo-33/)
 
-[**>>Sugestão 2: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores/)
+[**>>Sugestão 2: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Leandro)**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores/)
+
+[**>>Sugestão 3: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Marcus Lima)**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores-marcus-lima-versao-masculina/)
 
 Lembrando que você pode acessar o nosso [site](https://musicasparamissa.com.br/) 
 a qualquer momento e escolher o dia no calendário para ver as nossas sugestões de música.
