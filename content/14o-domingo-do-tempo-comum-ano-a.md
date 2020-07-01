@@ -1,5 +1,5 @@
 ﻿title: O brado do Redentor!
-date: 2017-07-07
+date: 2020-07-01
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 14o-domingo-do-tempo-comum-ano-a
@@ -42,14 +42,16 @@ Portanto, se você se sente meio "deslocado", cansado de lutar contra tudo à su
 
 > Vinde a mim todos vós que estais cansados ... e eu te darei descanso.
 
-Se for tocar/cantar na missa deste **14º domingo do tempo comum - Ano A** (09/07/2017),
+Se for tocar/cantar na missa deste **14º domingo do tempo comum - Ano A** (05/07/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Sugestões de música para a missa do 14º domingo do tempo comum - Ano A**](http://musicasparamissa.com.br/sugestoes-para/14o-domingo-do-tempo-comum-ano-a)
+[**>>Sugestões de música para a missa do 14º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/14o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se for cantar o salmo, também sugerimos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, também sugerimos duas melodias que podem te ajudar, confira aqui:
 
-[**>>Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR!**](http://musicasparamissa.com.br/musica/salmo-144-bendirei-eternamente-vosso-nome-o-senhor/)
+[**>> (1ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR!**](https://musicasparamissa.com.br/musica/salmo-144-145-bendirei-eternamente-vosso-nome-marcus-lima-versao-masculina/){:target=\_blank}
+
+[**>> (2ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR!**](https://musicasparamissa.com.br/musica/salmo-144-bendirei-eternamente-vosso-nome-o-senhor/){:target=\_blank}
 
 Bom fim de semana!
 
