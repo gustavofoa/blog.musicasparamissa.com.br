@@ -49,7 +49,9 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 E se for cantar o salmo, também sugerimos duas melodias que podem te ajudar, confira aqui:
 
-[**>> (1ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR!**](https://musicasparamissa.com.br/musica/salmo-144-145-bendirei-eternamente-vosso-nome-marcus-lima-versao-masculina/){:target=\_blank}
+[**>> (1ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR! (Versão masculina)**](https://musicasparamissa.com.br/musica/salmo-144-145-bendirei-eternamente-vosso-nome-marcus-lima-versao-masculina/){:target=\_blank}
+
+[**>> (1ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR! (Versão feminina)**](https://musicasparamissa.com.br/musica/salmo-144-145-bendirei-eternamente-vosso-nome-marcus-lima-versao-feminina/){:target=\_blank}
 
 [**>> (2ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR!**](https://musicasparamissa.com.br/musica/salmo-144-bendirei-eternamente-vosso-nome-o-senhor/){:target=\_blank}
 
