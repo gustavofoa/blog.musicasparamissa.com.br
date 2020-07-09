@@ -1,4 +1,4 @@
-﻿title: Seja um bom terreno.
+﻿title: Seja um terreno fértil.
 date: 2020-07-09
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
