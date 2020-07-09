@@ -29,7 +29,7 @@ O **Brado do Redentor** é para todos aqueles que têm fé e confiam no amor de 
 Mesmo que você esteja no meio de lobos, no lugar errado,
 onde tudo a sua volta te leva para o mal caminho, para o inferno, para a morte.
 
-No evengelho desde domingo, Jesus se apresenta como direção para a Salvação
+No evangelho desde domingo, Jesus se apresenta como direção para a Salvação
 e alívio para os sofredores e fatigados. Ele faz esse chamado aos filhos de Deus
 no momento em que o povo se sentia "sem pastor".
 

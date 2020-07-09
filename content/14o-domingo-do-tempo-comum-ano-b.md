@@ -71,7 +71,7 @@ Falam ainda de Simão, mas é tão ilógico Jesus ser irmão de Simão, pela ida
 
 Enfim, a citação bíblica foi apenas para mostrar o quanto Jesus apreciava esses que caminhavam consigo.
 
-O evengelho é finalizado falando em como Jesus se admirou com a falta de fé daquele povo.
+O evangelho é finalizado falando em como Jesus se admirou com a falta de fé daquele povo.
 
 > "Um profeta só não é estimado
 > em sua pátria, entre seus parentes e familiares".

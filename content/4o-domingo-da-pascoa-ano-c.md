@@ -8,7 +8,7 @@ image: /images/pastor.jpg
 
 O quarto domingo da páscoa é o "domingo do Bom Pastor",
 pois nos três anos litúrgicos a igreja nos oferece uma passagem do
-capítulo 10 do evengelho de São João, o chamado "evangelho do Bom Pastor".
+capítulo 10 do evangelho de São João, o chamado "evangelho do Bom Pastor".
 
 E neste ano nós meditamos os versículos de 27 à 30.
 Em que Jesus diz que as ovelhas dEle escutam a Sua voz, Ele dá a vida eterna para as Suas ovelhas

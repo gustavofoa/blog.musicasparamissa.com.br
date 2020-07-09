@@ -8,7 +8,7 @@ image: /images/sagrada-tradicao.jpg
 
 Iniciamos um mês importante para a Igreja! O **mês da Bíblia** não é somente da palavra escrita, mas da palavra falada.
 
-E nada melhor que o evengelho deste domingo para fazer pensar e compreender à luz da tradição o que a Igreja, corpo místico de Nosso Senhor Jesus Cristo, nos ensina.
+E nada melhor que o evangelho deste domingo para fazer pensar e compreender à luz da tradição o que a Igreja, corpo místico de Nosso Senhor Jesus Cristo, nos ensina.
 
 Interpretar este Evangelho sem atenção, pode fazer o leitor incorrer em grande engano, pois foi o próprio São Paulo que nos pediu: _"Tenete traditiones"_  "Mantenha as tradições". 
 
