@@ -25,10 +25,10 @@ A parábola das sementes mostra pra gente o quão próximo de nós está o Reino
 O Reino de Deus está tão próximo, mas tão próximo que está plantado dentro de nós.
 
 Cabe à nós sermos terra boa e fazer a semente da palavra de Deus germinar e dar frutos.
-Cabe à nós reconhecermos vivermos o Reino de Deus, aqui e agora.
+Cabe à nós reconhecermos vivermos o Reino de Deus aqui e agora.
 
 Se no batismo Deus plantou em nós a sua semente, cabe à nós cuidarmos do terreno.
-Cuidar para que as distrações e tentações não nos dominem e nos roubem a vida eterna.
+Cuidar para que as distrações e as tentações não nos dominem e nos roubem a vida eterna.
 
 Arar a terra, limpar, tirar os espinhos que sufocam a Palavra de Deus em nós.
 Remover as pedras que não deixam a Palavra criar raízes firmes.
