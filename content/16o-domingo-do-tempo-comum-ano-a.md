@@ -41,7 +41,7 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 E se for cantar o salmo, temos uma sugestão de melodia que pode te ajudar, confira aqui:
 
-[**>> SALMO 85 - Ó SENHOR VÓS SOIS BOM, SOIS CLEMENTE E FIEL**](https://musicasparamissa.com.br/musica/salmo-85-ano-a/){:target=\_blank}
+[**>> Melodia para o SALMO 85 - Ó SENHOR VÓS SOIS BOM, SOIS CLEMENTE E FIEL**](https://musicasparamissa.com.br/musica/salmo-85-ano-a/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
