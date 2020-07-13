@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 16o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 16º domingo do tempo comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/
+image: https://blog.musicasparamissa.com.br/images/parabola-do-joio-e-do-trigo.jpg
 
 No evangelho da missa deste 16º Domingo do Tempo Comum - Ano A (18/07/2020), Jesus conta várias parábolas para revelar o Reino dos Céus à nós fazendo comparações com a vida agrícola e familiar do campo.
 
@@ -12,7 +12,7 @@ A primeira delas é a parábola do Joio e do Trigo e aqui podemos notar a miseri
 
 No pensamento agrícola normal, nós temos a tendência de retirar a praga e as plantas ruins da plantação o quanto antes. Algo como cortar o mal pela raíz. Quanto antes nós retirarmos o joio, mais nutrientes vão ficar na terra para as plantas boas, o trigo no caso.
 
-![Jesus Semeador](/images/){:style="width: 100%; padding: 10px;"}
+![Jesus Semeador](/images/parabola-do-joio-e-do-trigo.jpg){:style="width: 100%; padding: 10px;"}
 
 Uma interessante observação da liturgia da palavra deste domingo é a primeira leitura retirada do livro da _Sabedoria_. Onde fica claro que os pensamentos de Deus nem sempre coincide com os nossos.
 
@@ -39,13 +39,9 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 [**>>Sugestões de música para a missa do 16º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se for cantar o salmo, também sugerimos duas melodias que podem te ajudar, confira aqui:
+E se for cantar o salmo, temos uma sugestão de melodia que pode te ajudar, confira aqui:
 
-[**>> (1ª Melodia) SALMO 64 (65) - A SEMENTE CAIU EM TERRA BOA E DEU FRUTO. (versão masculina)**](https://musicasparamissa.com.br/musica/salmo-64-65-a-semente-caiu-em-terra-boa-marcus-lima-versao-masculina/){:target=\_blank}
-
-<!-- [**>> (1ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR! (Versão feminina)**](https://musicasparamissa.com.br/musica/salmo-144-145-bendirei-eternamente-vosso-nome-marcus-lima-versao-feminina/){:target=\_blank} -->
-
-[**>> (2ª Melodia) SALMO 64 (65) - A SEMENTE CAIU EM TERRA BOA E DEU FRUTO**](https://musicasparamissa.com.br/musica/salmo-64/){:target=\_blank}
+[**>> SALMO 85 - Ó SENHOR VÓS SOIS BOM, SOIS CLEMENTE E FIEL**](https://musicasparamissa.com.br/musica/salmo-85-ano-a/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
