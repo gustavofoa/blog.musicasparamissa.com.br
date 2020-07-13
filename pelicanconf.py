@@ -71,7 +71,7 @@ AUTHORS = {
                   'Engenheiro da Computação pela ETEP Faculdades e '+
                   'Técnico em Informática pela Escola Técnica Pandiá Calógeras. '+
                   'Possui as certificações ASF, SCWCD e SCJP e trabalha com desenvolvimento de softwares desde 2007.',
-        'image': 'http://gustavofurtado.com.br/images/profile.jpg'
+        'image': '/images/foto-gustavo-90x90.jpg'
     },
     'Maikon Máximo': {
         'summary':'Baterista católico profissional. Criador do projeto <b>Porque sou católico</b>. '+
@@ -80,6 +80,6 @@ AUTHORS = {
         '<h3>Redes sociais</h3> <ul><li><a href="https://www.facebook.com/maikdrum">Facebook.com/maikdrum</a></li>'+
                   '<li><a href="https://instagram.com/maikonmaximo">Instagram.com/maikonmaximo</a></li>'+
                   '<li><a href="https://youTube.com/maikonmaximo">YouTube.com/maikonmaximo</a></li></ul>',
-        'image': '/images/maikon-maximo.jpg'
+        'image': '/images/maikon-maximo-90x90.jpg'
     }
 }

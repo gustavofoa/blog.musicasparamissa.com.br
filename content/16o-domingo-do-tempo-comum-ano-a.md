@@ -37,7 +37,7 @@ Então que permitamos a ação do Espírito Santo em nossas vidas para nos torna
 Se for tocar/cantar a missa deste **16º domingo do tempo comum - Ano A** (18/07/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Sugestões de música para a missa do 16º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-a){:target=\_blank}
+[**>> Sugestões de música para a missa do 16º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
 E se for cantar o salmo, temos uma sugestão de melodia que pode te ajudar, confira aqui:
 
