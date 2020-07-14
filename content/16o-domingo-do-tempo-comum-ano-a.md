@@ -6,7 +6,7 @@ slug: 16o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 16º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/parabola-do-joio-e-do-trigo.jpg
 
-No evangelho da missa deste 16º Domingo do Tempo Comum - Ano A (18/07/2020), Jesus conta várias parábolas para revelar o Reino dos céus à nós fazendo comparações com a vida agrícola e familiar do campo.
+No evangelho da missa deste 16º Domingo do Tempo Comum - Ano A (19/07/2020), Jesus conta várias parábolas para revelar o Reino dos céus à nós fazendo comparações com a vida agrícola e familiar do campo.
 
 A primeira delas é a parábola do Joio e do Trigo e aqui podemos notar a misericórdia de Deus, que é ao mesmo tempo sutil e cheia de sabedoria.
 
@@ -34,14 +34,16 @@ Então permitamos a ação do Espírito Santo em nossas vidas para nos tornarmos
 
 
 
-Se for tocar/cantar a missa deste **16º domingo do tempo comum - Ano A** (18/07/2020),
+Se for tocar/cantar a missa deste **16º domingo do tempo comum - Ano A** (19/07/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
 [**>> Sugestões de música para a missa do 16º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se for cantar o salmo, temos uma sugestão de melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, temos duas sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>> Melodia para o SALMO 85 - Ó SENHOR VÓS SOIS BOM, SOIS CLEMENTE E FIEL**](https://musicasparamissa.com.br/musica/salmo-85-ano-a/){:target=\_blank}
+[**>> (1ª Sugestão) Melodia para o SALMO 85 - Ó SENHOR VÓS SOIS BOM, SOIS CLEMENTE E FIEL**](https://musicasparamissa.com.br/musica/salmo-85-ano-a/){:target=\_blank}
+
+[**>> (2ª Sugestão) Melodia para o SALMO 85 - Ó SENHOR VÓS SOIS BOM, SOIS CLEMENTE E FIEL. (versão masculina)**](https://musicasparamissa.com.br/musica/salmo-85-86-o-senhor-vos-sois-bom-marcus-lima-versao-masculina/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
