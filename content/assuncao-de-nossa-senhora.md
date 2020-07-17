@@ -14,16 +14,15 @@ Maria é mediadora por que Deus quis vir a nós por meio dela.
 
 Para entender o evangelho deste domingo é imprescindível ver parte da primeira leitura e perceber como a liturgia se completa com excelência.
 
->Leitura do Livro do Apocalipse de São João:
+>Abriu-se o Templo de Deus que está no céu e apareceu no Templo a arca da Aliança.
 
->Ap 11, 19a. Abriu-se o Templo de Deus que está no céu e apareceu no Templo a arca da Aliança.
->12,1. Então apareceu no céu um grande sinal: uma mulher vestida de sol,
+>Então apareceu no céu um grande sinal: uma mulher vestida de sol,
 tendo a lua debaixo dos pés
 e sobre a cabeça uma coroa de doze estrelas..."
 
 !["Assunção de Nossa Senhora"](https://blog.musicasparamissa.com.br/images/assuncao-de-nossa-senhora.jpg){:style="width: 100%; padding: 10px;"}
 
-A visão de João em Apocalipse, mostra a Arca da Aliança e logo após, Nossa Senhora.
+A visão de São João no Apocalipse, mostra a Arca da Aliança e logo após, Nossa Senhora.
 Tanto que em _Ap 12,2_ o texto nos expecifica. "Estava Grávida".
 De quem? Fácilmente podemos perceber que de Cristo.
 
@@ -37,7 +36,10 @@ Maria é importantíssima e caríssima para Deus. E é por isso que na Ladainha 
 
 O Evangelho deste domingo fala da visita de María a sua parenta Isabel. Muito mais que uma visita, já que a Mãe de Jesus fica por três Meses na casa de Isabel.
 De fato, a Virgem Santíssima tinha em si o ardor de servir e mesmo grávida, sabendo da idade avançada de Isabel, fica com ela.
-Agora precisamos entender as prefigurações do Antigo testamento, colocadas de uma forma incrivelmente sútil e escancarada no encontro de Maria e Isabel.
+
+Agora precisamos entender as prefigurações do Antigo testamento, colocadas de uma forma incrivelmente sútil e amo mesmo tempo escancarada no encontro de Maria e Isabel.
+
+Como podemos ver no capítulo 6 do 2º Livro de Samuel.
 
 Assim como Nossa senhora foi até Isabel, Davi, apressado, parte com a Arca da Aliança, para a Judeia (IISm 6,2) E então a Arca permanece três meses na casa de um homem chamado Obed-Edon (IISm 6, 11).
 
