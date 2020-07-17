@@ -1,10 +1,10 @@
-﻿title: Sejamos trigo.
+﻿title: Caminhemos em comunidade no deserto da vida
 date: 2020-07-27
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 18o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 18º domingo do tempo comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/
+image: https://blog.musicasparamissa.com.br/images/jesus-alimentando-o-povo-no-deserto.jpg
 
 Nada pode nos separar do Amor de Cristo, como diz São Paulo na segunda leitura deste 18º Domingo do Tempo Comum - Ano A (02/08/2020).
 Nenhum poder hostil, nem a morte, nem os anjos, nem o tempo ou o espaço. Nada pode nos separar do amor de Deus!
@@ -37,11 +37,14 @@ E Jesus alimenta o povo. Mas é interessante observar que quem leva o alimento a
 
 Quando os discípulos pedem a Jesus que mande a multidão embora, para que ela encontre comida, Jesus pede-lhes: "dai-lhes vós de comer".
 
-Como a cabeça dá comandos para os seus membros. Jesus (a cabeça) instrui a igreja (os membros) a levarem o pão do céu para alimentar o povo.
-A igreja é convidada a colocar os dons de Deus a serviço do ser humano, a partilhar o alimento e o amor com os mais famintos.
+Como a cabeça que dá comandos para os seus membros.
+Jesus (a cabeça) instrui a igreja (os membros) a levarem o pão do céu para alimentar o povo.
+A igreja é convidada a colocar os dons de Deus a serviço do ser humano,
+a partilhar o alimento e o amor com os mais famintos.
 
 E os símbolos deste episódio da multiplicação dos 5 pães e 2 peixes são muitos. A soma unitária dos alimentos disponíveis, que é igual sete,
 significa a totalidade dos recursos. E nós comos igreja e discípulos de Jesus, somos convidados a partilhar tudo o que temos e somos em favor dos mais carentes.
+Tudo mesmo, em totalidade!
 
 Partilhando, amando e vivendo em comunidade nós devemos caminhar no deserto da vida confiando na providência divina.
 Assim nós seremos libertados da escravidão e desfrutaremos do banquete preparado por Deus na vida Eterna.
