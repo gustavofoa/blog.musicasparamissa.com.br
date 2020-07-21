@@ -1,5 +1,5 @@
 ﻿title: Você já encontrou o seu tesouro?
-date: 2020-07-19
+date: 2020-07-21
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 17o-domingo-do-tempo-comum-ano-a
