@@ -65,13 +65,9 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 [**>>Sugestões de música para a missa do 17º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/17o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se for cantar o salmo, também sugerimos duas melodias que podem te ajudar, confira aqui:
+E se for cantar o salmo, também sugerimos uma melodia que pode te ajudar, confira aqui:
 
-[**>> (1ª Melodia) SALMO 64 (65) - A SEMENTE CAIU EM TERRA BOA E DEU FRUTO. (versão masculina)**](https://musicasparamissa.com.br/musica/salmo-64-65-a-semente-caiu-em-terra-boa-marcus-lima-versao-masculina/){:target=\_blank}
-
-<!-- [**>> (1ª Melodia) Salmo 144 - BENDIREI, ETERNAMENTE, VOSSO NOME, Ó SENHOR! (Versão feminina)**](https://musicasparamissa.com.br/musica/salmo-144-145-bendirei-eternamente-vosso-nome-marcus-lima-versao-feminina/){:target=\_blank} -->
-
-[**>> (2ª Melodia) SALMO 64 (65) - A SEMENTE CAIU EM TERRA BOA E DEU FRUTO**](https://musicasparamissa.com.br/musica/salmo-64/){:target=\_blank}
+[**>> (1ª Melodia) SALMO 118 - COMO EU AMO Ó SENHOR VOSSA LEI, VOSSA PALAVRA.**](https://musicasparamissa.com.br/musica/salmo-118-ano-a/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
