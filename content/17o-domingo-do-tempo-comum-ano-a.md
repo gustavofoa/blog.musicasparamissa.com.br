@@ -67,7 +67,7 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 E se for cantar o salmo, também sugerimos uma melodia que pode te ajudar, confira aqui:
 
-[**>> (1ª Melodia) SALMO 118 - COMO EU AMO Ó SENHOR VOSSA LEI, VOSSA PALAVRA.**](https://musicasparamissa.com.br/musica/salmo-118-ano-a/){:target=\_blank}
+[**>> Melodia para o SALMO 118 - COMO EU AMO Ó SENHOR VOSSA LEI, VOSSA PALAVRA.**](https://musicasparamissa.com.br/musica/salmo-118-ano-a/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
