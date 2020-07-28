@@ -11,7 +11,7 @@ image: https://blog.musicasparamissa.com.br/images/pedro-repreendido-por-jesus.j
 Estas foram as palavras que Jesus dirigiu à Pedro,
 quando este se atreveu a querer intervir no projeto de Deus a respeito do Mestre.
 
-Muitos protestantes se apoiam neste versículo para justificar ataques contra a igreja de Cristo. Sugerindo que Jesus chamou Pedro de satanás e ponto. Ignorando o contexto do evangelho.
+Muitos protestantes se apoiam neste versículo para justificar ataques contra a I greja de Cristo. Sugerindo que Jesus chamou Pedro de satanás e ponto. Ignorando o contexto do evangelho.
 
 Acontece que este Pedro, que foi repreendido por querer defender Jesus à seu modo humano de pensar, na melhor das intenções, é o mesmo Pedro que a apenas alguns versículos antes Jesus afirmou isso:
 
@@ -29,17 +29,17 @@ e sempre que lemos as Sagradas Escrituras, devemos identificar a mensagem de Deu
 Se formos na sequência deste capítulo 16, podemos notar esta simples ligação entre os acontecimentos...
 
 1. Deus revela a Pedro quem é Jesus e Pedro faz a mais bela profissão de Fé. (versículos 16-17)
-2. Jesus revela a Pedro quem ele será. (versículos 18-19)
-3. Jesus revela o seu próprio destino. (versículo 21)
+2. Jesus revela a Pedro quem ele será. Acabamos de ler isto. (versículos 18-19)
+3. Jesus revela o seu próprio destino: a morte na cruz. (versículo 21)
 4. Pedro repreende Jesus. (versículo 22)
 5. Jesus acusa o pensamento mundano de Pedro, que não condiz com o projeto de Deus. (versículo 23)
-6. Jesus explica aos discípulos que o verdadeiro discípulo renuncia-se a si mesmo e sua forma mundana de pensar e agir, e acolhe o plano de Deus, a Cruz. (versíclo 24)
+6. Jesus explica aos discípulos que o verdadeiro discípulo renuncia-se a si mesmo e sua forma mundana de pensar e agir, e acolhe o plano de Deus, a Cruz. (versículo 24)
 7. Jesus continua a explicação ensinando que a Vida vale mais que as coisas mundanas . (versículo 26)
 
 Não sei você...
 Mas me parece que um mínimo de meditação sobre a Palavra de Deus,
 com a humildade consciênte de que a Palavra sempre é direcionada a mim,
-não tenho nada para falar sobre a igreja de Cristo aqui.
+não tenho nada para falar sobre a Igreja de Cristo aqui.
 
 Na verdade, a única coisa que consigo pensar neste momento é que eu mesmo estou sendo repreendido pelo próprio Jesus Cristo.
 Eu que devo parar de seguir meus próprio pensamentos e vontades mundanas e me voltar para Deus,
@@ -49,7 +49,7 @@ a vontade Dele, o plano que Ele tem para minha vida, a minha cruz.
 Apontar versículos das Sagradas Escritura para o outro na intenção de condenar...
 Isso sim me parece coisa mundana de satanás.
 
-O verdadeiro discípulo de cristo deve estar constantemente acusando a sua própria forma de pensar e se voltando à Deus em oração para ser capaz de acolher a vontade do Pai.
+O verdadeiro discípulo de Cristo deve estar constantemente acusando a sua própria forma de pensar e se voltando à Deus em oração para ser capaz de acolher a vontade do Pai.
 
 Assim como rezamos na oração do Pai-Nosso.
 
