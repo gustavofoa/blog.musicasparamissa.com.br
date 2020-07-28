@@ -12,7 +12,7 @@ A liturgia da missa do próximo 21º Domingo do Tempo Comum - Ano A (23/08/2020)
 Logo na primeira leitura, vemos no antigo testamento a realidade das chaves da casa de Davi,
 que Deus dá ao novo administrador bom e fiel do palácio (Eliacim). Adminstrador este que o Senhor institui no lugar do mau administrador (Sobna).
 
-Sabemos que esta passagem do antigo testamento prefigura Jesus como o dono das chaves do Reino dos Céus. Ele abre e ninguém pode afechar. Ele fecha e ninguém pode abrir.
+Sabemos que esta passagem do antigo testamento prefigura Jesus como o dono das chaves do Reino dos Céus. Ele abre e ninguém pode fechar. Ele fecha e ninguém pode abrir.
 
 Mas no contexto desta liturgia, nós observamos também que Jesus dá as chaves a Pedro e, por consequência, aos Papas.
 
@@ -22,7 +22,7 @@ E eu quero te achamar a atenção a alguns pequenos destalhes do Evangelho que e
 
 > Eu te darei as chaves do Reino dos céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus. (Mt 16,19)
 
-O primeiro detalhe detalhe que quero chamar a sua atenção é que Jesus **dará** a Pedro as chaves.
+O primeiro detalhe que quero chamar a sua atenção é que Jesus **dará** a Pedro as chaves.
 
 Por que Jesus disse que **dará** as chaves?
 
