@@ -59,7 +59,7 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 E se for cantar o salmo, temos uma sugestão de melodia que pode te ajudar, confira aqui:
 
-[**>> Melodia para o SALMO 144 - VÓS ABRIS A VOSSA MÃO E SACIAIS OS VOSSOS FILHOS**](https://musicasparamissa.com.br/musica/salmo-144-ano-a/){:target=\_blank}
+[**>> Melodia para o SALMO 144 (145) - VÓS ABRIS A VOSSA MÃO E SACIAIS OS VOSSOS FILHOS. (versão masculina)**](https://musicasparamissa.com.br/musica/salmo-144-145-vos-abris-a-vossa-mao-marcus-lima-versao-masculina/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
