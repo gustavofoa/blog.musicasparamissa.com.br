@@ -1,16 +1,16 @@
 title: Maria e a Arca da Aliança
-date: 2019-08-12
-author: Maikon Máximo
+date: 2020-08-10
+author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: assuncao-de-nossa-senhora
-description: Reflexão sobre a ASSUNÇÃO DE NOSSA SENHORA
+description: Reflexão sobre a Assunção de Nossa Senhora
 image: https://blog.musicasparamissa.com.br/images/assuncao-de-nossa-senhora.jpg
 
 Maria foi um instrumento para que Jesus fosse gerado.
 Por isso foi por meio da Virgem Maria que nos vieram todas as graças.
 Graças de Deus.
 Pois quem é meio, é mediador.
-Maria é mediadora por que Deus quis vir a nós por meio dela.
+Maria é mediadora porque Deus quis vir a nós por meio dela.
 
 Para entender o evangelho deste domingo é imprescindível ver parte da primeira leitura e perceber como a liturgia se completa com excelência.
 
@@ -37,13 +37,13 @@ Maria é importantíssima e caríssima para Deus. E é por isso que na Ladainha 
 O Evangelho deste domingo fala da visita de María a sua parenta Isabel. Muito mais que uma visita, já que a Mãe de Jesus fica por três Meses na casa de Isabel.
 De fato, a Virgem Santíssima tinha em si o ardor de servir e mesmo grávida, sabendo da idade avançada de Isabel, fica com ela.
 
-Agora precisamos entender as prefigurações do Antigo testamento, colocadas de uma forma incrivelmente sútil e amo mesmo tempo escancarada no encontro de Maria e Isabel.
+Agora precisamos entender as prefigurações do Antigo testamento, colocadas de uma forma incrivelmente sútil e ao mesmo tempo escancarada no encontro de Maria e Isabel.
 
 Como podemos ver no capítulo 6 do 2º Livro de Samuel.
 
 Assim como Nossa senhora foi até Isabel, Davi, apressado, parte com a Arca da Aliança, para a Judeia (IISm 6,2) E então a Arca permanece três meses na casa de um homem chamado Obed-Edon (IISm 6, 11).
 
->Quando Isabel ouviu a saudação de Maria, a criança pulou no seu ventre 
+>Quando Isabel ouviu a saudação de Maria, a criança pulou no seu ventre
 e Isabel ficou cheia do Espírito Santo.
 
 Da mesma forma Davi pula de alegria diante da Arca de Aliança (IISm 6, 16)
@@ -81,7 +81,7 @@ Enfim notamos que, Maria e a Arca estavam da mesma forma indo para a região mon
 
 Honrar Maria é entender que ela é de fato um sinal visível da presença de Deus.
 
-Se você for tocar/cantar a missa da **SOLENIDADE DA ASSUNÇÃO DE NOSSA SENHORA**, aqui estão as nossas sugestões de músicas:
+Se você for tocar/cantar a missa da **Solenida de da Assunção de Nossa Senhor**, aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa de SOLENIDADE DA ASSUNÇÃO DE NOSSA SENHORA**](https://musicasparamissa.com.br/sugestoes-para/assuncao-de-nossa-senhora/){:target=\_blank}
 
@@ -91,4 +91,10 @@ E temos duas sugestões de melodias para o salmo desta missa, confira aqui:
 
 [**>>Melodia 2 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita/){:target=\_blank}
 
-Maikon Máximo
+
+Que Nossa Senhora, a Arca da Nova Aliança, interceda por nós no céu.
+
+Deus nos abençoe!
+
+Gustavo
+
