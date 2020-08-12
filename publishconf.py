@@ -20,7 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap']
+PLUGINS = ['sitemap', 'podcast']
 
 # Following items are often useful when publishing
 
