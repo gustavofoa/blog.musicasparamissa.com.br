@@ -117,7 +117,7 @@ class PodcastGenerator(object):
         #Exclude URLs from the sitemap:
         fd.write(XML_ITEM.format(
             article.title, 
-            article.description, 
+            article.content, 
             self.config['item']['linkTemplate'].format(article.slug),
             self.config['item']['audioTemplate'].format(article.slug),
             article.date,
