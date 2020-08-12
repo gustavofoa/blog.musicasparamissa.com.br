@@ -37,7 +37,7 @@ XML_HEADER = """<?xml version="1.0" encoding="UTF-8"?>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="{9}" />
-<itunes:category text="{10}"/></itunes:category>
+<itunes:category text="{10}"/>
 """
 
 XML_ITEM = """
