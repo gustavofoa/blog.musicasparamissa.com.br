@@ -70,7 +70,7 @@ PODCAST = {
             'email': 'gustavo@musicasparamissa.com.br'
         },
         'image': 'https://blog.musicasparamissa.com.br.com.br/podcast-icon.jpg',
-        'category': 'Religion & Spirituality'
+        'category': 'Religion &amp; Spirituality'
     },
     'item': {
         'linkTemplate': 'https://blog.musicasparamissa.com.br/{0}/',
