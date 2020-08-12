@@ -74,7 +74,8 @@ PODCAST = {
     },
     'item': {
         'linkTemplate': 'https://blog.musicasparamissa.com.br/{0}/',
-        'audioTemplate': 'https://blog.musicasparamissa.com.br/podcast/{0}.mp3'
+        'audioTemplate': 'https://blog.musicasparamissa.com.br/podcast/{0}.mp3',
+        'descriptionTemplate': '{0} - Acesse o conteúdo episódio aqui: {1}'
     }
 }
 
