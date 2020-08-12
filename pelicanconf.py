@@ -63,13 +63,13 @@ PODCAST = {
     'description': 'Reflexões sobre a liturgia da palavra e dicas para selecionar músicas litúrgicas para a missa.',
     'itunes': {
         'subtitle': 'Reflexões sobre a liturgia da palavra e dicas para selecionar músicas litúrgicas para a missa.',
-        'author': 'Gustavo Furtado',
+        'author': 'Músicas para Missa',
         'summary': 'Reflexões sobre a liturgia da palavra e dicas para selecionar músicas litúrgicas para a missa.',
         'owner': {
             'name': 'Músicas para Missa',
             'email': 'gustavo@musicasparamissa.com.br'
         },
-        'image': 'https://blog.musicasparamissa.com.br/images/podcast-icon.png',
+        'image': 'https://blog.musicasparamissa.com.br/images/podcast-icon.jpg',
         'category': 'Religion &amp; Spirituality'
     },
     'item': {
