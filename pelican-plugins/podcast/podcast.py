@@ -25,7 +25,7 @@ XML_HEADER = """<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>{0}</title>
-<link>{1}<link>
+<link>{1}</link>
 <language>{2}</language>
 <itunes:subtitle>{3}</itunes:subtitle>
 <itunes:author>{4}</itunes:author>
