@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 10
 
-STATIC_PATHS = ['images', 'extra/CNAME', 'admin']
+STATIC_PATHS = ['images', 'extra/CNAME', 'admin', 'podcast']
 
 TEMPLATE_PAGES = {'admin/index.html': 'admin/index.html'}
 
@@ -39,7 +39,7 @@ THEME = 'theme'
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap']
+PLUGINS = ['sitemap', 'podcast']
 
 # Sitemap
 SITEMAP = {
@@ -53,6 +53,28 @@ SITEMAP = {
         'articles': 'weekly',
         'indexes': 'daily',
         'pages': 'monthly'
+    }
+}
+
+PODCAST = {
+    'title': 'Podcast Músicas para Missa',
+    'link': 'https://blog.musicasparamissa.com.br/',
+    'language': 'pt-br',
+    'description': 'Reflexões sobre a liturgia da palavra e dicas para selecionar músicas litúrgicas para a missa.',
+    'itunes': {
+        'subtitle': 'Reflexões sobre a liturgia da palavra e dicas para selecionar músicas litúrgicas para a missa.',
+        'author': 'Gustavo Furtado',
+        'summary': 'Reflexões sobre a liturgia da palavra e dicas para selecionar músicas litúrgicas para a missa.',
+        'owner': {
+            'name': 'Gustavo Furtado',
+            'email': 'gustavo@musicasparamissa.com.br'
+        },
+        'image': 'https://blog.musicasparamissa.com.br.com.br/podcast-icon.jpg',
+        'category': 'Religion & Spirituality'
+    },
+    'item': {
+        'linkTemplate': 'https://blog.musicasparamissa.com.br/{0}/',
+        'audioTemplate': 'https://blog.musicasparamissa.com.br/podcast/{0}.mp3'
     }
 }
 

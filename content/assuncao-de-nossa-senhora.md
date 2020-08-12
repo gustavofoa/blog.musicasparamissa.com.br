@@ -5,6 +5,9 @@ category: Reflexões
 slug: assuncao-de-nossa-senhora
 description: Reflexão sobre a Assunção de Nossa Senhora
 image: https://blog.musicasparamissa.com.br/images/assuncao-de-nossa-senhora.jpg
+tags: Podcast,
+duration: 00:07:04
+
 
 Maria foi um instrumento para que Jesus fosse gerado.
 Por isso foi por meio da Virgem Maria que nos vieram todas as graças.
