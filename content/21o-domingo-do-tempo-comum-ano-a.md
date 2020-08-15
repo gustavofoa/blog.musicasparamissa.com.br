@@ -5,6 +5,8 @@ category: Reflexões
 slug: 21o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 21º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/pedro-e-as-chaves.jpg
+tags: Podcast
+duration: 00:03:18
 
 A liturgia da missa do próximo 21º Domingo do Tempo Comum - Ano A (23/08/2020)
 É conhecida como a _festa das chaves_.
