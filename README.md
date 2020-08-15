@@ -1,2 +1,2 @@
 # blog-musicasparamissa
-Blog do site músicas para missa.
+Blog do site musicasparamissa.com.br
