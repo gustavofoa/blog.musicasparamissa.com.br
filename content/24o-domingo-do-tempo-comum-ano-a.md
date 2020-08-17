@@ -5,6 +5,8 @@ category: Reflexões
 slug: 24o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 24º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/perdao.jpg
+tags: Podcast
+duration: 00:03:08
 
 A liturgia deste 24º Domingo do Tempo Comum (Ano A) nos convida a refletir sobre o **perdão**.
 
