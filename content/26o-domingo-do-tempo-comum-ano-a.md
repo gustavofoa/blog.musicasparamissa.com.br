@@ -5,6 +5,8 @@ category: Reflexões
 slug: 26o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 26º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/tempo.jpg
+tags: Podcast
+duration: 00:05:58
 
 Pare pra pensar na seguinte situação...
 
@@ -77,7 +79,7 @@ O servo dos servos, como [**São Pedro Claver**](https://padrepauloricardo.org/e
 que foi _escravo dos escravos_ na Colombia.
 
 Ao invés de olhar para o nosso irmão com qualquer julgamento,
-tenhamos a humildade de olhar para nós mesmos, reconhecer as nossa falhas e suplicar a Deus por misericórdia.
+tenhamos a humildade de olhar para nós mesmos, reconhecer as nossas falhas e suplicar a Deus por misericórdia.
 
 Devemos viver para servir! Viver para salvar a quantidade que pudermos!
 A caridade supera uma imensidão de pecados.
@@ -93,7 +95,7 @@ Ao contrário dos mestres da lei que tiveram dúvidas, pela falta de fé.
 
 A liturgia deste domingo nos convida a desconsiderar o passado nos nossos pensamentos.
 
-Pense no agora, a sua relação com Deus é particularmente entre você de Deus. Ele apaga as suas culpas do passado. Se abra à mudança de vida a partir do agora. Apenas ame a Deus!
+Pense no agora, a sua relação com Deus é particularmente entre você e Deus. Ele apaga as suas culpas do passado. Se abra à mudança de vida a partir do agora. Apenas ame a Deus!
 
 E a melhor forma de **amar a Deus sobre todas as coisas** é amá-lo através dos nossos irmãos!
 
