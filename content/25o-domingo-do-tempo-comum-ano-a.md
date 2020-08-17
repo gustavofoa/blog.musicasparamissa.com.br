@@ -5,8 +5,10 @@ category: Reflexões
 slug: 25o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 25º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/vinha.jpg
+tags: Podcast
+duration: 00:04:11
 
-Os pensamentos e caminhos de Deus está infinitamente acima dos nossos pensamentos e caminhos.
+Os pensamentos e caminhos de Deus estão infinitamente acima dos nossos pensamentos e caminhos.
 
 Portanto, devemos a todo momento renunciar os nossos pensamentos e caminhos mundanos,
 e nos confiar por inteiro a Deus, que tem os melhores caminhos e pensamentos para nós.
