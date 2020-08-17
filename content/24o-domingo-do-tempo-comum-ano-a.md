@@ -1,12 +1,12 @@
 ﻿title: Até setenta vezes sete!
-date: 2017-09-13
+date: 2020-09-07
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 24o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 24º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/perdao.jpg
 
-A liturgia deste domingo nos convida a refletir sobre o **perdão**.
+A liturgia deste 24º Domingo do Tempo Comum (Ano A) nos convida a refletir sobre o **perdão**.
 
 O rancor e a raiva são coisas detestáveis e toda vingança será cobrada por Deus.
 Portanto, devemos nos afastar desses sentimentos maus e perdoar quem nos ofendeu.
@@ -47,14 +47,16 @@ nós também devemos perdoá-la novamente. Quantas vezes forem necessárias!
 
 Cristo nos ensina no Evangelho que devemos perdoar-nos mutuamente, não somente sete vezes, mas setenta vezes sete, o que equivale a perdoar **sempre**, por maiores e mais amargas que sejam as faltas cometidas contra nós.
 
-Se for tocar/cantar na missa deste **24º domingo do tempo comum - Ano A** (17/09/2017),
+Se for tocar/cantar na missa deste **24º domingo do tempo comum - Ano A** (13/09/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Sugestões de música para a missa do 24º domingo do tempo comum - Ano A**](http://musicasparamissa.com.br/sugestoes-para/24o-domingo-do-tempo-comum-ano-a)
+[**>>Sugestões de música para a missa do 24º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/24o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se for cantar o salmo, também sugerimos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, também temos duas sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>>SALMO 102 - O SENHOR É BONDOSO, COMPASSIVO E CARINHOSO**](http://musicasparamissa.com.br/musica/salmo-102-o-senhor-e-bondoso-compassivo-e-carinhoso/)
+[**>>SALMO 102 - O SENHOR É BONDOSO, COMPASSIVO E CARINHOSO**](https://musicasparamissa.com.br/musica/salmo-102-o-senhor-e-bondoso/){:target=\_blank}
+
+[**>>SALMO 102 - O SENHOR É BONDOSO, COMPASSIVO E CARINHOSO**](https://musicasparamissa.com.br/musica/salmo-102-o-senhor-e-bondoso-compassivo-e-carinhoso/){:target=\_blank}
 
 Tenha uma boa missa, cheia de misericórdia!
 
