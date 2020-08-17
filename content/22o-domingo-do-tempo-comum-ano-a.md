@@ -5,6 +5,8 @@ category: Reflexões
 slug: 22o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 22º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/pedro-repreendido-por-jesus.jpg
+tags: Podcast
+duration: 00:04:22
 
 >"Vai para longe, satanás! Tu és para mim uma pedra de tropeço, porque não pensas as coisas de Deus, mas sim as coisas dos homens!" (Mt 16,23b)
 
