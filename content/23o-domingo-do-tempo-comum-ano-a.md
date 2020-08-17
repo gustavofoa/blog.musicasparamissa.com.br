@@ -6,7 +6,7 @@ slug: 23o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 23º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/conversando-com-Jesus.jpg
 
-A liturgia da palavra do 23º Domingo do Tempo Comum (Ano A) nos convida a sermos ativamentee responsáveis pela nossa salvação e a salvação dos nossos irmãos.
+A liturgia da palavra do 23º Domingo do Tempo Comum (Ano A) nos convida a sermos ativamente responsáveis pela nossa salvação e a salvação dos nossos irmãos.
 
 E além de mostrar **o quê** devemos fazer as leituras também nos mostra o **como** fazer.
 Como devemos nortear nossas ações para cumprirmos a nossa obrigação de zelar pela salvação nossa e do próximo.
