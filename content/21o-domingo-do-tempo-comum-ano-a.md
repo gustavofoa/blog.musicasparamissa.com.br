@@ -9,7 +9,7 @@ tags: Podcast
 duration: 00:03:18
 
 A liturgia da missa do próximo 21º Domingo do Tempo Comum - Ano A (23/08/2020)
-É conhecida como a _festa das chaves_.
+é conhecida como a _festa das chaves_.
 
 Logo na primeira leitura, vemos no antigo testamento a realidade das chaves da casa de Davi,
 que Deus dá ao novo administrador bom e fiel do palácio (Eliacim). Adminstrador este que o Senhor institui no lugar do mau administrador (Sobna).
@@ -53,7 +53,7 @@ Ofereçamos o nosso coração para ser "ligado" na terra e no céu pelas chaves 
 
 
 
-Se for tocar/cantar a missa deste **21º domingo do tempo comum - Ano A** (23/08/2020),
+Se você for tocar/cantar a missa deste **21º domingo do tempo comum - Ano A** (23/08/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
 [**>> Sugestões de música para a missa do 21º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/21o-domingo-do-tempo-comum-ano-a){:target=\_blank}
