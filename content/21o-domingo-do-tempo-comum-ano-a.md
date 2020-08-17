@@ -58,11 +58,13 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 [**>> Sugestões de música para a missa do 21º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/21o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se for cantar o salmo, temos duas sugestões de melodia que podem te ajudar, confira aqui:
+E se for cantar o salmo, temos três sugestões de melodia que podem te ajudar, confira aqui:
 
 [**>> (1ª Sugestão) Melodia para o SALMO 137 - Ó SENHOR, VOSSA BONDADE É PARA SEMPRE! COMPLETAI EM MIM A OBRA COMEÇADA!**](https://musicasparamissa.com.br/musica/salmo-137/){:target=\_blank}
 
-[**>> (2ª Sugestão) Melodia para o SALMO 137 - Ó SENHOR, VOSSA BONDADE É PARA SEMPRE! COMPLETAI EM MIM A OBRA COMEÇADA!**](https://musicasparamissa.com.br/musica/salmo-137-o-senhor-vossa-bondade/){:target=\_blank}
+[**>> (2ª Sugestão) Melodia para o SALMO 137 - Ó SENHOR, VOSSA BONDADE É PARA SEMPRE! COMPLETAI EM MIM A OBRA COMEÇADA!**](https://musicasparamissa.com.br/musica/salmo-137-o-senhor-vossa-bondade-marcus-lima-versao-masculina/){:target=\_blank}
+
+[**>> (3ª Sugestão) Melodia para o SALMO 137 - Ó SENHOR, VOSSA BONDADE É PARA SEMPRE! COMPLETAI EM MIM A OBRA COMEÇADA!**](https://musicasparamissa.com.br/musica/salmo-137-o-senhor-vossa-bondade/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
