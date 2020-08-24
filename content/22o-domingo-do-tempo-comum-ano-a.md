@@ -62,9 +62,11 @@ clique no link abaixo para conferir as nossas sugestões de músicas para esta m
 
 [**>> Sugestões de música para a missa do 22º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/22o-domingo-do-tempo-comum-ano-a){:target=\_blank}
 
-E se você for cantar o salmo, temos uma sugestão de melodia que pode te ajudar, confira aqui:
+E se você for cantar o salmo, temos duas sugestões de melodias que podem te ajudar, confira aqui:
 
-[**>> Melodia para o SALMO 62 - A MINH'ALMA TEM SEDE DE VÓS, COMO A TERRA SEDENTA, Ó MEU DEUS!**](https://musicasparamissa.com.br/musica/salmo-62-ano-a/){:target=\_blank}
+[**>> 1ª Sugestão de Melodia para o SALMO 62 - A MINH'ALMA TEM SEDE DE VÓS, COMO A TERRA SEDENTA, Ó MEU DEUS!**](https://musicasparamissa.com.br/musica/salmo-62-ano-a/){:target=\_blank}
+
+[**>> 2ª Sugestão de Melodia para o SALMO 62 - A MINH'ALMA TEM SEDE DE VÓS, COMO A TERRA SEDENTA, Ó MEU DEUS!**](https://musicasparamissa.com.br/musica/salmo-62-a-minh-alma-marcus-lima-versao-masculina/){:target=\_blank}
 
 Uma santa e abençoada semana pra você e sua família.
 
