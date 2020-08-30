@@ -50,11 +50,11 @@ Cristo nos ensina no Evangelho que devemos perdoar-nos mutuamente, não somente 
 Se for tocar/cantar na missa deste **24º domingo do tempo comum - Ano A** (17/09/2017),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Sugestões de música para a missa do 24º domingo do tempo comum - Ano A**](http://musicasparamissa.com.br/sugestoes-para/24o-domingo-do-tempo-comum-ano-a)
+[**>>Sugestões de música para a missa do 24º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/24o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também sugerimos uma melodia que pode te ajudar, confira aqui:
 
-[**>>SALMO 102 - O SENHOR É BONDOSO, COMPASSIVO E CARINHOSO**](http://musicasparamissa.com.br/musica/salmo-102-o-senhor-e-bondoso-compassivo-e-carinhoso/)
+[**>>SALMO 102 - O SENHOR É BONDOSO, COMPASSIVO E CARINHOSO**](https://musicasparamissa.com.br/musica/salmo-102-o-senhor-e-bondoso-compassivo-e-carinhoso/)
 
 Tenha uma boa missa, cheia de misericórdia!
 

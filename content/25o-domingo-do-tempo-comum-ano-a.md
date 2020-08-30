@@ -66,11 +66,11 @@ E que nosso relacionamento com Deus seja marcado pelo amor, não pelo interesse.
 Se for tocar/cantar na missa deste **25º domingo do tempo comum - Ano A** (24/09/2017),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Sugestões de música para a missa do 25º domingo do tempo comum - Ano A**](http://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-a)
+[**>>Sugestões de música para a missa do 25º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também sugerimos uma melodia que pode te ajudar, confira aqui:
 
-[**>>SALMO 144 - O SENHOR ESTÁ PERTO DA PESSOA QUE O INVOCA!**](http://musicasparamissa.com.br/musica/salmo-144-ano-a-2/)
+[**>>SALMO 144 - O SENHOR ESTÁ PERTO DA PESSOA QUE O INVOCA!**](https://musicasparamissa.com.br/musica/salmo-144-ano-a-2/)
 
 Tenha uma boa missa, cheia de fé!
 

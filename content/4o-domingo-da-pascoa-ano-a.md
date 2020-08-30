@@ -6,7 +6,7 @@ slug: 4o-domingo-da-pascoa-ano-a
 description: Reflexão sobre o 4º domingo da páscoa - Ano A
 image: https://blog.musicasparamissa.com.br/images/bom-pastor.jpg
 
-A liturgia deste [**4<sup>o</sup> domingo do tempo pascal**](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)
+A liturgia deste [**4<sup>o</sup> domingo do tempo pascal**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)
 nos adverte para a importância da conversão, a correção no rumo da nossa vida para alcançarmos o Céu.
 
 Após termos um _ato de fé_ e compreendermos que Jesus é realmente o caminho,
@@ -19,7 +19,7 @@ conosco nos ajudando a carregar a nossa cruz**. Ele nunca nos abandona!
 Ele é a porta para onde devemos apontar e o nosso verdadeiro pastor, amigo,
 a quem devemos confiar a nossa vida!
 
-O evangelho [deste domingo](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)
+O evangelho [deste domingo](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)
 apresenta Jesus como **o bom pastor** que as ovelhas escutam e confiam.
 Além disso, ao explicar a parábola Jesus se apresenta como "a porta" do redil.
 
@@ -65,11 +65,11 @@ Ele é o verdadeiro pastor à quem devemos confiar a nossa vida!
 
 Se for tocar/cantar na missa deste **4º domingo do tempo pascal**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 4º domingo do tempo pascal](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)**
+**[>>Sugestões de música para a missa do 4º domingo do tempo pascal](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-a/)**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
-**[>>SALMO 22 - O SENHOR É O PASTOR QUE ME CONDUZ; PARA AS ÁGUAS REPOUSANTES ME ENCAMINHA](http://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor/)**
+**[>>SALMO 22 - O SENHOR É O PASTOR QUE ME CONDUZ; PARA AS ÁGUAS REPOUSANTES ME ENCAMINHA](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor/)**
 
 Boa páscoa!
 

@@ -37,7 +37,7 @@ E a recompensa pela missão cumprida será a participação do "banquete eterno"
 
 Se for tocar/cantar na missa deste **3º domingo do tempo pascal**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 3º domingo do tempo pascal (Ano C)](http://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-pascoa-ano-c/){:target=\_blank}**
+**[>>Sugestões de música para a missa do 3º domingo do tempo pascal (Ano C)](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-pascoa-ano-c/){:target=\_blank}**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 

@@ -8,7 +8,7 @@ image: https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
 
 **Deus não deu licença para ninguém pecar.** 
 É o que diz o final da primeira leitura da liturgia do domingo dia 
-[**12 de fevereiro de 2017 - 6º Domingo do Tempo Comum**](http://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-a).
+[**12 de fevereiro de 2017 - 6º Domingo do Tempo Comum**](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-a).
 
 Nós recebemos o livre arbítrio. Portanto Deus nos deu a possibilidade da escolha. Podemos escolher entre o bem e o mal.
 
@@ -39,7 +39,7 @@ A decisão é sua!
 
 Se for tocar/cantar na missa deste **6º domingo do tempo comum - Ano A**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-[>>Sugestões de música para a missa do 6º domingo do tempo comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-a)
+[>>Sugestões de música para a missa do 6º domingo do tempo comum - Ano A](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
