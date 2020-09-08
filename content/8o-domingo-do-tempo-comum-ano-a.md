@@ -47,7 +47,7 @@ Devemos nos preocupar com as coisas de Deus e a nossa salvação. O resto Deus n
 
 Se for tocar/cantar na missa deste **8º domingo do tempo comum - Ano A** (26/02/2017), clique no link abaixo para conferir as nossas sugestões de músicas.
 
-[>>Sugestões de música para a missa do 8º domingo do tempo comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/8o-domingo-do-tempo-comum-ano-a)
+[>>Sugestões de música para a missa do 8º domingo do tempo comum - Ano A](https://musicasparamissa.com.br/sugestoes-para/8o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 

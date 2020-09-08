@@ -25,7 +25,6 @@ PLUGINS = ['sitemap', 'podcast']
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
 
 MINIFY = {
  'remove_comments': True,

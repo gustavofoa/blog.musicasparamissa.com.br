@@ -25,7 +25,7 @@ os atos dos apóstolos nos evidencia a corrida dos primeiros cristãos.
 Os apóstolos e os discípulos apresentavam Cristo ao povo, convertiam muitos no lugar em que estavam
 e logo já tinham que sair correndo daquela cidade porque estavam ameaçados por alguns que
 sofreram abalos em suas "posições privilegiadas", como diz Padre Zezinho na música
-[**Um certo Galileu**](http://musicasparamissa.com.br/musica/um-certo-galileu/).
+[**Um certo Galileu**](https://musicasparamissa.com.br/musica/um-certo-galileu/).
 
 Mas apesar de todas as ameaças, aqueles pioneiros levavam consigo o Espirito Santo.
 Por isso eles não tinham medo de morrer, pois suas vidas seria o maior oferecimento
@@ -70,12 +70,12 @@ contra a vida em todos os estágios, principalmente contra o aborto.
 
 Enfim, vivamos o evangelho no lugar em que estivermos, se podemos evangelizar através da música abaixo você encontra as nossas sugestões de músicas para este **6º domingo do tempo pascal**.
 
-**[>>Sugestões de música para a missa do 6º domingo do tempo pascal](http://musicasparamissa.com.br/sugestoes-para/6o-domingo-da-pascoa-ano-a/)**
+**[>>Sugestões de música para a missa do 6º domingo do tempo pascal](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-da-pascoa-ano-a/)**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia para te sugerir.
 Confira no link abaixo.
 
-**[>>SALMO 65 (66) - ACLAMAI O SENHOR DEUS Ó TERRA INTEIRA, CANTAI SALMOS A SEU NOME GLORIOSO](http://musicasparamissa.com.br/musica/salmo-65-66-aclamai-o-senhor-deus/)**
+**[>>SALMO 65 (66) - ACLAMAI O SENHOR DEUS Ó TERRA INTEIRA, CANTAI SALMOS A SEU NOME GLORIOSO](https://musicasparamissa.com.br/musica/salmo-65-66-aclamai-o-senhor-deus/)**
 
 Que a paz de Cristo esteja sempre contigo em todos os lugares em que fores evangelizar.
 Boa páscoa!

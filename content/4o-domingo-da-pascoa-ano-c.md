@@ -46,7 +46,7 @@ A recompensa para os que passam pela grande tribulação, vivendo o evangelho ap
 
 Se você for tocar/cantar na missa deste **4º domingo do tempo pascal**, clique no link abaixo para conferir as nossas sugestões de músicas para a missa deste domingo.
 
-**[>>Sugestões de música para a missa do 4º domingo do tempo pascal (Ano C)](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-c/){:target=\_blank}**
+**[>>Sugestões de música para a missa do 4º domingo do tempo pascal (Ano C)](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-c/){:target=\_blank}**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia pra você. Confira no link abaixo.
 

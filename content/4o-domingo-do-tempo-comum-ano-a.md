@@ -8,7 +8,7 @@ image: https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
 
 Que a paz do Senhor Jesus Cristo esteja contigo!
 
-Na liturgia do próximo domingo dia [**29 de janeiro de 2017 - 4º Domingo do Tempo Comum**](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a), somos mais uma vez chamados a refletir sobre o chamado que recebemos.
+Na liturgia do próximo domingo dia [**29 de janeiro de 2017 - 4º Domingo do Tempo Comum**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a), somos mais uma vez chamados a refletir sobre o chamado que recebemos.
 
 Na segunda leitura (Primeira Carta de São Paulo aos Coríntios), percebemos que Deus não escolhe os mais sábios, os mais nobres, ele chama o mais humilde.
 
@@ -54,7 +54,7 @@ Que Deus abençoe a sua vida de constante conversão e que Nossa Senhora e São 
 
 Vai tocar/cantar na missa do **4º domingo do tempo comum - Ano A**? Aqui estão as nossas sugestões de músicas:
 
-[>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano A](http://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a)
+[>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano A](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 

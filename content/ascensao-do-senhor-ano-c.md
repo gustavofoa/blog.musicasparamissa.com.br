@@ -62,7 +62,7 @@ E já que recebemos dons do Espírito Santo, vamos usá-los para evangelizar e p
 
 Confira aqui abaixo as nossas sugestões de músicas para a missa deste domingo da **Ascensão do Nosso Senhor**.
 
-**[>>Sugestões de música para a missa de Ascensão do Senhor - Ano C](http://musicasparamissa.com.br/sugestoes-para/ascensao-do-senhor-ano-c){:target=\_blank}**
+**[>>Sugestões de música para a missa de Ascensão do Senhor - Ano C](https://musicasparamissa.com.br/sugestoes-para/ascensao-do-senhor-ano-c){:target=\_blank}**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia para te sugerir.
 Confira no link abaixo.

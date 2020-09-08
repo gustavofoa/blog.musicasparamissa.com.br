@@ -47,7 +47,7 @@ No tempo do Advento o Hino de Louvor deve ser omitido.
 
 Nós sugerimos algumas músicas para a entrada da vela de cada domingo do
 advento. Para ver nossas sugestões `clique
-aqui <http://musicasparamissa.com.br/musica/coroa-advento-2o-domingo/>`__.
+aqui <https://musicasparamissa.com.br/musica/coroa-advento-2o-domingo/>`__.
 
 .. raw:: html
 

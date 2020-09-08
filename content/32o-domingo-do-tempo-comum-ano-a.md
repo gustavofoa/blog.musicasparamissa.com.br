@@ -6,7 +6,7 @@ slug: 32o-domingo-do-tempo-comum-ano-a
 description: 32º Domingo do Tempo Comum - Ano A
 image: https://static.musicasparamissa.com.br/images/diasLiturgicos/o-noivo-esta-chegando-ide-ao-seu-encontro.jpg
 
-A liturgia deste [**32<sup>o</sup> domingo do tempo comum**](http://musicasparamissa.com.br/sugestoes-para/32o-domingo-do-tempo-comum-ano-a/){target=\_blank}
+A liturgia deste [**32<sup>o</sup> domingo do tempo comum**](https://musicasparamissa.com.br/sugestoes-para/32o-domingo-do-tempo-comum-ano-a/){target=\_blank}
 (12/11/2017) nos convida a viligância que devemos ter para a vinda do Senhor.
 
 O evangelho nos conta a parábola das 10 jovens em que cinco estava preparadas
@@ -29,7 +29,7 @@ Deus preeche toda a vida dos justos (santos), e está presente em todos os seus 
 >*Deus* no lugar de *Sabedoria*. **Deus é a Sabedoria**, que recebemos como dom!
 
 Acabamos de passar pela 
-[**Celebração dos Fiéis Defuntos**](http://musicasparamissa.com.br/sugestoes-para/solenidade-da-comemoracao-de-todos-fieis-defuntos){target=\_blank},
+[**Celebração dos Fiéis Defuntos**](https://musicasparamissa.com.br/sugestoes-para/solenidade-da-comemoracao-de-todos-fieis-defuntos){target=\_blank},
  e na 2ª leitura deste domingo São Paulo nos garante que Cristo voltará para 
 realizar o fim dos tempos que conhecemos e instituir o tempo definitivo, 
 onde todos os fiéis _vivos ou mortos_, estarão para sempre na presença de Deus. 
@@ -38,7 +38,7 @@ Portanto devemos ser vigilantes, estar preparados, ser fiéis e buscar a Deus se
 
 Vai tocar/cantar na missa deste **32º domingo do tempo comum - Ano A**? Aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 32º domingo do tempo comum - Ano A**](http://musicasparamissa.com.br/sugestoes-para/32o-domingo-do-tempo-comum-ano-a/){target=\_blank}
+[**>>Sugestões de música para a missa do 32º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/32o-domingo-do-tempo-comum-ano-a/){target=\_blank}
 
 Estejamos preparados!
 

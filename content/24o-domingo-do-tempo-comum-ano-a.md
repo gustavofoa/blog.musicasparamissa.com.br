@@ -52,7 +52,9 @@ Cristo nos ensina no Evangelho que devemos perdoar-nos mutuamente, não somente 
 Se for tocar/cantar na missa deste **24º domingo do tempo comum - Ano A** (13/09/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
+
 [**>>Sugestões de música para a missa do 24º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/24o-domingo-do-tempo-comum-ano-a){:target=\_blank}
+
 
 E se for cantar o salmo, também temos duas sugestões de melodia que podem te ajudar, confira aqui:
 
