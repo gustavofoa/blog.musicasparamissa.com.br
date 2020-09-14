@@ -4,7 +4,7 @@ author: Maikon Máximo
 category: Reflexões
 slug: 2o-domingo-da-pascoa-ano-b
 description: Reflexão sobre a liturgia do 2º Domingo da Páscoa ano B!
-image: http://static.musicasparamissa.com.br/images/diasLiturgicos/S%C3%A3o-Tom%C3%A9.jpg
+image: https://static.musicasparamissa.com.br/images/diasLiturgicos/S%C3%A3o-Tom%C3%A9.jpg
 
 
 O evangelho de domingo vai além da nossa fé.
@@ -48,7 +48,7 @@ Jesus aparece  e resolve as objeções de Tomé.
 
 >"Bem-aventurados os que creram sem terem visto!"
 
-![Bem-aventurados os que creram sem terem visto!](http://static.musicasparamissa.com.br/images/diasLiturgicos/S%C3%A3o-Tom%C3%A9.jpg){:style="width:100%;"}
+![Bem-aventurados os que creram sem terem visto!](https://static.musicasparamissa.com.br/images/diasLiturgicos/S%C3%A3o-Tom%C3%A9.jpg){:style="width:100%;"}
 
 Estas palavras ainda são atuais. Em um mundo que tem pressa de chegar a algum lugar,
 longe do fim e perto de dias melhores.

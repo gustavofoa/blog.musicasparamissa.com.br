@@ -68,13 +68,14 @@ E que nosso relacionamento com Deus seja marcado pelo amor, não pelo interesse.
 Se for tocar/cantar na missa deste **25º domingo do tempo comum - Ano A** (20/09/2020),
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Sugestões de música para a missa do 25º domingo do tempo comum - Ano A**](http://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-a)
+[**>>Sugestões de música para a missa do 25º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/25o-domingo-do-tempo-comum-ano-a)
 
 E se for cantar o salmo, também temos duas sugestões de melodia que podem te ajudar, confira aqui:
 
 [**>>(1ª sugestão) Melodia para o SALMO 144 - O SENHOR ESTÁ PERTO DA PESSOA QUE O INVOCA!**](http://musicasparamissa.com.br/musica/salmo-144-ano-a-2/)
 
 [**>>(2ª sugestão) Melodia para o SALMO 144 - O SENHOR ESTÁ PERTO DA PESSOA QUE O INVOCA!**](https://musicasparamissa.com.br/musica/salmo-144-o-senhor-esta-perto/)
+
 
 Tenha uma boa missa, cheia de fé!
 

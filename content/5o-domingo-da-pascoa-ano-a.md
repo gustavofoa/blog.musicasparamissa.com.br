@@ -6,14 +6,14 @@ slug: 5o-domingo-da-pascoa-ano-a
 description: Reflexão sobre o 5º domingo da páscoa - Ano A
 image: https://blog.musicasparamissa.com.br/images/igreja-catolica.jpg
 
-A liturgia deste [**5<sup>o</sup> domingo do tempo pascal**](http://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)
+A liturgia deste [**5<sup>o</sup> domingo do tempo pascal**](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)
 nos convida a refletir sobre a igreja de Cristo, nos convida a sermos comunidade em Cristo.
 
 Somos chamados a fazer parte da igreja criada por Jesus,
 que caminha em direção a Cristo e que é suportada pelo Espírito Santo.
 A igreja que nasceu e vive **por** Cristo, **com** Cristo e **em** Cristo.
 
-Na primeira leitura [deste domingo](http://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)
+Na primeira leitura [deste domingo](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)
 podemos observar algumas características do princípio da nossa Santa Igreja Católica,
 e que perpetuam pelos séculos:
 
@@ -55,11 +55,11 @@ Por isso é muito importante sempre pedirmos Fé em nossas orações!
 
 No link abaixo você encontra as nossas sugestões de músicas para este **5º domingo do tempo pascal**.
 
-**[>>Sugestões de música para a missa do 5º domingo do tempo pascal](http://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)**
+**[>>Sugestões de música para a missa do 5º domingo do tempo pascal](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-pascoa-ano-a/)**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
-**[>>SALMO 32 - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, DA MESMA FORMA QUE EM VÓS NÓS ESPERAMOS!](http://musicasparamissa.com.br/musica/salmo-32-sobre-nos-venha-senhor-a-vossa-graca-da-mesma-forma/)**
+**[>>SALMO 32 - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, DA MESMA FORMA QUE EM VÓS NÓS ESPERAMOS!](https://musicasparamissa.com.br/musica/salmo-32-sobre-nos-venha-senhor-a-vossa-graca-da-mesma-forma/)**
 
 Que a paz de Cristo esteja contigo. Boa páscoa!
 
