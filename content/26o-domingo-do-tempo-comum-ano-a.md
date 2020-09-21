@@ -30,13 +30,6 @@ Talvez, até ontem a sua vida e o seu comportamento fosse de um Santo.
 
 Agora pensa na pior pessoa do mundo, na pessoa mais má que você pode imaginar ...
 
-Vou da um exemplo, que não é um julgamento meu,
-apenas uma interpretação sobre as informações que recebemos históricamente na escola ...
-
-Se **Adolph Hittler**, apesar de todo mal que fez neste mundo, um dia antes de morrer
-tiver se arrependido profundamente, tiver se confessado a um padre de coração contrito e tiver se entregado inteiramente a Deus.
-Quem iria para o Ceu encontrar Jesus e participar da Glória de Deus? Você ou Hittler?
-
 Entregar-se **inteiramente**, renunciar ao pecado **a todo custo**, **entregar a vida** ao invés de renunciar a Deus,
 é diferente de achar que está com a consciência tranquila.
 
