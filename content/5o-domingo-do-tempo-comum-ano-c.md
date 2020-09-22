@@ -53,7 +53,7 @@ E você? Já percebeu o tamanho de Deus Criador do Universo e já olhou para o t
 
 Vai tocar/cantar na missa deste **5º domingo do tempo comum - Ano C** (10/02/2019)? Aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 5º domingo do tempo comum - Ano C**](http://musicasparamissa.com.br/sugestoes-para/5o-domingo-do-tempo-comum-ano-c){:target=\_blank}
+[**>>Sugestões de música para a missa do 5º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-do-tempo-comum-ano-c){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 

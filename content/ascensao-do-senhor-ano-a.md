@@ -71,11 +71,11 @@ Aaaaahhhhh o Evangelho! Me emociono com este evangelho ...
 
 O Evangelho da liturgia deste domingo da **Ascenção do Senhor**
 é o que inspirou a criação e inspira a continuidade do nosso site
-[Músicas para Missa](http://musicasparamissa.com.br){:target=\_blank}.
+[Músicas para Missa](https://musicasparamissa.com.br){:target=\_blank}.
 Inspirou inclusive o [matrimônio meu e da Daiana](http://blog.musicasparamissa.com.br/como-nasceu-o-musicas-para-missa/){:target=\_blank},
 quando nos casamos assumindo o compromisso de levar o Evangelho para o mais longe que pudermos.
 
-O nosso projeto [**Músicas para Missa**](http://musicasparamissa.com.br){:target=\_blank}
+O nosso projeto [**Músicas para Missa**](https://musicasparamissa.com.br){:target=\_blank}
 alcança lugares muito distantes de nós. Contribuimos com as celebrações de todo canto do Brasil
 e em outros países que também falam Português.
 Nos sentimos muito agradecidos por todas as mensagens que recebemos por este trabalho.
@@ -90,12 +90,12 @@ E está também no seu interior, na sua alma, naquele lugar que você sente o co
 
 E para te ajudar nesta sua missão, aqui estão as nossas sugestões de músicas para a missa deste domingo da **Ascensão do Nosso Senhor**.
 
-**[>>Sugestões de música para a missa de Ascensão do Senhor - Ano A](http://musicasparamissa.com.br/sugestoes-para/ascensao-do-senhor-ano-a)**
+**[>>Sugestões de música para a missa de Ascensão do Senhor - Ano A](https://musicasparamissa.com.br/sugestoes-para/ascensao-do-senhor-ano-a)**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia para te sugerir.
 Confira no link abaixo.
 
-**[>>SALMO 46 - POR ENTRE ACLAMAÇÕES DEUS SE ELEVOU, O SENHOR SUBIU AO TOQUE DA TROMBETA](http://musicasparamissa.com.br/musica/salmo-46-por-entre-aclamacoes-deus-se-elevou-o-senhor-subiu-ao-toque-da-trombeta/)**
+**[>>SALMO 46 - POR ENTRE ACLAMAÇÕES DEUS SE ELEVOU, O SENHOR SUBIU AO TOQUE DA TROMBETA](https://musicasparamissa.com.br/musica/salmo-46-por-entre-aclamacoes-deus-se-elevou-o-senhor-subiu-ao-toque-da-trombeta/)**
 
 Que você aplique os dons recebidos do **Espírito Santo** onde você estiver.
 

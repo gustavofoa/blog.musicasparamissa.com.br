@@ -17,7 +17,7 @@ ele está nos dando a possibilidade de viver plenamente em comunhão com o Altí
 através de sua autoridade de Filho de Deus.
 
 Continuando a reflexão sobre os ensinamentos de Jesus sobre as leis de Deus, a liturgia do  
-[**7º Domingo do Tempo Comum (19 de fevereiro de 2017)**](http://musicasparamissa.com.br/sugestoes-para/7o-domingo-do-tempo-comum-ano-a)
+[**7º Domingo do Tempo Comum (19 de fevereiro de 2017)**](https://musicasparamissa.com.br/sugestoes-para/7o-domingo-do-tempo-comum-ano-a)
 nos mostra que devemos sim amar o nosso próximo, mas amar também o nosso "distante".
 
 É fácil amar quem está em comunhão conosco, concorda? É fácil amar nossos amigos!

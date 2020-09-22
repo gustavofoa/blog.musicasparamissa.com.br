@@ -40,7 +40,7 @@ Cuidemos do nosso interior!
 
 Se for tocar/cantar na missa deste **8º domingo do tempo comum - Ano C** (03/03/2019), clique no link abaixo para conferir as nossas sugestões de músicas.
 
-[**>>Sugestões de música para a missa do 8º domingo do tempo comum - Ano C**](http://musicasparamissa.com.br/sugestoes-para/8o-domingo-do-tempo-comum-ano-c){:target=\_blank}
+[**>>Sugestões de música para a missa do 8º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/8o-domingo-do-tempo-comum-ano-c){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 

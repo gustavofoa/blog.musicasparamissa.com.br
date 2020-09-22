@@ -28,12 +28,12 @@ gulp.task('reload:output', function () {
 });
 
 gulp.task('watch', function(){
-  watch('content/*', gulp.series('run:pelican', 'reload:output'));
-  watch('*', gulp.series('run:pelican', 'reload:output'));
-  watch('theme/*', gulp.series('run:pelican', 'reload:output'));
-  watch('theme/templates/*', gulp.series('run:pelican', 'reload:output'));
-  watch('theme/static/css/*', gulp.series('run:pelican', 'reload:output'));
-  watch('theme/static/js/*', gulp.series('run:pelican', 'reload:output'));
+  // watch('content/*', gulp.series('run:pelican', 'reload:output'));
+  // watch('*', gulp.series('run:pelican', 'reload:output'));
+  // watch('theme/*', gulp.series('run:pelican', 'reload:output'));
+  // watch('theme/templates/*', gulp.series('run:pelican', 'reload:output'));
+  // watch('theme/static/css/*', gulp.series('run:pelican', 'reload:output'));
+  // watch('theme/static/js/*', gulp.series('run:pelican', 'reload:output'));
 })
 
 gulp.task('serve', gulp.parallel('connect','run:pelican', 'watch'));

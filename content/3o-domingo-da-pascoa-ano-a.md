@@ -57,11 +57,11 @@ precisamos **ressuscitar a nossa fé**!
 
 Se for tocar/cantar na missa deste **3º domingo do tempo pascal**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 3º domingo do tempo pascal](http://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-pascoa-ano-a/)**
+**[>>Sugestões de música para a missa do 3º domingo do tempo pascal](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-pascoa-ano-a/)**
 
 Se for cantar/tocar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
 
-**[>>SALMO 15 (16): VÓS ME ENSINAIS VOSSO CAMINHO PARA A VIDA; JUNTO DE VÓS FELICIDADE SEM LIMITES](http://musicasparamissa.com.br/musica/salmo-15-16-v%C3%B3s-me-ensinais-vosso-caminho/)**
+**[>>SALMO 15 (16): VÓS ME ENSINAIS VOSSO CAMINHO PARA A VIDA; JUNTO DE VÓS FELICIDADE SEM LIMITES](https://musicasparamissa.com.br/musica/salmo-15-16-v%C3%B3s-me-ensinais-vosso-caminho/)**
 
 Boa páscoa!
 

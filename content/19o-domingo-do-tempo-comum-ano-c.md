@@ -35,7 +35,7 @@ Sejamos vigilantes e fiéis à missão que o Senhor nos confiou.
 
 Se for tocar/cantar na missa deste **19º domingo do tempo comum - Ano C** (11/08/2019), clique no link abaixo para conferir as nossas sugestões de músicas.
 
-[**>>Sugestões de música para a missa do 19º domingo do tempo comum - Ano C**](http://musicasparamissa.com.br/sugestoes-para/19o-domingo-do-tempo-comum-ano-c){:target=\_blank}
+[**>>Sugestões de música para a missa do 19º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/19o-domingo-do-tempo-comum-ano-c){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 

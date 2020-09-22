@@ -28,7 +28,7 @@ Viva a Mãe de Deus! Viva a Nossa Mãe! Viva Nossa Senhora Aparecida!
 Confira as nossas sugestões de músicas para esta missa especial 
 da Solenidade de Nossa Senhora da Conceição Aparecida.
 
-[**>>Sugestões de música para a missa de Solenidade de Nossa Senhora da Conceição Aparecida**](http://musicasparamissa.com.br/sugestoes-para/solenidade-de-nossa-senhora-da-conceicao-aparecida){:target=\_blank}
+[**>>Sugestões de música para a missa de Solenidade de Nossa Senhora da Conceição Aparecida**](https://musicasparamissa.com.br/sugestoes-para/solenidade-de-nossa-senhora-da-conceicao-aparecida){:target=\_blank}
 
 Se for cantar/tocar o salmo desta missa, estas são as nossas duas sugestões de melodia.
 
