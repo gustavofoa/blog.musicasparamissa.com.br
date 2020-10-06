@@ -6,7 +6,7 @@ slug: 28o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 28º domingo do tempo comum - Ano A
 image: https://blog.musicasparamissa.com.br/images/banquete.jpg
 tags: Podcast
-duration: 00:00:00
+duration: 00:03:05
 
 As leituras da missa do próximo 28º Domingo do Tempo Comum (11/10/2020) nos convidam a refletir sobre como estamos respondendo aos chamados de Deus.
 
