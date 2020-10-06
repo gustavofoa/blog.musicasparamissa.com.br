@@ -8,7 +8,7 @@ image: https://blog.musicasparamissa.com.br/images/banquete.jpg
 tags: Podcast
 duration: 00:00:00
 
-As leituras da missa do próximo 28º Domingo do Tempo Comum (11/10/2020) nos convida a refletir sobre como estamos respondendo aos chamados de Deus.
+As leituras da missa do próximo 28º Domingo do Tempo Comum (11/10/2020) nos convidam a refletir sobre como estamos respondendo aos chamados de Deus.
 
 No Evangelho, Jesus conta uma parábola de uma grande festa em que Deus está na figura de um Rei.
 
@@ -35,7 +35,7 @@ Em tempos de flexibilização da quarentena do coronavirus. Temos visto muitos B
 
 Claro que ir a missa não significa não tomar cuidados, principalmente se você é do grupo de risco.
 As instruções da Igreja são claras em relação à isso. Basta seguir o que os Bispos da igreja indicam.
-Se você é do grupo de risco que o Bispo disse pra ficar em casa, fique em casa. Mas se não é do grupo de risco e o Bispo convocou os fiéis à missa, coloque-se na posição dos primeiros convidados da parábola que Jesus contou. Você vai aceitar o convite para a festa ou vai fazer pouco caso? 
+Se você é do grupo de risco e o Bispo disse pra ficar em casa, fique em casa. Mas se não é do grupo de risco e o Bispo convocou os fiéis à missa, coloque-se na posição dos primeiros convidados da parábola que Jesus contou. Você vai aceitar o convite para a festa ou vai fazer pouco caso? 
 
 Além disso, não basta apenas ir à festa. Precisamos estar vestidos com o traje da festa.
 Ou seja, compromisso com o projeto de Deus, fidelidade ao primeiro mandamento.
