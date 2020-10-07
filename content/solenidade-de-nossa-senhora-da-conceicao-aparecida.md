@@ -1,10 +1,12 @@
 ﻿title: Viva a Mãe de Deus e nossa!
-date: 2019-10-09
+date: 2020-10-07
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-de-nossa-senhora-da-conceicao-aparecida
 description: Reflexão sobre a SOLENIDADE DE NOSSA SENHORA DA CONCEIÇÃO APARECIDA
 image: /images/imagem-de-nossa-senhora-aparecida.jpg
+tags: Podcast
+duration: 00:01:35
 
 > Viva a Mãe de Deus e nossa, sem pecado concebida! Salve a Virgem Imaculada, a Senhora Aparecida!"
 
