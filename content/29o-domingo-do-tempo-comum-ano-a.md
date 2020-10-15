@@ -60,9 +60,15 @@ clique no link abaixo para conferir as nossas sugestões de músicas para a miss
 [**>>Sugestões de música para a missa do 29º domingo do tempo comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/29o-domingo-do-tempo-comum-ano-a)
 
 
-E se for cantar o salmo, temos uma sugestão de melodia que podem te ajudar, confira aqui:
+E se for cantar o salmo, temos três sugestões de melodias que podem te ajudar, confira aqui:
 
 [**>> Melodia para o SALMO 95 - Ó FAMÍLIA DAS NAÇÕES, DAI AO SENHOR PODER E GLÓRIA!**](https://musicasparamissa.com.br/musica/salmo-95-ano-a/)
+
+[**>> Melodia para o SALMO 95 - Ó FAMÍLIA DAS NAÇÕES, DAI AO SENHOR PODER E GLÓRIA! (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-95-96-o-familia-das-nacoes-paulo-neto/)
+
+[**>> Melodia para o SALMO 95 - Ó FAMÍLIA DAS NAÇÕES, DAI AO SENHOR PODER E GLÓRIA! (Marcos Lima)**](https://musicasparamissa.com.br/musica/salmo-95-96-o-familia-das-nacoes-marcus-lima-versao-masculina/)
+
+https://musicasparamissa.com.br/musica/salmo-95-96-o-familia-das-nacoes-paulo-neto/
 
 Uma santa e abençoada semana pra você e sua família.
 
