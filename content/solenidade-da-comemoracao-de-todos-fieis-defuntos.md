@@ -1,5 +1,5 @@
 title: [Video] Artigo Vivo - Perdas
-date: 2019-10-29
+date: 2020-10-27
 author: Maikon Máximo
 category: Reflexões
 slug: solenidade-da-comemoracao-de-todos-fieis-defuntos
