@@ -1,5 +1,5 @@
 title: Estejamos preparados!
-date: 2017-11-07
+date: 2020-11-05
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 32o-domingo-do-tempo-comum-ano-a
@@ -7,7 +7,7 @@ description: 32º Domingo do Tempo Comum - Ano A
 image: https://static.musicasparamissa.com.br/images/diasLiturgicos/o-noivo-esta-chegando-ide-ao-seu-encontro.jpg
 
 A liturgia deste [**32<sup>o</sup> domingo do tempo comum**](https://musicasparamissa.com.br/sugestoes-para/32o-domingo-do-tempo-comum-ano-a/){target=\_blank}
-(12/11/2017) nos convida a viligância que devemos ter para a vinda do Senhor.
+(08/11/2020) nos convida a viligância que devemos ter para a vinda do Senhor.
 
 O evangelho nos conta a parábola das 10 jovens em que cinco estava preparadas
 para encontrar o noivo e as outras cinco não estavam.
@@ -43,7 +43,5 @@ Vai tocar/cantar na missa deste **32º domingo do tempo comum - Ano A**? Aqui es
 Estejamos preparados!
 
 Gustavo
-
-P.S.: Lembrando que no nosso site tem um calendário em todas as páginas (no canto direito) onde você pode escolher o dia da missa que você vai tocar/cantar e ver as nossas sugestões de músicas junto com as leituras da liturgia da palavra.
 
 
