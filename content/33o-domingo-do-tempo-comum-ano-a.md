@@ -21,8 +21,8 @@ As leituras da missa deste domingo (33º Domingo do Tempo Comum Ano A)
 nos convida a refletir sobre o que apresentaremos diante de Deus, como resultado dos dons que Ele nos confiou.
 
 No Evangelho desta missa Jesus conta a parábola dos talentos.
-Em que os bons empregados, multiplicaram o dinheiro que o patrão deixou com eles,
-enquanto o mau empregado, apenas guardou o dinheiro e o devolveu ao padrão quando este retornou.
+Em que os bons empregados multiplicaram o dinheiro que o patrão deixou com eles,
+enquanto o mau empregado apenas guardou o dinheiro e o devolveu ao padrão quando este retornou.
 
 ![Os três empregados da parábola dos talentos](/images/parabola-dos-taletos.jpg){:style="width: 100%; padding: 10px;"}
 
