@@ -52,9 +52,9 @@ clique no link abaixo para conferir as nossas sugestões de músicas para a miss
 
 E se for cantar o salmo, temos duas sugestões de melodias que podem te ajudar, confira aqui:
 
-[**>> 1ª Melodia para o SALMO 127 - FELIZES OS QUE TEMEM O SENHOR E TRILHAM SEUS CAMINHOS!**](https://musicasparamissa.com.br/musica/salmo-127-felizes-os-que-temem-paulo-neto/)
+[**>> 1ª Sugestão de Melodia para o SALMO 127 - FELIZES OS QUE TEMEM O SENHOR E TRILHAM SEUS CAMINHOS!**](https://musicasparamissa.com.br/musica/salmo-127-felizes-os-que-temem-paulo-neto/)
 
-[**>> 2ª Melodia para o SALMO 127 - FELIZES OS QUE TEMEM O SENHOR E TRILHAM SEUS CAMINHOS!**](https://musicasparamissa.com.br/musica/salmo-127-felizes-os-que-temem/)
+[**>> 2ª Sugestão de Melodia para o SALMO 127 - FELIZES OS QUE TEMEM O SENHOR E TRILHAM SEUS CAMINHOS!**](https://musicasparamissa.com.br/musica/salmo-127-felizes-os-que-temem/)
 
 Uma santa e abençoada semana pra você e sua família.
 
