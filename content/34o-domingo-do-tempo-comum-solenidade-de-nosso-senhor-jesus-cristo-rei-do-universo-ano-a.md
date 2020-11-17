@@ -6,10 +6,10 @@ slug: 34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-
 description: Reflexão sobre a Solenidade de Nosso Senhor Jesus Cristo, Rei do universo - Ano A
 image: https://static.musicasparamissa.com.br/images/diasLiturgicos/cristo-rei.jpg
 
-No próximo domingo (26 de novembro de 2017), a igreja celebra a [**Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo**](http://www.musicasparamissa.com.br/sugestoes-para/34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-a/).
+No próximo domingo (22 de novembro de 2020), a Igreja celebra a [**Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo**](https://musicasparamissa.com.br/sugestoes-para/34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-a/).
 A leitura desta liturgia da palavra nos traz a paz de filhos(as) bem cuidado(as), que recebem o amor do Pai como fim último da vida.
 
-Deus, em sua infinita bondade, se entrega e vem Ele próprio para nos resgatar da morte.
+Deus, em sua infinita bondade, envia seu próprio Filho para nos resgatar da morte.
 A primeira leitura deste domingo nos apresenta Deus como o Bom Pastor, que vai atrás das ovelhas desperças para resgatá-las.
 Nós somos essas ovelhas que se afastaram dos cuidados d'Aquele que é a nossa segurança.
 
@@ -45,7 +45,7 @@ Me prendi a esta primeira leitura, porquê ela expressa muito a realidade do rei
 Hoje em dia se perdeu muito o **temor a Deus** entre as pessoas. Temor a Deus não quer dizer ter medo desse Deus que nos ama...
 Temor a Deus é ter medo de **estar longe** desse Deus que nos ama, para sempre ...
 
-A ovelhinha, pura de coração, sentiu medo, **temor** de nunca mais estar com Aquele que a ama.
+A ovelhinha pura de coração, sentiu medo, **temor** de nunca mais estar com Aquele que a ama.
 
 E o que é o inferno além de estar **afastado** de Deus?
 
@@ -73,9 +73,16 @@ Até pensamos ... ele vai usar esse dinheiro pra beber, comprar drogas, etc.
 
 O que você acha que deve fazer? Pensa bem ...
 
-Enfim, vai tocar/cantar na missa de **Solenidade de Nosso Senhor Jesus Cristo, Rei do universo (Ano A)**,
+Se você for tocar/cantar a missa de **Solenidade de Nosso Senhor Jesus Cristo, Rei do universo (Ano A)**,
 clique no link abaixo para conferir as nossas sugestões de músicas para esta missa.
 
-[**>>Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo**](http://www.musicasparamissa.com.br/sugestoes-para/34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-a/)
+[**>> Sugestões de música para a missa do 34º Domingo do Tempo Comum - Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo - Ano A**](https://musicasparamissa.com.br/sugestoes-para/34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-a/){:target=\_blank}
+
+E se for cantar o salmo, temos duas sugestões de melodias que podem te ajudar, confira aqui:
+
+[**>> 1ª Sugestão de Melodia para o SALMO 22 - O SENHOR É O PASTOR QUE ME CONDUZ; NÃO ME FALTA COISA ALGUMA.**](https://musicasparamissa.com.br/musica/salmo-22/){:target=\_blank}
+
+[**>> 2ª Sugestão de Melodia para o SALMO 22 - O SENHOR É O PASTOR QUE ME CONDUZ; NÃO ME FALTA COISA ALGUMA. (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-paulo-neto/){:target=\_blank}
+
 
 Boa missa!
