@@ -1,5 +1,5 @@
 title: O Amor dá a vida eterna!
-date: 2017-11-20
+date: 2020-11-17
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-a
