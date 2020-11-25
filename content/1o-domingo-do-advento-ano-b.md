@@ -6,7 +6,7 @@ slug: 1o-domingo-do-advento-ano-b
 description: Reflexão sobre o Primeiro Domingo do Advento (Ano B)
 image: /images/coroa-advento.jpg
 
-Neste domingo dia 29/12/2020 iniciamos a nossa preparação para o Natal e também iniciamos um novo ano litúrgico (Ano B).
+Neste domingo dia 29/11/2020 iniciamos a nossa preparação para o Natal e também iniciamos um novo ano litúrgico (Ano B).
 O tempo do Advento é um tempo onde a igreja nos convida à conversão, a deixarmos Deus moldar a nossa vida, um tempo para voltado a nos ajudar na preparação da nossa vida para o momento do nosso encontro com Deus.
 
 É um tempo propício ao arrependimento das nossas faltas e um convite à reconsciliação, à confissão.
