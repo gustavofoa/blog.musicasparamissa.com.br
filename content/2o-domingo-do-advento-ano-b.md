@@ -11,7 +11,7 @@ Nós não somos capazes de compreender o tempo de Deus, o Kairós.
 O fato é que **Deus é a plena sabedoria** e o momento certo d'Ele intervir neste mundo é cirúgico.
 Ele não quer perder nenhum de Seus filhos!
 
-A liturgia deste 2º Domingo do Advento (13 de dezembro de 2020) nos traz
+A liturgia deste 2º Domingo do Advento (6 de dezembro de 2020) nos traz
 a necessidade de preparamos o mundo para a próxima manifestação do Senhor, que será definitiva.
 
 Nós como filhos de Deus, como João Batista, temos a obrigação de 
