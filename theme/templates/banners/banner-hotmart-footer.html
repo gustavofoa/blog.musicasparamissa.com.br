@@ -1,14 +1,10 @@
 
-{% set random_hotmart_1 = range(1, 4)|random %}
+{% set random_hotmart_1 = range(1, 2)|random %}
 
 <div class="col-sm-3 col-xs-12">
 {% if random_hotmart_1 == 1 %}
-    {% include 'banners/hotmart/footer/centralcontato-baixo.html' %}
+    {% include 'banners/hotmart/footer/plataforma-inscricoes-abertas.html' %}
 {% elif random_hotmart_1 == 2 %}
     {% include 'banners/hotmart/footer/centralcontato-guitarra.html' %}
-{% elif random_hotmart_1 == 3 %}
-    {% include 'banners/hotmart/footer/centralcontato-teclado.html' %}
-{% elif random_hotmart_1 == 4 %}
-    {% include 'banners/hotmart/footer/centralcontato-violao.html' %}
 {% endif %}
 </div>
