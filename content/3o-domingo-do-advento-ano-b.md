@@ -13,7 +13,7 @@ Mas quem é o Cristo e por quê devemos ser responsáveis pelo sorriso que os no
 O evangelho deste domingo 13/12/2020 apresenta João Batista como humilde e generoso anunciador do Cristo, do Messias,
 que todo o povo Judeu esperava, pois tinha sido prometido pelos profetas.
 
-João Batista vivia no deserto em jejum e penitência, comia gafanhotos e mel e se vestia com pele de camelos.
+João Batista vivia no deserto em jejum e penitência, comia gafanhotos e mel silvestre e se vestia com pele de camelo.
 
 Podemos até pensar: Que exagero! Pra quê tudo isso? Como uma pessoa pode ser feliz fazendo coisas desse tipo.
 
@@ -42,7 +42,7 @@ Tudo que podemos ver passa...
 Esta é a diferença de mentalidade entre os santos que vão para o céu e as pessoas que não vão.
 
 João Batista é um grande exemplo que despresou o mundo material e centrou toda sua vida em Jesus.
-A vida de João foi apontar aquele que é o início, meio e fim de tudo que existe.
+A vida de João foi apontar Aquele que é o início, meio e fim de tudo que existe.
 
 Olhe para a vida de 
 [Santa Maria Egipcíaca](https://padrepauloricardo.org/blog/a-prostituta-barrada-na-porta-da-igreja){:target=\_blank}
@@ -63,11 +63,11 @@ Infelizmente, muitos irmãos se perdem procurando esta alegria em coisas e praze
 E por isso todos que realmente encontram a alegria de estar na paz do Senhor é impelido a participar do projeto de Deus
 de recuperar as ovelhas que estão perdidas.
 
-E a prova que as elas precisam é justamente esta alegria santa que só é possível de ser sentida
+E a prova que elas precisam é justamente esta alegria santa que só é possível de ser sentida
 quando de fato o emissor está em comunhão com o Cristo.
 
 Logo, se estamos realmente comprometidos com o projeto de Deus,
-nós somos totalmente responsáveis pelo sorriso que os nossos irmãos veem em nossa face.
+nós somos totalmente responsáveis pelo sorriso que os nossos irmãos vêem em nossa face.
 
 Não adianta qualquer projeto de marketing para atrair as pessoas para Deus senão a própria vida de santidade.
 
@@ -76,7 +76,7 @@ Você quer evangelizar com a música? Antes disso, evangelize com a própria vid
 Se for tocar/cantar a missa deste **3º Domingo do Advento - Ano B**, dia 13/12/2020,
 aqui estão as nossas sugestões de músicas:
 
-[**>> Sugestões de música para a missa do 3º Domingo do Advento - Ano B**](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-do-advento-ano-b/){:target=\_blank}
+[**>> Sugestões de música para a Missa do 3º Domingo do Advento - Ano B**](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-do-advento-ano-b/){:target=\_blank}
 
 E se for cantar o salmo, temos uma sugestão de melodias que pode te ajudar, confira aqui:
 
