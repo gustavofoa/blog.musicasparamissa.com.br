@@ -1,12 +1,12 @@
-﻿title: Deixaram tudo e O seguiram! 
-date: 2018-01-18
+﻿title: Deixaram tudo e O seguiram!
+date: 2021-01-19
 author: Maikon Máximo
 category: Reflexões
 slug: 3o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 3º domingo do tempo comum - Ano B
 image: https://blog.musicasparamissa.com.br/images/Deixaram-tudo-e-O-seguiram.jpg
 
-Refletindo a liturgia da palavra deste 3º domingo do tempo comum (ano b), dia 21/01/2018.
+Refletindo a liturgia da palavra deste **3º domingo do tempo comum (Ano B)**, dia 24/01/2021.
 
 João Batista é preso por sua radicalidade. 
 
@@ -27,7 +27,7 @@ alguém que não fosse radical nas contas,
 pois alguém que não fosse até a raiz dos tesouros da empresa
 e realizasse os cálculos corretos, certamente a traria grande problemas futuros." 
 
-A radicalidade de João Batista éra justamente essa!
+A radicalidade de João Batista era justamente essa!
 Ir até a raiz entranhada nos planos de Deus e arroladas ao futuro da humanidade.
 Foi ele o último profeta a anunciar a chegada do Cristo (O ungido).
 O Profeta pregou o batismo de conversão, dizendo:
@@ -94,7 +94,7 @@ André foi crucificado em Patros da Acaia, cidade na qual havia sido eleito bisp
 durante o reinado de Trajano, por ordem do pró-cônsul romano, Egeias. Foi amarrado,
 a uma cruz em forma de X, que ficou conhecida como a “Cruz de Santo André”. 
 
-Talvez, Pedro e André, deixaram imediatamente as redes,
+Talvez Pedro e André deixaram imediatamente as redes,
 por toda construção do plano de Deus através de João Batista.
 Nós como músicos Católicos, precisamos preparar os corações dos outros
 para que se abram e larguem suas "redes" para seguir Jesus. 
