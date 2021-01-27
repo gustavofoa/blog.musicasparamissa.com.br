@@ -9,8 +9,8 @@ image: https://blog.musicasparamissa.com.br/images/autoridade.jpg
 Carfanaum era a cidade as margens norte do Mar da Galileia, próxima de Betsaida.
 Foi nesta região onde Jesus morava, que aconteceu os grandes chamados dos discípulos de Cristo.
 
-O evangelho do próximo domingo (dia 28/01/2018) diz que Jesus chega ao Sábado em uma sinagoga e começa a ensinar! 
-Vale ressaltar de forma prática o motivo do domingo, ser, por nós considerado o dia do Senhor.
+O evangelho do próximo domingo (dia 31/01/2020) diz que Jesus chega ao Sábado em uma sinagoga e começa a ensinar! 
+Vale ressaltar de forma prática o motivo do domingo ser, por nós considerado o dia do Senhor.
 
 Cristo ressuscitou no Domingo, os Apóstolos e discípulos reuniam-se no Domingo, e, portanto,
 o Domingo obedece o preceito divino e aperfeiçoa sua obediência ao separar
@@ -61,11 +61,11 @@ deixando-nos quites com a Lei e permitindo que fôssemos salvos, mesmo sem cumpr
 
 Vai tocar/cantar na missa do **4º domingo do tempo comum - Ano B**? Aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-b)
+[**>> Sugestões de música para a missa do 4º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-b)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 94 - NÃO FECHEIS O CORAÇÃO, OUVI HOJE A VOZ DE DEUS!**](https://musicasparamissa.com.br/musica/salmo-94-nao-fecheis-o-coracao-ouvi-hoje-a-voz-de-deus/)
+[**>> Melodia para o SALMO 94 - NÃO FECHEIS O CORAÇÃO, OUVI HOJE A VOZ DE DEUS!**](https://musicasparamissa.com.br/musica/salmo-94-nao-fecheis-o-coracao-ouvi-hoje-a-voz-de-deus/)
 
 Que Deus nos abençoe!
 
