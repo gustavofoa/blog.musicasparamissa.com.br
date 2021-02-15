@@ -6,7 +6,7 @@ slug: 6o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 6º domingo do tempo comum - Ano B
 image: https://blog.musicasparamissa.com.br/images/leproso-de-joelhos-diante-de-Jesus.jpg
 
-O evangelho do próximo domingo (11/02/2018) nos fala sobre fé
+O evangelho do próximo domingo (14/02/2021) nos fala sobre fé
 e ao mesmo tempo sobre saber colocar em prática os pedidos de Jesus.
  
 Imagine você, cara a cara com Jesus; pedindo a ele que o cure de todos as suas dores. 
@@ -49,7 +49,7 @@ mas uma aliança e, por esse motivo veio a nós.
 O evangelho ainda diz que Jesus pede ao leproso que não saia por aí falando da cura.
 Parece que ele não aquentou segurar e (deu com a língua nos dentes).
 Jesus não queria fãs!
-Não queria ser, Pop!
+Não queria ser ... Pop!
 
 Jesus, sendo Divino, veio cumprir a lei, mas sendo humano, se compadecia das misérias humanas.
 Sendo assim Jesus curava, por amor!
@@ -62,15 +62,14 @@ mas sim para que a própria existência que é DEUS, nos conduza para uma vida c
 Tenha fé para existir!
 Exista para ter fé! 
 
-Se for preparar músicas para a missa do **6º domingo do tempo comum - Ano B**.
+Se for preparar músicas para a missa do **6º Domingo do Tempo Comum**.
 Aqui estão as nossas sugestões:
 
-
-[**>>Sugestões de música para a missa do 6º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-b)
+[**>> Sugestões de música para a missa do 6º Domingo do Tempo Comum**](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 31 - SOIS SENHOR PARA MIM, ALEGRIA E REFÚGIO.**](https://musicasparamissa.com.br/musica/salmo-31-sois-senhor-para-mim-alegria-e-refugio/)
+[**>> Melodia para o SALMO 31 - SOIS SENHOR PARA MIM, ALEGRIA E REFÚGIO.**](https://musicasparamissa.com.br/musica/salmo-31-sois-senhor-para-mim-alegria-e-refugio/){:target=\_blank}
 
 Que Deus nos abençoe!
 

@@ -1,5 +1,5 @@
 ﻿title: Jesus, o Pão da Vida
-date: 2018-02-15
+date: 2021-02-15
 author: Maikon Máximo
 category: Reflexões
 slug: 1o-domingo-da-quaresma-ano-b
@@ -41,7 +41,7 @@ mas não alcança resultados pois não consegue enxergar o mistério da encarna�
 Na quaresma revivemos este tempo, levando em conta o reconhecimento de Jesus!
 É um tempo de reflexão e de silêncio do coração, jejum, e entrega de seus vícios a Deus.
 
-A “Quaresma”  do latim “Quadragesima”  significa “quarenta dias”;  preparação para a Páscoa do Senhor.
+A “Quaresma”  do latim “Quadragesima” significa “quarenta dias”;  preparação para a Páscoa do Senhor.
 A quaresma dura da Quarta-Feira de Cinzas até a Quinta Feira Santa.
 
 O número 40 nos remete a  Noé e os  40 dias na Arca, e Moisés, vagando por 40 anos no deserto.
@@ -59,11 +59,11 @@ Que nessa quaresma você se torne mais santo e colabore para a santidade dos nos
 
 Se for tocar/cantar na missa deste **1º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 1º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/1o-domingo-da-quaresma-ano-b/)**
+**[>> Sugestões de música para a missa do 1º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/1o-domingo-da-quaresma-ano-b/)**
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-**[>>Melodia para o SALMO 24 - VERDADE E AMOR, SÃO OS CAMINHOS DO SENHOR](https://musicasparamissa.com.br/musica/salmo-24-verdade-e-amor-sao-os-caminhos-do-senhor/)**
+**[>> Melodia para o SALMO 24 - VERDADE E AMOR, SÃO OS CAMINHOS DO SENHOR](https://musicasparamissa.com.br/musica/salmo-24-verdade-e-amor-sao-os-caminhos-do-senhor/)**
 
 Boa quaresma!
 
