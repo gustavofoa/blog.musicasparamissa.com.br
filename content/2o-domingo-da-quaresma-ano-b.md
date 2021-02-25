@@ -1,5 +1,5 @@
 ﻿title: Veja, ouça, sinta.
-date: 2018-02-21
+date: 2025-02-25
 author: Maikon Máximo
 category: Reflexões
 slug: 2o-domingo-da-quaresma-ano-b
@@ -45,7 +45,7 @@ E que voz é essa?
 
 O próprio Deus. E o que ele pede? 
 
-Ouçam meu filho! 
+Ouçam meu Filho! 
 
 Lembram de algo parecido nas bodas de caná? 
 Pois é...
@@ -58,29 +58,29 @@ Ambos foram eleitos por Cristo para que O acompanhassem nos momentos mais difíc
 
 
 Pedro foi aquele que fez sua confissão de fé infalível em Cesaréia de Felipe, tornando-se vigário do reino!
-Tiago, o  Maior se tornou símbolo da resistência cristã aos ataques muçulmanos na Espanha. Aqui vale ressaltar para que não se confunda com Tiago Menor, que foi Bispo de Jerusalém.
+Tiago, o  Maior, se tornou símbolo da resistência cristã aos ataques muçulmanos na Espanha. Aqui vale ressaltar para que não se confunda com Tiago Menor, que foi Bispo de Jerusalém.
 
-João foi aquele ao qual Jesus entrega sua Mãe no Calvário, das cadeias de montes do Moriá. E também, o discípulo que vislumbrou a missa quando teve a visão do Apocalipse na ilha de Patmos.
+João foi aquele ao qual Jesus entrega sua Mãe no Calvário, das cadeias de montes do Moriá. E também, o discípulo que vislumbrou a Missa quando teve a visão do Apocalipse na ilha de Patmos.
 
 Ao final deste fantástico Evangelho, Jesus pede para que os discípulos não contem o que viram até que ele Ressuscite dos Mortos. 
 Os discípulos observam a ordem porém ainda tinham muitas dúvidas sobre o que seria Ressuscite dos mortos. 
 
-Vejamos que hoje já temos a revelação, já temos o magistério, já temos a ordem, "fazei isso." mas ainda continuamos procrastinando na fé! Temos medo de seguir e medo de aceitar que o que Deus tem para aqueles que voz amam é muito mais do que tudo que já vivemos até aqui! 
+Vejamos que hoje já temos a revelação, já temos o magistério, já temos a ordem, "fazei isso." mas ainda continuamos procrastinando na fé! Temos medo de seguir e medo de aceitar que o que Deus tem para aqueles que vos amam é muito mais do que tudo que já vivemos até aqui! 
 
-Ouça Jesus, ame Jesus e o seu plano de  Salvação, que é exatamente este sentido que você procura pra sua vida, mas não encontra pois ainda não entendeu o que é participar do grandioso mistério da renovação do sacrifício do Calvário. 
+Ouça Jesus, ame Jesus e o seu plano de Salvação, que é exatamente este sentido que você procura pra sua vida, mas não encontra pois ainda não entendeu o que é participar do grandioso mistério da renovação do sacrifício do Calvário. 
 
 E voltando todos os seus sentidos
 - audição, visão, alfato, paladar, tato -
 e todo o seu amor para Cristo,
 ofereça o seu ministério (trabalho) para contribuir e levar a salvação à muitos.
 
-Se for tocar/cantar na missa deste **2º domingo da quaresma**., clique no link abaixo para conferir as nossas sugestões de músicas.
+Se for tocar/cantar na missa deste **2º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 2º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-b/)**
+**[>> Sugestões de música para a missa do 2º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-b/){:target=\_blank}**
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-**[>>Melodia para o SALMO 115 - ANDAREI NA PRESENÇA DE DEUS, JUNTO A ELE NA TERRA DOS VIVOS](https://musicasparamissa.com.br/musica/salmo-115-andarei-na-presenca-de-deus-junto-ele-na-terra-dos-vivos/)**
+**[>> Melodia para o SALMO 115 - ANDAREI NA PRESENÇA DE DEUS, JUNTO A ELE NA TERRA DOS VIVOS](https://musicasparamissa.com.br/musica/salmo-115-andarei-na-presenca-de-deus-junto-ele-na-terra-dos-vivos/){:target=\_blank}**
 
 Boa quaresma!
 
