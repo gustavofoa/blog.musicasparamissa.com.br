@@ -1,5 +1,5 @@
 ﻿title: O Criador pagou a conta.
-date: 2020-03-04
+date: 2021-03-04
 author: Maikon Máximo
 category: Reflexões
 slug: 3o-domingo-da-quaresma-ano-b
