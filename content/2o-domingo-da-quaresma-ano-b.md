@@ -1,5 +1,5 @@
 ﻿title: Veja, ouça, sinta.
-date: 2025-02-25
+date: 2021-02-25
 author: Maikon Máximo
 category: Reflexões
 slug: 2o-domingo-da-quaresma-ano-b
