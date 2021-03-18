@@ -20,7 +20,7 @@ Muitas vezes, precisamos abrir mão de planos e sonhos, precisamos "morrer" pra 
 
 ![Jesus Cristo na cruz](https://blog.musicasparamissa.com.br/images/morte-de-cristo.jpg){:style="width:100%;"}
 
-A união hipostática, dogma promulgodo em Concílio pela Igreja, diz que Jesus tem a natureza divina e a humana.
+A união hipostática, dogma promulgado em Concílio pela Igreja, diz que Jesus tem a natureza divina e a humana.
 Em outras palavras, ele, mesmo sendo divino, se fez homem por nós.
 
 Quando no evangelho Jesus fala sobre sua angustia, ou seja, sua natureza humana ele não foge e pelo contrário,
