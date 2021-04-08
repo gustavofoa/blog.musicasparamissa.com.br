@@ -1,9 +1,9 @@
 ﻿title: Bem-aventurados os que creram sem terem visto!
-date: 2018-04-05
+date: 2021-04-08
 author: Maikon Máximo
 category: Reflexões
 slug: 2o-domingo-da-pascoa-ano-b
-description: Reflexão sobre a liturgia do 2º Domingo da Páscoa ano B!
+description: Reflexão sobre a liturgia do 2º Domingo da Páscoa ano B
 image: https://static.musicasparamissa.com.br/images/diasLiturgicos/S%C3%A3o-Tom%C3%A9.jpg
 
 
@@ -59,20 +59,16 @@ Ele já venceu!
 
 
 
-Se for tocar/cantar na missa deste **2º domingo da páscoa**, clique no link abaixo para conferir as nossas sugestões de músicas.
+Se for tocar/cantar na missa deste **2º Domingo da Páscoa**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 2º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-pascoa-ano-b/)**
+**[>>Sugestões de música para a missa do 2º Domingo da Páscoa](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-pascoa-ano-b/)**
 
+Temos também duas sugestões de melodia do Salmo 117(118) deste domingo:
 
-Gostou do post? Quer saber mais sobre a igreja?
+[**>> 1ª Sugestão de Melodia do SALMO 117 (118) - DAI GRAÇAS AO SENHOR, PORQUE ELE É BOM! "ETERNA É A SUA MISERICÓRDIA!" (Ir. Miria Kolling)**](https://musicasparamissa.com.br/musica/salmo-117-118-dai-gracas-ao-senhor-ar-goiania/){:target=\_blank}
 
-Entre em contato e saiba como levar uma Palestra, Formação, Luau e/ou Show com **Maikon Máximo** para tua
-cidade, catequese, paróquia, grupo, pastoral...
+[**>> 2ª Sugestão de Melodia do SALMO 117 (118) - DAI GRAÇAS AO SENHOR, PORQUE ELE É BOM! "ETERNA É A SUA MISERICÓRDIA!" (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-117-118-dai-gracas-ao-senhor-paulo-neto/){:target=\_blank}
 
-Estado de São Paulo:
-(11) 98965-0018 - Letícia
-Demais regiões:
-(33) 8447-8524 - Farlei
 
 Uma abençoada Semana para você e sua família!
 
