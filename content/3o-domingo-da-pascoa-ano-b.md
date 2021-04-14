@@ -1,9 +1,9 @@
 ﻿title: Um forasteiro em Jerusalém
-date: 2018-04-11
+date: 2021-04-14
 author: Maikon Máximo
 category: Reflexões
 slug: 3o-domingo-da-pascoa-ano-b
-description: Reflexão sobre a liturgia do 3º Domingo da Páscoa ano B!
+description: Reflexão sobre a liturgia do 3º Domingo da Páscoa ano B
 image: https://blog.musicasparamissa.com.br/images/discipulos-de-emaus.jpg
 
 O que você faria diante de uma verdade que deve ser revelada, versus o medo de ser retalhado?
@@ -84,24 +84,17 @@ Poderemos reconhece-lo na fração do pão.
 Para que a Paz celestial habite em nós e sejamos testemunhas de tudo isso.
 
 
-Se for tocar/cantar na missa deste **3º domingo da páscoa**, clique no link abaixo para conferir as nossas sugestões de músicas.
+Se for tocar/cantar a missa deste **3º Domingo da Páscoa**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 3º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-pascoa-ano-b/){:target=\_blank}**
+**[>> Sugestões de música para a missa do 3º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-pascoa-ano-b/){:target=\_blank}**
 
-Também gravamos uma melodia para o salmo deste domingo. Clique no link abaixo para conferir a nossa sugestão de melodia.
+Também temos duas sugestões de melodia para o salmo deste domingo.
+Confira nos links abaixo.
 
-**[>>Sugestão de melodia para o SALMO 4 - SOBRE NÓS FAZEI BRILHAR O ESPLENDOR DE VOSSA FACE!](https://musicasparamissa.com.br/musica/salmo-4-sobre-nos-fazei-brilhar/){:target=\_blank}**
+**[>> Sugestão de melodia para o SALMO 4 - SOBRE NÓS FAZEI BRILHAR O ESPLENDOR DE VOSSA FACE!](https://musicasparamissa.com.br/musica/salmo-4-sobre-nos-fazei-brilhar/){:target=\_blank}**
 
+**[>> Sugestão de melodia para o SALMO 4 - SOBRE NÓS FAZEI BRILHAR O ESPLENDOR DE VOSSA FACE! (André Zamur)](https://musicasparamissa.com.br/musica/salmo-4-sobre-nos-fazei-brilhar-ar-goiania/){:target=\_blank}**
 
-Gostou do post? Quer saber mais sobre a igreja?
-
-Entre em contato e saiba como levar uma Palestra, Formação, Luau e/ou Show com **Maikon Máximo** para tua
-cidade, catequese, paróquia, grupo, pastoral...
-
-Estado de São Paulo:
-(11) 98965-0018 - Letícia
-Demais regiões:
-(33) 8447-8524 - Farlei
 
 Uma abençoada Semana para você e sua família!
 
