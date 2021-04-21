@@ -1,5 +1,5 @@
 ﻿title: Da espada ao cajado
-date: 2018-04-17
+date: 2021-04-21
 author: Maikon Máximo
 category: Reflexões
 slug: 4o-domingo-da-pascoa-ano-b
@@ -9,7 +9,7 @@ image: https://blog.musicasparamissa.com.br/images/pastor.jpg
 
 Em se falando das naturezas de Jesus, podemos ver uma verdade de fé revelada pelo próprio Cristo quando diz:
 
-"Ninguém tira a minha vida, 
+> "Ninguém tira a minha vida, 
 eu a dou por mim mesmo; 
 tenho poder de entregá-la 
 e tenho poder de recebê-la novamente; 
@@ -23,7 +23,8 @@ Neste Evangelho cheio de sentidos podemos levar em conta duas coisas.
 
 Seria lícito proteger suas ovelhas mesmo que isso cause a morte do agressor?
 Um pai, na condição de protetor, tem o dever de zelar pela vida do filho.
-De fato, a ordem divina "Não matarás" significa que ninguém pode matar sem motivo, sem razão. 
+
+De fato, a ordem divina "Não matarás" significa que ninguém pode matar sem motivo, sem razão.
 Porém se a defesa proporcional causar a morte do agressor, este, apesar de conter em si matéria grave,
 também recorre ao ato de puro amor e compaixão para com a vítima.
 
@@ -77,11 +78,13 @@ do que é comunhão, da razão e da fé, e da Santa tradição.
 
 Se for tocar/cantar na missa deste **4º domingo da páscoa**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 4º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-b/){:target=\_blank}**
+**[>> Sugestões de música para a missa do 4º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-pascoa-ano-b/){:target=\_blank}**
 
-Também gravamos uma melodia para o salmo deste domingo. Clique no link abaixo para conferir a nossa sugestão de melodia.
+Também temos duas sugestões de melodia para o salmo deste domingo. Clique nos links abaixo para conferir.
 
-**[>>Sugestão de melodia para o SALMO 117 (118) - A PEDRA QUE OS PEDREIROS REJEITARAM, TORNOU-SE AGORA A PEDRA ANGULAR](https://musicasparamissa.com.br/musica/salmo-a-pedra-que-os-pedreiros/){:target=\_blank}**
+**[>> 1ª Sugestão de melodia para o SALMO 117 (118) - A PEDRA QUE OS PEDREIROS REJEITARAM, TORNOU-SE AGORA A PEDRA ANGULAR](https://musicasparamissa.com.br/musica/salmo-a-pedra-que-os-pedreiros/){:target=\_blank}**
+
+**[>> 2ª Sugestão de melodia para o SALMO 117 (118) - A PEDRA QUE OS PEDREIROS REJEITARAM, TORNOU-SE AGORA A PEDRA ANGULAR. (Fr. Joel Postma)](https://musicasparamissa.com.br/musica/salmo-117-118-a-pedra-que-os-pedreiros-ar-goiania/){:target=\_blank}**
 
 Uma abençoada Semana para você e sua família!
 
