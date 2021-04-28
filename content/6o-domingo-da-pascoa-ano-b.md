@@ -1,9 +1,9 @@
 ﻿title: Amai-vos uns aos outros.
-date: 2018-05-03
+date: 2021-04-28
 author: Maikon Máximo
 category: Reflexões
 slug: 6o-domingo-da-pascoa-ano-b
-description: Reflexão sobre a liturgia do 6º Domingo da Páscoa ano B!
+description: Reflexão sobre a liturgia do 6º Domingo da Páscoa ano B
 image: https://blog.musicasparamissa.com.br/images/santa-ceia.jpg
 
 O evangelho deste domingo pode ser muito difícil de compreender,
@@ -14,7 +14,7 @@ Jesus fala aos discípulos sobre o amor e como o amor do Pai com ele se compara 
 O Pai tem uma missão para o filho e também Jesus tem uma missão para eles.
 
 Do mesmo modo que permanece no Pai e o Pai nele,
-Jesus diz aos discípulos para que permanecam nele e aí então ele irá permanecer neles.
+Jesus diz aos discípulos para que permaneçam nele e aí então ele irá permanecer neles.
 
 ![Santa Ceia](https://blog.musicasparamissa.com.br/images/santa-ceia.jpg){:style="width:100%;"}
 
@@ -45,17 +45,17 @@ que você deve conhecer: Batismo. Confissão, Crisma, Ordem, Eucaristia, Matrim�
 
 Então fica claro que nem sempre o que for pedido será concedido,
 mas o que for motivo de redenção para nós Será alcançado,
-pois pedir, pressupõe querer e querer, pressupõe mudança, logo,
+pois pedir pressupõe querer e querer pressupõe mudança, logo,
 querer mudar para melhor servir o reino pode nos levar a alcançar uma graça ou até mesmo um milagre.
 Sendo a base do amor, a fé, em outras palavras, Jesus pede aos discípulos, "tenham fé".
 
 Se for tocar/cantar na missa do **6º domingo da páscoa**, confira as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 6º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-da-pascoa-ano-b/){:target=\_blank}**
+**[>> Sugestões de música para a missa do 6º domingo da páscoa](https://musicasparamissa.com.br/sugestoes-para/6o-domingo-da-pascoa-ano-b/){:target=\_blank}**
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 97 (98) - O SENHOR FEZ CONHECER A SALVAÇÃO E REVELOU SUA JUSTIÇA ÀS NAÇÕES**](https://musicasparamissa.com.br/musica/salmo-97-98-o-senhor-fez-conhecer-a-salvacao-e-revelou/){:target=\_blank}
+[**>> Melodia para o SALMO 97 (98) - O SENHOR FEZ CONHECER A SALVAÇÃO E REVELOU SUA JUSTIÇA ÀS NAÇÕES**](https://musicasparamissa.com.br/musica/salmo-97-98-o-senhor-fez-conhecer-a-salvacao-e-revelou/){:target=\_blank}
 
 Uma abençoada semana para você e sua família!
 
