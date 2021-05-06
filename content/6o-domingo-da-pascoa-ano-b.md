@@ -1,5 +1,5 @@
 ﻿title: Amai-vos uns aos outros.
-date: 2018-04-28
+date: 2021-05-05
 author: Maikon Máximo
 category: Reflexões
 slug: 6o-domingo-da-pascoa-ano-b
