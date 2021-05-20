@@ -1,5 +1,5 @@
 ﻿title: A paz esteja convosco!
-date: 2020-05-26
+date: 2021-05-20
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: domingo-de-pentecostes
@@ -49,7 +49,7 @@ E como **São João Paulo II** disse aos jovens: **Não tenham medo!**
 
 Se você for tocar/cantar a missa deste **Domingo de Pentecostes**, abaixo você pode conferir nossas sugestões de músicas .
 
-**[>>Sugestões de música para a missa de Pentecostes](https://musicasparamissa.com.br/sugestoes-para/domingo-de-pentecostes){:target=\_blank}**
+**[>> Sugestões de música para a missa de Pentecostes](https://musicasparamissa.com.br/sugestoes-para/domingo-de-pentecostes){:target=\_blank}**
 
 Temos duas sugestões de melodia para o salmo.
 
