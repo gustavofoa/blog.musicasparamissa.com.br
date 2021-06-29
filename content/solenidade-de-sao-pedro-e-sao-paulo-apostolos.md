@@ -1,18 +1,19 @@
 title: São Pedro e São Paulo
-date: 2020-06-25
+date: 2021-06-29
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-de-sao-pedro-e-sao-paulo-apostolos
 description: Reflexão sobre a Solenidade de São Pedro e São Paulo, Apóstolos
 image: https://blog.musicasparamissa.com.br/images/sao-pedro-e-sao-paulo.jpg
 
-No próximo domingo (28 de junho de 2019) a igreja celebra a **Solenidade de São Pedro e São Paulo**.
+No próximo domingo (04 de julho de 2021) a igreja no Brasil 
+celebra a **Solenidade de São Pedro e São Paulo**.
 Dois dos maiores instrumentos de Deus após a encarnação do Verbo Divino.
 Em São Pedro o próprio Jesus edificou a Sua Igreja.
 E São Paulo foi o apóstolo que só viu Jesus após a morte deste.
 
 Estes dois mártires viveram em plenitude a fé católica,
-a ponto de São Paulo dizer: "Não sou mais eu que vivo, mas Cristo que vive em mim!"
+a ponto de São Paulo dizer: _"Não sou mais eu que vivo, mas Cristo que vive em mim!"_
 A maioria das "Segundas leituras" que lemos todos os domingos na missa é uma das cartas de São Paulo.
 
 Os primeiros anos do cristianismo foram os mais difíceis da nossa igreja e graças,
