@@ -20,7 +20,7 @@ Os primeiros anos do cristianismo foram os mais difíceis da nossa igreja e gra�
 principalmente, a estes dois Santos, o evangelho pôde ser levado a todas as nações.
 Eles deram a vida para evangelizar.
 
-![São Pedro e São Paulo](/images/sao-pedro-e-sao-paulo.jpg){:style="width: 100%; padding: 10px;"}
+![São Pedro e São Paulo](https://blog.musicasparamissa.com.br/images/sao-pedro-e-sao-paulo.jpg){:style="width: 100%; padding: 10px;"}
 
 É importante notar que São Pedro e São Paulo não foram os maiores exemplos de fé
 antes de serem escolhidos por Jesus.
@@ -37,15 +37,15 @@ e que um dia possamos também felizes dizer:
 
 Aqui estão as sugestões de músicas para o próximo domingo:
 
-[**>>Sugestões de música para a missa da Solenidade de São Pedro e São Paulo, Apóstolos**](https://musicasparamissa.com.br/sugestoes-para/solenidade-de-sao-pedro-e-sao-paulo-apostolos/)
+[**>> Sugestões de música para a missa da Solenidade de São Pedro e São Paulo, Apóstolos**](https://musicasparamissa.com.br/sugestoes-para/solenidade-de-sao-pedro-e-sao-paulo-apostolos/)
 
-Temos três sugestões de melodias para o Salmo deste domingo ():
+Temos três sugestões de melodias para o Salmo da missa deste domingo:
 
-[**>>Sugestão 1: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Gustavo)**](https://musicasparamissa.com.br/musica/salmo-33/)
+[**>> Sugestão 1: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Gustavo)**](https://musicasparamissa.com.br/musica/salmo-33/)
 
-[**>>Sugestão 2: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Leandro)**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores/)
+[**>> Sugestão 2: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Leandro)**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores/)
 
-[**>>Sugestão 3: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Marcus Lima)**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores-marcus-lima-versao-masculina/)
+[**>> Sugestão 3: Salmo 33 - DE TODOS OS TEMORES ME LIVROU O SENHOR DEUS (Marcus Lima)**](https://musicasparamissa.com.br/musica/salmo-33-de-todos-os-temores-marcus-lima-versao-masculina/)
 
 Lembrando que você pode acessar o nosso [site](https://musicasparamissa.com.br/) 
 a qualquer momento e escolher o dia no calendário para ver as nossas sugestões de música.
