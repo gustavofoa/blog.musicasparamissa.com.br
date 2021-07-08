@@ -6,7 +6,7 @@ slug: 15o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 15º domingo do tempo comum - Ano B
 image: https://blog.musicasparamissa.com.br/images/ide-ao-mundo.jpg
 
-No evangelho do próximo domingo (11/07/2018) veremos Jesus enviando seus discípulos. E Jesus os enviam de dois em dois.
+No evangelho do próximo domingo (11/07/2021) veremos Jesus enviando seus discípulos. E Jesus os enviam de dois em dois.
 
 Provavelmente o envio “dois a dois” seja uma referência ao costume judaico de viajar acompanhado,
 para ter ajuda e apoio em caso de necessidade; mas também parte de uma exigência da lei judaica,
