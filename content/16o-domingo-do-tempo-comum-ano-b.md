@@ -1,12 +1,12 @@
 title: Evangelho e tradição
-date: 2018-07-16
+date: 2021-07-13
 author: Maikon Máximo
 category: Reflexões
 slug: 16o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 16º domingo do tempo comum - Ano B
 image: https://blog.musicasparamissa.com.br/images/jesus-e-discipulos.jpg
 
-O evangelho deste domingo (22/07/2018) é uma continuação do evangelho visto domingo passado.
+O evangelho deste domingo (18/07/2021) é uma continuação do evangelho visto domingo passado.
 
 Os Apóstolos vieram até Jesus e disseram tudo que fizeram e ensinaram.
 
@@ -40,13 +40,13 @@ Cristo poderia confirmar o que foi feito até então?
 
 Pergunte-se e busque a verdade do evangelho e da tradição!
 
-Se for tocar/cantar nessa missa do **16º domingo do tempo comum - Ano B**, aqui estão as nossas sugestões de músicas:
+Se for tocar/cantar essa missa do **16º domingo do tempo comum - Ano B**, aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 16º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-b/)
+[**>> Sugestões de música para a missa do 16º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-b/)
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 22 -O SENHOR É O PASTOR QUE ME CONDUZ: FELICIDADE E TODO BEM HÃO DE SEGUIR-ME**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-que-me-conduz-felicidade-e-todo-bem-hao-de-seguir-me/)
+[**>> Melodia para o SALMO 22 -O SENHOR É O PASTOR QUE ME CONDUZ: FELICIDADE E TODO BEM HÃO DE SEGUIR-ME**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-que-me-conduz-felicidade-e-todo-bem-hao-de-seguir-me/)
 
 Que Deus nos abençoe!
 
