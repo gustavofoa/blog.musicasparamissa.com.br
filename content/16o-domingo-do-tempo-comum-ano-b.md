@@ -44,9 +44,13 @@ Se for tocar/cantar essa missa do **16º domingo do tempo comum - Ano B**, aqui 
 
 [**>> Sugestões de música para a missa do 16º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/16o-domingo-do-tempo-comum-ano-b/)
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, temos três sugestões de melodias que podem te ajudar, confira aqui:
 
-[**>> Melodia para o SALMO 22 -O SENHOR É O PASTOR QUE ME CONDUZ: FELICIDADE E TODO BEM HÃO DE SEGUIR-ME**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-que-me-conduz-felicidade-e-todo-bem-hao-de-seguir-me/)
+[**>> 1ª Melodia para o SALMO 22 -O SENHOR É O PASTOR QUE ME CONDUZ: FELICIDADE E TODO BEM HÃO DE SEGUIR-ME (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-que-me-conduz-felicidade-e-todo-bem-hao-de-seguir-me/)
+
+[**>> 2ª Melodia para o SALMO 22 -O SENHOR É O PASTOR QUE ME CONDUZ: FELICIDADE E TODO BEM HÃO DE SEGUIR-ME (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-que-me-conduz-felicidade-e-todo-bem-paulo-neto/)
+
+[**>> 3ª Melodia para o SALMO 22 -O SENHOR É O PASTOR QUE ME CONDUZ: FELICIDADE E TODO BEM HÃO DE SEGUIR-ME (Pâmela e Fernando)**](https://musicasparamissa.com.br/musica/salmo-22-o-senhor-e-o-pastor-que-me-conduz-felicidade-e-todo-bem-pamfe/)
 
 Que Deus nos abençoe!
 
