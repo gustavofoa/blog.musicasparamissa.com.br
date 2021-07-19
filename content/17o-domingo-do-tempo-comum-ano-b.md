@@ -1,5 +1,5 @@
 title: Só mais um milagre de Jesus?
-date: 2018-07-26
+date: 2021-07-19
 author: Maikon Máximo
 category: Reflexões
 slug: 17o-domingo-do-tempo-comum-ano-b
@@ -8,7 +8,7 @@ image: https://blog.musicasparamissa.com.br/images/jesus-e-os-paes-e-peixes.jpg
 
 Se não crermos nos milagres de Cristo, como acreditaremos na presença real da Eucaristia?
 
-O evangelho deste domingo (29/07/2018) é simples, quando se compreende o que há de complexo nele.
+O evangelho deste domingo (25/07/2021) é simples, quando se compreende o que há de complexo nele.
 A multiplicação não é um mero milagre, para mostrar o poder que Deus tem de saciar a fome do povo.
 
 Deus continua agindo através da ação do livre arbítrio,
@@ -16,7 +16,7 @@ e queira ou não este é um milagre, deixar toda criação livre para escolher.
 
 A ação de Jesus nos evangelhos teve um significado muito mais profundo que simplesmente o ato em si; porém não deixa de ser fácil quando se busca compreender sua didática.
 
-![Jesus e os pais e peixes](https://blog.musicasparamissa.com.br/images/jesus-e-os-paes-e-peixes.jpg){:style="width: 100%; padding: 10px;"}
+![Jesus e os pães e peixes](https://blog.musicasparamissa.com.br/images/jesus-e-os-paes-e-peixes.jpg){:style="width: 100%; padding: 10px;"}
 
 A multiplicação dos pães foi feita por Cristo para ensinar que Ele podia multiplicar sua presença real no pão eucarístico.
 
@@ -44,13 +44,17 @@ Por isso ele multiplicou os cinco pães ( a Lei ) e os dois peixes (salmos e Pro
 
 Jesus não era apenas um homem, é o Cristo e sendo o próprio Deus, o professor dos professores.
 
-Se for tocar/cantar nessa missa do **17º domingo do tempo comum - Ano B**, aqui estão as nossas sugestões de músicas:
+Se for tocar/cantar essa missa do **17º domingo do tempo comum - Ano B**, aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 17º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/17o-domingo-do-tempo-comum-ano-b/)
+[**>> Sugestões de música para a missa do 17º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/17o-domingo-do-tempo-comum-ano-b/)
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, temos três sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 144 - SACIAI OS VOSSOS FILHOS, Ó SENHOR!**](https://musicasparamissa.com.br/musica/salmo-144-saciai-os-vossos-filhos-o-senhor/)
+[**>> Melodia para o SALMO 144 - SACIAI OS VOSSOS FILHOS, Ó SENHOR! (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-144-saciai-os-vossos-filhos-o-senhor/)
+
+[**>> Melodia para o SALMO 144 - SACIAI OS VOSSOS FILHOS, Ó SENHOR! (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-144-saciai-os-vossos-filhos-o-senhor-paulo-neto/)
+
+[**>> Melodia para o SALMO 144 - SACIAI OS VOSSOS FILHOS, Ó SENHOR! (Pâmela e Fernando)**](https://musicasparamissa.com.br/musica/salmo-144-saciai-os-vossos-filhos-o-senhor-pamfe/)
 
 Que Deus nos abençoe!
 
