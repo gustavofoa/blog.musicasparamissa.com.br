@@ -1,5 +1,5 @@
 title: Maria e a Arca da Aliança
-date: 2020-08-10
+date: 2021-08-10
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: assuncao-de-nossa-senhora
@@ -88,11 +88,15 @@ Se você for tocar/cantar a missa da **Solenida de da Assunção de Nossa Senhor
 
 [**>>Sugestões de música para a missa de SOLENIDADE DA ASSUNÇÃO DE NOSSA SENHORA**](https://musicasparamissa.com.br/sugestoes-para/assuncao-de-nossa-senhora/){:target=\_blank}
 
-E temos duas sugestões de melodias para o salmo desta missa, confira aqui:
+E temos quatro sugestões de melodias para o salmo desta missa, confira aqui:
 
-[**>>Melodia 1 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita-se-encontra-a-rainha/){:target=\_blank}
+[**>> Melodia 1 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita-se-encontra-a-rainha/){:target=\_blank}
 
-[**>>Melodia 2 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita/){:target=\_blank}
+[**>> Melodia 2 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR (Leandro Evaristo)**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita/){:target=\_blank}
+
+[**>> Melodia 3 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR (Marcus Lima)**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita-se-encontra-a-rainha-marcus-lima-versao-masculina/){:target=\_blank}
+
+[**>> Melodia 4 para o SALMO 44 - A VOSSA DIREITA SE ENCONTRA A RAINHA, COM VESTE ESPLENDENTE DE OURO DE OFIR (Pâmela e Fernando)**](https://musicasparamissa.com.br/musica/salmo-44-a-vossa-direita-se-encontra-a-rainha-pamfe/){:target=\_blank}
 
 
 Que Nossa Senhora, a Arca da Nova Aliança, interceda por nós no céu.
