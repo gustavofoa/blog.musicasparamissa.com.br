@@ -1,5 +1,5 @@
 title: "Só Tu tens palavras de vida eterna!"
-date: 2018-08-22
+date: 2021-08-19
 author: Maikon Máximo
 category: Reflexões
 slug: 21o-domingo-do-tempo-comum-ano-b
@@ -7,8 +7,8 @@ description: Reflexão sobre o 21º domingo do tempo comum - Ano B
 image: https://static.musicasparamissa.com.br/images/diasLiturgicos/jesus-e-ap%C3%B3stolos.jpg
 
 A síntese de _João 6_ é o grande sermão do Pão da Vida.
-E como [já explicado anteriormente](https://blog.musicasparamissa.com.br/18o-domingo-do-tempo-comum-ano-b/){:target=\_blank},
-muitos não entenderam o que Jesus quis dizer ao falar que seu corpo seria dado como alimento.
+E [muitos não entenderam](https://blog.musicasparamissa.com.br/18o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
+ o que Jesus quis dizer ao falar que seu corpo seria dado como alimento.
 
 Porém muitos entenderam, mas mesmo assim assumiam que tais palavras eram "duras".
 E o indagavam...
@@ -34,12 +34,13 @@ que tu és o Santo de Deus".
 
 Veja a força contida nesta frase:
 **"A quem iremos, Senhor?"**
+
 Como quem diz...
 **"Não há a quem recorrer, somos teus."**
 
 De certa forma, realmente não há a quem recorrer...
 Tudo nesta vida vai passar, o tempo o vai levar e apenas pó restará,
-até que o vento o leve também..
+até que o vento o leve também...
 
 E nós no meio desta sentença? Onde iríamos? Onde fixariamos nossas esperanças?
 Somente aquele que tem palavras de vida eterna, poderia afagar nossa sede de vida.
@@ -69,14 +70,18 @@ Se o Reino de Cristo não é deste mundo, a quem iremos senão a Ele?
 
 A Igreja é caminho para que sigamos firmes e com nossas Cruzes até o encontro do único capaz de nos dar palavras de vida Eterna.
 
-Se for tocar/cantar nessa missa do **21º domingo do tempo comum - Ano B**, dia (26/08/2018),
+Se for tocar/cantar nessa missa do **21º domingo do tempo comum - Ano B**, dia (22/08/2021),
 aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 21º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/21o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
+[**>> Sugestões de música para a missa do 21º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/21o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, temos três sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 33 - PROVAI E VEDE QUÃO SUAVE É O SENHOR**](https://musicasparamissa.com.br/musica/salmo-33-provai-e-vede-quao-suave-e-o-senhor-2/){:target=\_blank}
+[**>> Melodia para o SALMO 33 - PROVAI E VEDE QUÃO SUAVE É O SENHOR (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-33-provai-e-vede-quao-suave-e-o-senhor-2/){:target=\_blank}
+
+[**>> Melodia para o SALMO 33 - PROVAI E VEDE QUÃO SUAVE É O SENHOR (Ir. Miria Kolling)**](https://musicasparamissa.com.br/musica/salmo-33-34-provai-e-vede-quao-suave-21-ir-miria/){:target=\_blank}
+
+[**>> Melodia para o SALMO 33 - PROVAI E VEDE QUÃO SUAVE É O SENHOR (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-33-provai-e-vede-quao-suave-e-o-senhor-21-paulo-neto/){:target=\_blank}
 
 Que Deus nos abençoe!
 
