@@ -1,5 +1,5 @@
 title: Se quiser ser o primeiro, seja o último de todos!
-date: 2018-09-20
+date: 2021-09-16
 author: Maikon Máximo
 category: Reflexões
 slug: 25o-domingo-do-tempo-comum-ano-b
