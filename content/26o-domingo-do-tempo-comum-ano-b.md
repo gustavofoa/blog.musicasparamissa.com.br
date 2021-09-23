@@ -72,12 +72,12 @@ mas para ficarmos longe das ocasiões próximas de pecado, tanto quanto possív
 pois ser privado do reino dos Céus é muito pior que a falta de qualquer de nossos membros! 
 
 
-Se for tocar/cantar nessa missa deste **26º domingo do tempo comum - Ano B**, dia (30/09/2018),
+Se for tocar/cantar nessa missa deste **26º domingo do tempo comum - Ano B**, dia (26/09/2021),
 aqui estão as nossas sugestões de músicas:
 
 [**>> Sugestões de música para a missa do 26º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/26o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, também temos três sugestões de melodia que podem te ajudar, confira aqui:
 
 [**>> Melodia para o SALMO 18 - A LEI DO SENHOR DEUS É PERFEITA, ALEGRIA AO CORAÇÃO. (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-18-a-lei-do-senhor-deus-e-perfeita-alegria-ao-coracao/){:target=\_blank}
 
