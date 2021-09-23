@@ -1,12 +1,12 @@
 title: Qualquer pessoa pode fazer exorcísmo?
-date: 2018-09-26
+date: 2021-09-23
 author: Maikon Máximo
 category: Reflexões
 slug: 26o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 26º domingo do tempo comum - Ano B
 image: /images/padre-gabriele-armorth.jpg
 
-Lendo o evangelho deste domingo (30/09/2018),
+Lendo o evangelho deste domingo (26/09/2021),
 me vieram muitas questões a cabeça...
 
 Estavamos, minha namorada, minha irmã e eu conversando sobre a passagem que intrigava. 
@@ -27,7 +27,7 @@ Afirmaram elas...
 
 De fato, são muitos os relatos em que pastores, mães e pais de santo precisaram contactar a Igreja Católica urgente por não conseguirem realizar um exorcismo. 
 
-Deste modo, sabemos e vemos constantemente na TV os chamados "shows da fé" onde pastores expulsam supostos espíritos malignos. Porém, se sabe que não passam de influências psicológicas, emocionais e técnicas de ipnose.
+Deste modo, sabemos e vemos constantemente na TV os chamados "shows da fé" onde pastores expulsam supostos espíritos malignos. Porém, se sabe que não passam de influências psicológicas, emocionais e técnicas de hipnose.
 
 No contexto da passagem, percebe-se a atuação de outros homens que tocados pela graça dispuseram-se também a servir, sem contudo fazer parte do número dos discípulos.
 Neste ponto, Jesus ensinava que certos demônios só serão expulsos com oração e jejum, na passagem onde ele exorta os discípulos. Naquele contexto ainda não havia a instituição formal do exorcista, cabendo àqueles que piamente viviam o ensinamento de Jesus a faculdade e autoridade de realizar inclusive milagres.
@@ -39,7 +39,7 @@ Do mesmo modo que antigamente os sacerdotes eram casados e a Igreja foi aperfei�
 Expulsar demônios tornou-se a faculdade pra autoridade, dos clérigos.
 O que na época não se dava por não haver essa organização estrutural da Igreja.
 
-![Padre exorcista Gabriele Amorth](/images/padre-gabriele-armorth.jpg){:style="width: 100%; padding: 10px;"}
+![Padre exorcista Gabriele Amorth](https://blog.musicasparamissa.com.br/images/padre-gabriele-armorth.jpg){:style="width: 100%; padding: 10px;"}
 
 Ainda sobre isso o CDC (Código de Direito Canônico) ainda afirma:
 
@@ -75,11 +75,15 @@ pois ser privado do reino dos Céus é muito pior que a falta de qualquer de nos
 Se for tocar/cantar nessa missa deste **26º domingo do tempo comum - Ano B**, dia (30/09/2018),
 aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 26º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/26o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
+[**>> Sugestões de música para a missa do 26º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/26o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
 
 E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 18 - A LEI DO SENHOR DEUS É PERFEITA, ALEGRIA AO CORAÇÃO.**](https://musicasparamissa.com.br/musica/salmo-18-a-lei-do-senhor-deus-e-perfeita-alegria-ao-coracao/){:target=\_blank}
+[**>> Melodia para o SALMO 18 - A LEI DO SENHOR DEUS É PERFEITA, ALEGRIA AO CORAÇÃO. (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-18-a-lei-do-senhor-deus-e-perfeita-alegria-ao-coracao/){:target=\_blank}
+
+[**>> Melodia para o SALMO 18 - A LEI DO SENHOR DEUS É PERFEITA, ALEGRIA AO CORAÇÃO. (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-18-a-lei-do-senhor-deus-e-perfeita-paulo-neto/){:target=\_blank}
+
+[**>> Melodia para o SALMO 18 - A LEI DO SENHOR DEUS É PERFEITA, ALEGRIA AO CORAÇÃO. (Ir. Miria Kolling)**](https://musicasparamissa.com.br/musica/salmo-18-19-a-lei-do-senhor-deus-e-perfeita-ir-miria/){:target=\_blank}
 
 Que Deus nos abençoe!
 
