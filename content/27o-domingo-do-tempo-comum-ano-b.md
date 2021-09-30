@@ -1,12 +1,12 @@
 title: A igreja anula casamento?
-date: 2018-10-03
+date: 2021-09-29
 author: Maikon Máximo
 category: Reflexões
 slug: 27o-domingo-do-tempo-comum-ano-b
 description: Reflexão sobre o 27º domingo do tempo comum - Ano B
 image: /images/matrimonio.jpg
 
-O evangelho deste domingo (07/10/2018) fala sobre uma questão colocada entre os Fariseus, para Jesus. 
+O evangelho deste domingo (03/10/2021) fala sobre uma questão colocada entre os Fariseus, para Jesus. 
 Perguntam a Cristo.
 Seria Correto o divórcio?
 
@@ -43,7 +43,7 @@ Existem perante a Igreja motivos para crer que não houve sacramento:
 19. Honestidade pública (cânon 1093)
 20. Parentesco legal por adoção (cânon 1094)
 
-![Sacramento do Matrimônio](/images/matrimonio.jpg){:style="width: 100%; padding: 10px;"}
+![Sacramento do Matrimônio](https://blog.musicasparamissa.com.br/images/matrimonio.jpg){:style="width: 100%; padding: 10px;"}
 
 Logo, a Igreja não anula casamento, mas verifica se realmente existiu o mesmo!
 Caso a Igreja entenda que nunca houve sacramento, expede documento aceitando a não existência do mesmo!
@@ -67,14 +67,18 @@ Mesmo elas não podendo fazer juízo do que é bom para elas, devemos nós, lev�
 
 
 
-Se for tocar/cantar nessa missa deste **27º domingo do tempo comum - Ano B**, dia (07/10/2018),
+Se for tocar/cantar nessa missa deste **27º domingo do tempo comum - Ano B**, dia (03/10/2021),
 aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 27º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/27o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
+[**>> Sugestões de música para a missa do 27º domingo do tempo comum - Ano B**](https://musicasparamissa.com.br/sugestoes-para/27o-domingo-do-tempo-comum-ano-b/){:target=\_blank}
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, também temos três sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 127 - O SENHOR TE ABENÇOE DE SIÃO, CADA DIA DE TUA VIDA.**](https://musicasparamissa.com.br/musica/salmo-127-o-senhor-te-abencoe-de-siao-cada-dia-de-tua-vida/){:target=\_blank}
+[**>> Melodia para o SALMO 127 - O SENHOR TE ABENÇOE DE SIÃO, CADA DIA DE TUA VIDA. (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-127-o-senhor-te-abencoe-de-siao-cada-dia-de-tua-vida/){:target=\_blank}
+
+[**>> Melodia para o SALMO 127 - O SENHOR TE ABENÇOE DE SIÃO, CADA DIA DE TUA VIDA. (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-127-o-senhor-te-abencoe-de-siao-paulo-neto/){:target=\_blank}
+
+[**>> Melodia para o SALMO 127 - O SENHOR TE ABENÇOE DE SIÃO, CADA DIA DE TUA VIDA. (Ir. Miria Kolling)**](https://musicasparamissa.com.br/musica/salmo-127-128-o-senhor-te-abencoe-de-siao-ir-miria/){:target=\_blank}
 
 Que Deus nos abençoe!
 
