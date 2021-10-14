@@ -11,8 +11,6 @@ No evangelho desde domingo (17/10/2021) refletimos sobre o **servir**.
 Ser servo pode parecer algo indigno, ou dar a sensação de estarmos em um posto muito inferior, porém,
 o próprio Deus nos serviu. Nos serviu não só do teu Amor, mas de toda matéria que nos rodeia! 
 
-![Jesus lavando os pés dos discípuloas](https://static.musicasparamissa.com.br/images/diasLiturgicos/lava-pes.jpg){:style="width: 100%; padding: 10px;"}
-
 Tiago e João filhos de Zebedeu queriam do Senhor, uma posição previlegiada.
 Jesus então lhes disse: 
 
@@ -22,6 +20,8 @@ Podeis ser batizados com o batismo 
 com que vou ser batizado?" 
 
 Então eles afirmam que sim e Nosso Senhor confirmando explicou não depender dele o crédito de uma posição. 
+
+![Jesus lavando os pés dos discípulos](https://static.musicasparamissa.com.br/images/diasLiturgicos/lava-pes.jpg){:style="width: 100%; padding: 10px;"}
 
 O que Nosso Senhor Jesus Cristo queria ensinar era que mesmo ele, sendo Deus, permitiu a nós
 vivenciarmos e experimentarmos o que ele experimentou através do batismo e do banquete da salvação!
