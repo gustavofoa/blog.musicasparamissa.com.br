@@ -40,7 +40,7 @@ Por isso, devemos esperar na misericórdia de Deus, pois ela salva muitas pessoa
 Neste Segundo Domingo do Advento, estejamos certos de que devemos preparar o caminho para a vinda de Jesus,
 pois só Ele pode nos mostrar a Salvação!
 
-Se for tocar/cantar nessa missa deste **2º Domingo do Advento - Ano C**, dia 09/12/2018,
+Se for tocar/cantar nessa missa deste **2º Domingo do Advento - Ano C**,
 aqui estão as nossas sugestões de músicas:
 
 [**>> Sugestões de música para a missa do 2º Domingo do Advento - Ano C**](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-do-advento-ano-c/){:target=\_blank}
