@@ -1,24 +1,25 @@
 title: Sejamos semelhantes a Cristo!
-date: 2019-01-09
+date: 2022-01-06
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: batismo-do-senhor-ano-c
 description: Reflexão sobre o Batismo do Senhor
 image: /images/batismo-jesus.jpg
 
-No domingo seguinte à Epifania encerra-se o ciclo do [Tempo do Natal](https://musicasparamissa.com.br/musicas-de/tempo-do-natal/){:target=\_blank} e neste domingo dia 13 de janeiro de 2019, a igreja celebra a **Festa do Batismo do Senhor**.
+No domingo seguinte à Epifania encerra-se o ciclo do [Tempo do Natal](https://musicasparamissa.com.br/musicas-de/tempo-do-natal/){:target=\_blank} e neste domingo dia 09 de janeiro de 2022, a igreja celebra a **Festa do Batismo do Senhor**.
 
 Talvez você, assim como eu, também fique tentando entender por quê de Jesus se submeteu ao batismo.
-Por que, ele, sem nenhuma mancha para purificar, foi lavado pelas águas do batismo?
+Por que ele, sem nenhuma mancha para purificar, foi lavado pelas águas do batismo?
 Ele que é a própria fonte que purifica todos nós!
 Por falar em purificação, Jesus também precisava ser apresentado ao templo para ser circuncidado?
+E Maria precisava ser purificada?
 
 Para entendermos essa observancia de Jesus em participar dos Ritos da Lei,
 precisamos olhar a humildade da encarnação.
 Jesus, Verbo que existe antes de tudo, não precisava nem assumir a carne humana!
 
 Mas Deus quis assumir em nossa humanidade, a mesma carne que peca.
-Ou seja, Ele humildemente assumiu a mesma condição que nós (carne humana), sem pecado, entretanto.
+Ou seja, Ele humildemente assumiu a mesma condição que nós (carne humana), sem pecar, entretanto.
 
 O mistério da encarnação de Jesus representa sobretudo o amor de Deus por nós.
 Jesus personifica o Amor que Deus espera de nós.
@@ -27,7 +28,7 @@ No momento do batismo de Jesus, a voz do Pai proclama _“Tu és o meu Filho ama
 Deus Pai testemunha a alegria de receber o perfeito **amor** e a perfeita **obediência** de seu Filho.
 O único que chegou a amar o pai com todo amor que ele merece.
 
-![Batismo de Jesus](/images/batismo-jesus.jpg){:style="width: 100%; padding: 10px;"}
+![Batismo de Jesus](https://blog.musicasparamissa.com.br/images/batismo-jesus.jpg){:style="width: 100%; padding: 10px;"}
 
 O Batistmo de Jesus é mais uma "epifania", ou seja, uma manifestação de Deus,
 onde o pai nos mostra o Amor perfeito que ele quer ver em nós.
@@ -40,19 +41,21 @@ e é o próprio Cristo que Deus Pai vê em nós.
 É impossível agradar verdadeiramente a Deus fora de Jesus.
 E fazemos partes do corpo de Jesus através da Igreja!
 
-Ao sermos batizados somos chamados a sermos o próprio Cristo aos olhos de Deus e aos olhos dos homens aqui na terra,.
+Ao sermos batizados somos chamados a sermos o próprio Cristo aos olhos de Deus e aos olhos dos homens aqui na terra.
 Pelo batismo nos tormamos discípulos, missionários, instrumentos, contato direto de Deus aos nossos irmãos.
 
 Então cumpramos a nossa missão de lutar contra o pecado e em favor da evangelização do mundo!
 
-Para quem for cantar/tocar nesta missa, aqui estão as sugestões de músicas que oferecemos no site
-[Músicas para Missa](http://www.musicasparamissa.com.br/){:target=\_blank}:
+Se você for servir a Santa Missa no ministério musical, aqui estão as sugestões de músicas que oferecemos no site
+[Músicas para Missa](https://musicasparamissa.com.br/){:target=\_blank}:
 
 [**>> Sugestões de músicas para a missa da Festa do Batismo do Senhor - Ano C**](https://musicasparamissa.com.br/sugestoes-para/batismo-do-senhor-ano-c/){:target=\_blank}
 
-E se for cantar o salmo, também gravamos uma melodia que você pode acessar aqui:
+E se for cantar o salmo, temos duas melodias que você pode acessar aqui:
 
-[**>> Melodia para o SALMO 28 (29) - QUE O SENHOR ABENÇOE, COM A PAZ, O SEU POVO!**](https://musicasparamissa.com.br/musica/salmo-28-29-que-o-senhor-abencoe/){:target=\_blank}
+[**>> Melodia para o SALMO 28 (29) - QUE O SENHOR ABENÇOE, COM A PAZ, O SEU POVO! (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-28-29-que-o-senhor-abencoe/){:target=\_blank}
+
+[**>> Melodia para o SALMO 28 (29) - QUE O SENHOR ABENÇOE, COM A PAZ, O SEU POVO! (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-28-29-que-o-senhor-abencoe-paulo-neto/){:target=\_blank}
 
 Que sejamos servidores fieis para levar o Evangelho à todas as criaturas!
 
