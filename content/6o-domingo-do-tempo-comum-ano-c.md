@@ -1,4 +1,4 @@
-title: Bem aventudados os que choram!
+title: Bem aventurados os que choram!
 date: 2022-02-09
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
