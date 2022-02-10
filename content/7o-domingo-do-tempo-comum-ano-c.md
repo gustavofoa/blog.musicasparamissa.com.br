@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 7o-domingo-do-tempo-comum-ano-c
 description: Reflexão sobre o 7º domingo do tempo comum - Ano C
-image: /images/
+image: /images/amar-o-inimigo.jpg
 
 A liturgia da palavra deste próximo 7° domingo do tempo comum (20/02/2022) nos trás leituras que nos faz refletir sobre amor incondicional a todos os nossos irmãos, incluindo, principalmente nossos inimigos.
 
@@ -17,7 +17,7 @@ Note que Saul foi entregue nas mãos de Davi, que poderia simplesmente matá-lo,
 Hoje em dia com tanta polaridade política que vivemos em nosso país, vemos o ódio entre o povo, alguns até desejando a morte dos inimigos políticos em seu íntimo.
 Exatamente o contrário que Deus quer de nós.
 
-![Vida eterna](/images/){:style="width:100%;padding:10px;"}
+![Amar o inimigo](/images/amar-o-inimigo.jpg){:style="width:100%;padding:10px;"}
 
 O Santo Evangelho nos apresenta um pedido de Nosso Senhor Jesus Cristo: **amais os vossos inimigos**. E nos ensina também que a forma com que procedermos com os outros, especialmente os nossos inimigos, Deus também nós tratará da mesma forma.
 
