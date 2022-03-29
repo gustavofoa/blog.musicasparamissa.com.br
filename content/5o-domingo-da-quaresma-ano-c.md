@@ -1,12 +1,12 @@
 title: Liberte-se dos seus pecados
-date: 2019-04-04
+date: 2022-03-29
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-da-quaresma-ano-c
 description: Reflexão sobre o 5º domingo da quaresma - Ano C
 image: /images/bola-de-ferro.jpg
 
-As leitura deste 5º domingo da quaresma (07/04/2019) são bem profundas
+As leitura deste 5º domingo da quaresma (03/04/2022) são bem profundas
 e podemos perceber o desafio que é deixar os nossos pecados para trás e abraçar a Salvação.
 
 A primeira leitura nos mostra o esforço do Profeta Isaías (o segundo dos três) para convencer o povo,
@@ -18,8 +18,10 @@ muitos estavam ainda presos mentalmente à situação de escravidão que viveram
 Assim nós também devemos nos libertar dos nossos erros do passado.
 
 Somos como os presos que têm aquelas grandes bolas de ferro amarradas nos pés.
+
 Não conseguiremos nos entregar inteiramente à Jesus, se ainda estivermos essa corrente atada aos nossos pés.
-Nós temos a chave da corrente! Destranque-a! Remova esse elo com o pecado cometido!
+
+Mas você term a chave da corrente! Destranque-a! Remova esse elo com o pecado cometido!
 
 ![Bola de ferro de preso](/images/bola-de-ferro.jpg){:style="width:100%;padding:10px;"}
 
@@ -38,13 +40,19 @@ rumo ao prêmio,
 que, do alto, Deus me chama a receber 
 em Cristo Jesus. (Fl 3,14)
 
-Se você for tocar/cantar na missa deste **5º domingo da quaresma - Ano C** (07/04/2019), aqui estão as nossas sugestões de músicas:
+Se você for tocar/cantar na missa deste **5º domingo da quaresma - Ano C** (03/04/2022), aqui estão as nossas sugestões de músicas:
 
-[**>>Sugestões de música para a missa do 5º domingo da quaresma - Ano C**](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-quaresma-ano-c/){:target=\_blank}
+[**>> Sugestões de música para a missa do 5º domingo da quaresma - Ano C**](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-quaresma-ano-c/){:target=\_blank}
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, temos algumas sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 125 - MARAVILHAS FEZ CONOSCO O SENHOR, EXULTEMOS DE ALEGRIA**](https://musicasparamissa.com.br/musica/salmo-125-maravilhas-fez-conosco-o-senhor-exultemos-de-alegria/){:target=\_blank}
+[**>> Melodia para o SALMO 125 - MARAVILHAS FEZ CONOSCO O SENHOR, EXULTEMOS DE ALEGRIA (Equipe Músicas para Missa)**](https://musicasparamissa.com.br/musica/salmo-125-maravilhas-fez-conosco-o-senhor-exultemos-de-alegria/){:target=\_blank}
+
+[**>> Melodia para o SALMO 125 - MARAVILHAS FEZ CONOSCO O SENHOR, EXULTEMOS DE ALEGRIA (Marcus Lima)**](https://musicasparamissa.com.br/musica/salmo-125-maravilhas-fez-conosco-o-senhor-marcus-lima/){:target=\_blank}
+
+[**>> Melodia para o SALMO 125 - MARAVILHAS FEZ CONOSCO O SENHOR, EXULTEMOS DE ALEGRIA (Paulo Neto)**](https://musicasparamissa.com.br/musica/salmo-125-maravilhas-fez-conosco-o-senhor-exultemos-de-alegriapaulo-neto/){:target=\_blank}
+
+[**>> Melodia para o SALMO 125 - MARAVILHAS FEZ CONOSCO O SENHOR, EXULTEMOS DE ALEGRIA (Ir. Miria Kolling)**](https://musicasparamissa.com.br/musica/salmo-125-126-maravilhas-fez-conosco-o-senhor-ir-miria/){:target=\_blank}
 
 Que Deus nos abençoe!
 
