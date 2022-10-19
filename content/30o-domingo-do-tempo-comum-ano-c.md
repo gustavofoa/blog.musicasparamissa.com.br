@@ -31,7 +31,7 @@ aqui estão as nossas sugestões de músicas:
 
 E se for cantar o SALMO 33 (34) - O POBRE CLAMA A DEUS E ELE ESCUTA: O SENHOR LIBERTA A VIDA DOS SEUS SERVOS, segue sugestões de melodias que podem te ajudar, confira no link abaixo:
 
-[**Melodias para o Salmo 33 (34) SALMO 33 (34) - O POBRE CLAMA A DEUS E ELE ESCUTA: O SENHOR LIBERTA A VIDA DOS SEUS SERVOS**](https://musicasparamissa.com.br/musicas-de/salmo-30o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
+[**CLIQUE AQUI e confira as Melodias para o SALMO 33 (34) - O POBRE CLAMA A DEUS E ELE ESCUTA: O SENHOR LIBERTA A VIDA DOS SEUS SERVOS**](https://musicasparamissa.com.br/musicas-de/salmo-30o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
 Que Deus nos abençoe!
 
