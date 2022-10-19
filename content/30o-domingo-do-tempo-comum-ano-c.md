@@ -1,5 +1,5 @@
 title: Não julguemos o próximo. Reconheçamos os nossos pecados!
-date: 2019-10-22
+date: 2022-10-19
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 30o-domingo-do-tempo-comum-ano-c
@@ -22,7 +22,7 @@ Perceba: Não é porque nós tocamos/cantamos a missa que nosso lugarzinho está
 
 Supliquemos a Virgem Maria para que ela interceda pelo perdão dos nossos pecados.
 
-Se você for tocar/cantar a missa deste **30º domingo do tempo comum - Ano C**, dia 27/10/2019),
+Se você for tocar/cantar a missa deste **30º domingo do tempo comum - Ano C**, dia 23/10/2022),
 aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa do 30º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/30o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
