@@ -8,18 +8,18 @@ image: /images/zaqueu-o-publicano.jpg
 
 >>**31° Domingo do Tempo Comum - Ano C**
 
-Voce ja se sentiu pequeno, distante de Deus, não merecedor de perdão? Ou já pensou que vc não tem mais jeito, que nao adianta mais pq vc nao tem salvação?
+Voce já se sentiu pequeno, distante de Deus, não merecedor de perdão? Ou já pensou que você não tem mais jeito, que não adianta mais porque você não tem salvação?
 
-O evangelho da missa deste próximo domingo (30/10/2022) nos conta a passagem de Zaqueu, que era o chefe, o líder dos cobradores de impostos.
+O Evangelho da missa deste próximo domingo (30/10/2022) nos conta a passagem de Zaqueu, que era o chefe, o líder dos cobradores de impostos.
 
 Os cobradores de impostos eram chamados de pecadores e traidores, por trabalharem para o império Romano.
 E muitas vezes se aproveitavam dos pobres, cobrando mais do que era de fato devido. E Zaqueu, pelo jeito era bom no seu ofício, pois se tornou o chefe.
 
-Todos da cidade consideravam que Zaqueu nao tinha salvação.
+Todos da cidade consideravam que Zaqueu não tinha salvação.
 
 Então Jesus entrou na cidade de Jericó, onde Zaqueu morava. E o povo se aglomerou.
 
-Zaqueu que era pequeno nao conseguia ver quem era Jesus, Zaqueu queria saber que Ele era, queria conhecer Jesus. Mas o as pessoas eram maiores que Zaqueu.
+Zaqueu que era pequeno não conseguia ver quem era Jesus, Zaqueu queria saber quem Ele era, queria conhecer Jesus. Mas as pessoas eram maiores que Zaqueu.
 
 O povo que tratava Zaqueu com um pré-conceito,  achando que Zaqueu não tinha mais jeito, também era o mesmo povo que impedia Zaqueu de se aproximar de Jesus.
 
@@ -34,7 +34,7 @@ nem vos alarmeis por causa de alguma revelação,
 ou carta atribuída a nós,
 afirmando que o Dia do Senhor está próximo." (Ts, 2,2)
 
-Mesmo quando parecer que vc não tem mais jeito, que não dá mais para ser salvo. Se esforce!  Saia da Zona de conforto, peça a Deus a conversao, busque de todo seu coração transpassar a muralha que se formou em volta de você. Não se deixe abater, nao se dê por vencido pelo inimigo.
+Mesmo quando parecer que vcê não tem mais jeito, que não dá mais para ser salvo, se esforce!  Saia da Zona de conforto, peça a Deus a conversao, busque de todo seu coração transpassar a muralha que se formou em volta de você. Não se deixe abater, não se dê por vencido pelo inimigo.
 
 Aqui é importante entendermos que realmente apenas o nosso esforço em buscar a Deus não é suficiente para a nossa salvação.
 
@@ -53,11 +53,11 @@ e não desprezas nada do que fizeste;
 porque, se odiasses alguma coisa
 não a terias criado." (Sb 11,24)
 
-Mesmo que na nunca conseguiremos entender o tamanho do Amor de Deus,
+Mesmo que nunca consigamos entender o tamanho do Amor de Deus,
 precisamos entender pelo menos que Deus nos ama, apesar de nossas faltas.
 
 Então, meu irmão, minha irmã, se o próprio Deus se rebaixa para te amar
-é por que você tem jeito sim! A hora de voltar para ele é agora.
+é por que você tem jeito sim! A hora de voltar para ele é agora!
 
 Se você for tocar/cantar a missa deste **31º domingo do tempo comum - Ano C**, dia 23/10/2022),
 aqui estão as nossas sugestões de músicas:
