@@ -41,7 +41,7 @@ Aqui é importante entendermos que realmente apenas o nosso esforço em buscar a
 Podemos até pensar que nós estamos buscando Deus por iniciativa nossa, mas a verdade é que Ele é quem nos busca.
 É Deus quem se humilha e vêm a nossa procura, por amor.
 
-Um datalhe interessante na passagem da história de Zaqueu, é que Jesus "olha pra cima" ao chegar no lugar onde Zeque estava.
+Um detalhe interessante na passagem da história de Zaqueu, é que Jesus "olha pra cima" ao chegar no lugar onde Zaqueu estava.
 
 Jesus, que é o próprio Deus, se coloca numa posição abaixo do homem para amá-lo.
 
