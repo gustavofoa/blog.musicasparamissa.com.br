@@ -64,7 +64,7 @@ aqui estão as nossas sugestões de músicas:
 
 [**>> Sugestões de música para a missa do 31º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/31o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
-E se for cantar o SALMO 144 (145) - BENDIREI ETERNAMENTE VOSSO NOME; PARA SEMPRE, Ó SENHOR, O LOUVAREI!, segue sugestões de melodias que podem te ajudar, confira no link abaixo:
+E se for cantar o Salmo deste domingo, confira nossas sugestões no link abaixo:
 
 [**>> Confira as Melodias para o SALMO 144 (145) - BENDIREI ETERNAMENTE VOSSO NOME; PARA SEMPRE, Ó SENHOR, O LOUVAREI!**](https://musicasparamissa.com.br/musicas-de/salmo-31o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
