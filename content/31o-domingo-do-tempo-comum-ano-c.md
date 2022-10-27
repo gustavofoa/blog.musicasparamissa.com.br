@@ -34,7 +34,7 @@ nem vos alarmeis por causa de alguma revelação,
 ou carta atribuída a nós,
 afirmando que o Dia do Senhor está próximo." (Ts, 2,2)
 
-Mesmo quando parecer que vcê não tem mais jeito, que não dá mais para ser salvo, se esforce!  Saia da Zona de conforto, peça a Deus a conversao, busque de todo seu coração transpassar a muralha que se formou em volta de você. Não se deixe abater, não se dê por vencido pelo inimigo.
+Mesmo quando parecer que você não tem mais jeito, que não dá mais para ser salvo, se esforce!  Saia da Zona de conforto, peça a Deus a conversão, busque de todo seu coração transpassar a muralha que se formou em volta de você. Não se deixe abater, não se dê por vencido pelo inimigo.
 
 Aqui é importante entendermos que realmente apenas o nosso esforço em buscar a Deus não é suficiente para a nossa salvação.
 
