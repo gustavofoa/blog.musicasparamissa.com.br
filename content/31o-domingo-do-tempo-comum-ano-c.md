@@ -8,7 +8,7 @@ image: /images/zaqueu-o-publicano.jpg
 
 >>**31° Domingo do Tempo Comum - Ano C**
 
-Voce já se sentiu pequeno, distante de Deus, não merecedor de perdão? Ou já pensou que você não tem mais jeito, que não adianta mais porque você não tem salvação?
+Você já se sentiu pequeno, distante de Deus, não merecedor de perdão? Ou já pensou que você não tem mais jeito, que não adianta mais porque você não tem salvação?
 
 O Evangelho da missa deste próximo domingo (30/10/2022) nos conta a passagem de Zaqueu, que era o chefe, o líder dos cobradores de impostos.
 
