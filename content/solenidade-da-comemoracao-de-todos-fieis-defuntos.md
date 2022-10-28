@@ -41,7 +41,7 @@ height: 100%;
 <div class="video-container1"><iframe width="853" height="480" src="https://www.youtube.com/embed/THsR-VxFzwY" frameborder="0" allowfullscreen></iframe></div>
 <br />
 
-Para a SOLENIDADE DA COMEMORAÇÃO DE TODOS FIÉIS DEFUNTOS - FINADOS são indicadas 3 liturgias com leituras, salmos e Evangelhos diferentes.
+No próximo dia 2 de novembro nós celebramos o dia dos Finados. Se você for tocar/cantar a missa da a SOLENIDADE DA COMEMORAÇÃO DE TODOS FIÉIS DEFUNTOS - FINADOS são indicadas 3 liturgias com leituras, salmos e Evangelhos diferentes.
 
 **É importante você confirmar com o celebrante qual delas será usada**, pois as músicas devem estar de acordo com as leituras da missa.
 
