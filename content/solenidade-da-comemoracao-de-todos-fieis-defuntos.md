@@ -1,5 +1,5 @@
 title: [Video] Artigo Vivo - Perdas
-date: 2020-10-27
+date: 2022-10-28
 author: Maikon Máximo
 category: Reflexões
 slug: solenidade-da-comemoracao-de-todos-fieis-defuntos
@@ -10,7 +10,7 @@ A morte nos põe medo, não sabemos o dia e nem a hora e o desconhecido nos faz 
 
 A palavra inspirada de Deus atesta que:
 
-Nem olhos viram, nem ouvidos ouviram, nem jamais penetrou coração humano algum o que Deus tem preparado para aqueles que vos amam (ICor II, 9).
+> Nem olhos viram, nem ouvidos ouviram, nem jamais penetrou coração humano algum o que Deus tem preparado para aqueles que vos amam (ICor II, 9).
 
 A morte é a separação do corpo material e da alma e neste momento podemos receber graças extraordinárias, no próprio momento da morte. 
  
