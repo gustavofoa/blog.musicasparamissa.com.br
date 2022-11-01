@@ -1,4 +1,4 @@
-title: santidade
+title: Santidade
 date: 2022-11-01
 author: Daiana
 category: Reflexões
