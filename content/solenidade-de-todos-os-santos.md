@@ -1,6 +1,6 @@
 title: Santidade
 date: 2022-11-01
-author: Daiana
+author: Daiana Máximo
 category: Reflexões
 slug: solenidade-de-todos-os-santos
 description: Reflexão sobre a Solenidade de Todos os Santos
