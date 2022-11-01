@@ -4,7 +4,7 @@ author: Daiana Máximo
 category: Reflexões
 slug: solenidade-de-todos-os-santos
 description: Reflexão sobre a Solenidade de Todos os Santos
-image: /images/orar-no-monte.jpg
+image: /images/santos.jpg
 
 É possível viver a Santidade?
 	
@@ -17,6 +17,8 @@ Os Santos alcançaram a santidade na terra através da mística.
 Durante muito tempo, a partir do Século XVII, surgiu uma ideologia de que a Santidade era apenas para uma elite, uma elite de monges e religiosos e somente essas pessoas podiam alcançar a santidade aqui na terra. E para um leigo, um pai, uma mãe de família, alcançar a santidade era quase impossível.
 Porém, o Concílio Vaticano II desfez essa ideologia, pois a Igreja crê que as pessoas são chamadas à santidade. Todo batizado é chamado à santidade.
 Uma pessoa temente a Deus, mas que não é santa, quando morre vai para o purgatório, pois lá, ela passará pela santificação de sua alma. Por isso é tão importante rezarmos pelas almas do purgatório.
+
+![Todos os Santos](https://blog.musicasparamissa.com.br/images/santos.jpg){:style="width: 100%; padding: 10px;"}
 
 Mas enfim, o que é a santidade? 
 A santidade é a perfeição do amor, perfeição da caridade.

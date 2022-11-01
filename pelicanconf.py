@@ -104,5 +104,9 @@ AUTHORS = {
                   '<li><a href="https://instagram.com/maikonmaximo">Instagram.com/maikonmaximo</a></li>'+
                   '<li><a href="https://youTube.com/maikonmaximo">YouTube.com/maikonmaximo</a></li></ul>',
         'image': '/images/maikon-maximo-90x90.jpg'
+    },
+    'Daiana Máximo': {
+        'summary':'Criadora do site Músicas para Missa. ',
+        'image': '/images/daiana-maximo-90x90.jpg'
     }
 }
