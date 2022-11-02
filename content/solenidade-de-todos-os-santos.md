@@ -32,12 +32,12 @@ Como diz o Padre Paulo Ricardo:
 Que você busque a santidade todos os dias de sua vida!
 
 
-Se for tocar/cantar nessa missa da **Solenidade de Todos os Santos**, dia 06/11/2022),
+Se for tocar/cantar nessa missa da **Solenidade de Todos os Santos**, dia 06/11/2022,
 aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa de Solenidade de Todos os Santos**](https://musicasparamissa.com.br/sugestoes-para/solenidade-de-todos-os-santos/){:target=\_blank}
 
-E se for cantar o salmo, temos algumas sugestõeos de melodias que pode te ajudar, confira aqui:
+E se for cantar o salmo, temos algumas sugestões de melodias que pode te ajudar, confira aqui:
 
 [**>>Melodia para o SALMO 23 - É ASSIM A GERAÇÃO DOS QUE PROCURAM O SENHOR!**](https://musicasparamissa.com.br/musicas-de/salmo-todos-santos/){:target=\_blank}
 
