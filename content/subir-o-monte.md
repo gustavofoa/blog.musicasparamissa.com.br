@@ -2,7 +2,7 @@ title: Subir o monte
 date: 2020-10-26
 author: Maikon Máximo
 category: Reflexões
-slug: solenidade-de-todos-os-santos
+slug: subir-o-monte
 description: Reflexão sobre a Solenidade de Todos os Santos
 image: /images/orar-no-monte.jpg
 
