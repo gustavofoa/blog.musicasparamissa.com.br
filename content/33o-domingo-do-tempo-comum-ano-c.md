@@ -1,5 +1,5 @@
 title: A construção do novo mundo
-date: 2019-11-12
+date: 2022-11-09
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 33o-domingo-do-tempo-comum-ano-c
@@ -24,7 +24,7 @@ Teremos guerra, doenças, fome, tribulações?
 
 Na realidade esta "pré-ocupação" se tornou uma doença muito comum deste século: a "ansiedade".
 
-A liturgia da palavra do próximo domingo (17/11/2019) nos convida
+A liturgia da palavra do próximo domingo (13/11/2022) nos convida
 a trabalhar na construção de um novo mundo, o mundo do reinado de Deus.
 
 E quando digo trabalhar, não é um pequeno esforço ...
@@ -56,14 +56,14 @@ Querido(a) irmão(ã), a força para vencer a guerra e construir um novo mundo e
 Então pegue o seu terço (_**la arma**, como dizia Santo Padre Pio_),
 prepare o seu joelho e vamos pra batalha!
 
-Se você for tocar/cantar a missa deste **33º domingo do tempo comum - Ano C**, dia 17/11/2019),
+Se você for tocar/cantar a missa deste **33º domingo do tempo comum - Ano C**, dia 13/11/2022),
 aqui estão as nossas sugestões de músicas:
 
 [**>>Sugestões de música para a missa do 33º domingo do tempo comum - Ano C**](https://musicasparamissa.com.br/sugestoes-para/33o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, também temos algumas sugestões de melodia que podem te ajudar, confira aqui:
 
-[**>>Melodia para o SALMO 97 (98) - O SENHOR VIRÁ JULGAR A TERRA INTEIRA; COM JUSTIÇA JULGARÁ.**](https://musicasparamissa.com.br/musica/salmo-97-o-senhor-vira-julgar-a-terra-inteira-com-justica-julgara/){:target=\_blank}
+[**>>Melodias para o SALMO 97 (98) - O SENHOR VIRÁ JULGAR A TERRA INTEIRA; COM JUSTIÇA JULGARÁ.**](https://musicasparamissa.com.br/musicas-de/salmo-33o-domingo-do-tempo-comum-ano-c/){:target=\_blank}
 
 Que Deus nos abençoe!
 
