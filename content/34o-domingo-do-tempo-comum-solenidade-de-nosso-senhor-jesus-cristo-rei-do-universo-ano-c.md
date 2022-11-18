@@ -14,7 +14,7 @@ onde não há trevas, nem dor, nem tristeza...
 Quando rezamos os mistérios dolorosos do santo rosário,
 pensamos no quanto nosso Rei sofreu em sua Paixão para nos salvar.
 
-![Jesus Cristo sofrendo na cruz](/images/morte-de-cristo.jpg){:style="width: 100%; padding: 10px;"}
+![Jesus Cristo sofrendo na cruz](https://blog.musicasparamissa.com.br/images/morte-de-cristo.jpg){:style="width: 100%; padding: 10px;"}
 
 Logo no primeiro mistério doloroso refletimos sobre a agonia de Jesus, que suou sangue.
 Você imagina a dor psicológica necessária para uma pessoa suar sangue?
