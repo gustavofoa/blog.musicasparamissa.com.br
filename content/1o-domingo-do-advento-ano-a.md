@@ -1,5 +1,5 @@
 title: Sejamos atentos e preparados!
-date: 2019-11-26
+date: 2022-11-21
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 1o-domingo-do-advento-ano-a
@@ -10,7 +10,7 @@ No próximo Domingo 27 de novembro de 2022, iniciamos um novo ano litúrgico (An
 
 E neste 1º domingo do Advento, a liturgia nos adverte para estarmos sempre atentos e preparados, pois não sabemos o tempo da vinda do Senhor.
 
-![Noé e a Arca da Aliança](/images/noe-e-a-arca-da-alianca.jpeg){:style="width: 100%; padding: 10px;"}
+![Noé e a Arca da Aliança](https://blog.musicasparamissa.com.br/images/noe-e-a-arca-da-alianca.jpeg){:style="width: 100%; padding: 10px;"}
 
 O evangelho nos diz que:
 
@@ -33,9 +33,3 @@ E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confir
 Que nesta semana aprendamos a ser atentos à forma como vivemos e preparados para o encontro com Deus!
 
 Gustavo
-
-
-
-
-
-
