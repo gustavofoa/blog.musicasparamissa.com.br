@@ -4,6 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: natal-do-senhor
 description: Reflexão sobre a Liturgia do Natal
+image: https://blog.musicasparamissa.com.br/images/natal.jpg
 
 
 Precisamos refletir o verdadeiro sentido do Natal para nós católicos e como devemos viver o Natal HOJE em nossas vidas.
@@ -21,6 +22,8 @@ onde foi rejeitado por muitos que fecharam as portas e não acolheram Maria e Jo
 Jesus teve que nascer em um estábulo, hoje ele também está sendo rejeitado por muitos corações fechados.
 
 O Mistério do Nascimento de Jesus verdadeiramente extrapola toda nossa compreensão de tempo. E o nascimento de Jesus hoje é real.
+
+![O Nascimento de Jesus em Belém](https://blog.musicasparamissa.com.br/images/natal.jpg){:style="width:100%;"}
 
 Assim como Maria se entregou como serva para a realização deste mistério e deu à Jesus uma humanidade, nós também precisamos entregar
 a nossa humanidade para que Jesus possa nascer em nós.
