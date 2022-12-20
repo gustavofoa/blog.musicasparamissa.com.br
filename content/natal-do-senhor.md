@@ -1,3 +1,11 @@
+title: Natal do Senhor
+date: 2022-12-20
+author: Gustavo Furtado de Oliveira Alves
+category: Reflexões
+slug: natal-do-senhor
+description: Reflexão sobre a Liturgia do Natal
+
+
 Precisamos refletir o verdadeiro sentido do Natal para nós católicos e como devemos viver o Natal HOJE em nossas vidas.
 
 Acho que não preciso te lembrar quem é o aniversariante do próximo dia 25 de dezembro né?
