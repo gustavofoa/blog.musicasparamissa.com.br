@@ -74,7 +74,7 @@ Nós preparamos lá no nosso site uma página para cada dia para explicar quais 
 
 É muito importante confirmar com o celebrante sobre a missa correta, principalmente para não errar no salmo.
 
-Também gravamos melodias de salmos para todas as missas!
+Também temos melodias de salmos para todas as missas!
 
 Veja aqui os links com as nossas sugestões de músicas:
 
