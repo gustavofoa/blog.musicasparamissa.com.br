@@ -41,7 +41,7 @@ para nos resgatar das misérias de nossos pecados.
 Claro que é bom reunir a família para a ceia, todas aquelas brincadeiras, troca de presentes, etc. 
 Mas o mais importante é meditarmos o nascimento de Jesus, muitas vezes esquecido nessa época.
 
-Vamos refletir um pouco sobre este que é o [Terceiro Mistério Gozoso do Santo Terço](http://blog.musicasparamissa.com.br/o-instrumento-mais-importante-musico-catolico.html). 
+Vamos refletir um pouco sobre este que é o [Terceiro Mistério Gozoso do Santo Terço](https://blog.musicasparamissa.com.br/o-instrumento-mais-importante-musico-catolico/). 
 Não era para ser insignificante que o próprio filho de Deus tenha nascido de uma forma tão humilde. 
 Por que será que Deus misericordioso, com seu plano de Amor por nós e para nossa salvação, quis que Jesus nascesse de forma tão simples? 
 Ele que é o Rei do céu! Por que será?
