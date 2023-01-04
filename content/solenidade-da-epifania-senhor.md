@@ -6,7 +6,7 @@ slug: solenidade-da-epifania-senhor
 description: Reflexão sobre a Epifania do Senhor
 image: https://blog.musicasparamissa.com.br/images/reis-magos.jpg
 
-No próximo domingo dia 7 de janeiro de 2018, a igreja celebra a **Solenidade da Epifania do Senhor**.
+No próximo domingo, a igreja celebra a **Solenidade da Epifania do Senhor**.
 Epifania significa "manifestação". Em Jesus, Deus se manifestou.
 Continue lendo para entender que essa manifestação é para todos nós!
 
@@ -28,13 +28,15 @@ Todos são associados à mesma promessa em Jesus Cristo, por meio do Evangelho.
 
 ![Epifania do Senhor - Reis Magos!](https://static.musicasparamissa.com.br/images/diasLiturgicos/epifania-do-senhor.jpg){: style="float:right; padding:10px;"}
 
-A viagem dos Reis Magos é cheia de significado, apesar de serem pagãos,
+A viagem dos Reis Magos é cheia de significado. Apesar de serem pagãos,
 isso não os impediu de reconhecer Jesus como o verdadeiro Rei.
+
 A tradição da igreja fala dos presentes como reconhecimento dos reis magos,
 sendo o ouro se referindo à Sua realeza; o incenso, à Sua divindade; e a mirra, à Sua humanidade.
 
 Eu particularmente gosto de um detalhe que muitas vezes passa despercebido nesta passagem.
 Os Reis Magos se ajoelharam e O adoraram. Neste ato eles reconhecem Jesus como Deus.
+Só se ajoelha para Deus e só se adora a Deus. Não ajoelhamos nem adoramos os Santos. Somente para Jesus!
 
 Sejamos gratos pela manifestação de Deus para nos salvar, levando o Evangelho à todas as criaturas!
 
