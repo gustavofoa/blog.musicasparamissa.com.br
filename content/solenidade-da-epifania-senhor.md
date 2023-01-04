@@ -1,5 +1,5 @@
 title: Epifania do Senhor
-date: 2018-01-01
+date: 2023-01-04
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: solenidade-da-epifania-senhor
