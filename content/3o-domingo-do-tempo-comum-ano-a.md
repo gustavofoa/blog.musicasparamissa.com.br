@@ -1,12 +1,10 @@
 title: Ele também está chamando você!
-date: 2020-01-20
+date: 2023-01-28
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 3º Domingo do Tempo Comum - Ano A
 image: /images/Deixaram-tudo-e-O-seguiram.jpg
-
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/OR7BPe3Ksdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Todas as vezes que vamos escolher as músicas que serão cantadas durante a missa
 é extremamente importante lermos as leituras da missa e entendermos o mistério que vamos celebrar naquela missa específicamente.
@@ -16,7 +14,7 @@ e enviamos reflexões sobre as leituras das missas para auxiliar
 os agentes da música litúrgica que vão prestar o serviço musical
 na liturgia da missa.
 
-Vamos refletir um pouco sobre as leituras da missa do próximo domingo, dia 26 de janeiro de 2020, o 3º Domingo do Tempo Comum - Ano A.
+Vamos refletir um pouco sobre as leituras da missa do próximo domingo, dia 22 de janeiro de 2023, o 3º Domingo do Tempo Comum - Ano A.
 
 Na primeira leitura desta missa, o profeta Isaías anuncia a luz que virá para iluminar as trevas apontando dois territórios, Zebulon e Neftali, com cidades que viviam humilhadas
 e foram libertas do julgo que oprimia o povo.
@@ -73,10 +71,11 @@ Para quem for cantar/tocar na missa deste dia 26/01/2020, as nossas sugestões d
 
 [**>> Sugestões de músicas para a missa do 3º Domingo do Tempo Comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-do-tempo-comum-ano-a/){:target=\_blank}
 
-E se for cantar o salmo na missa, também gravamos uma melodia que você pode acessar aqui:
+E se for cantar o salmo na missa, veja algumas sugestões aqui: 
 
-[**>> Melodia para o SALMO 26 – O SENHOR É MINHA LUZ E SALVAÇÃO. O SENHOR É A PROTEÇÃO DA MINHA VIDA.**](https://musicasparamissa.com.br/musica/salmo-26-o-senhor-e-minha-luz-e-salvacao-o-senhor-e-a-protecao-da-minha-vida/){:target=\_blank}
+[**>> Melodia para o SALMO 26 – O SENHOR É MINHA LUZ E SALVAÇÃO. O SENHOR É A PROTEÇÃO DA MINHA VIDA.**](https://musicasparamissa.com.br/musica-de/salmo-3o-domingo-do-tempo-comum-ano-a/){:target=\_blank}
 
 Que atendamos ao chamado de Jesus!
 
+Salve Maria! 
 Gustavo
