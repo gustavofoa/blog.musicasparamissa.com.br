@@ -73,7 +73,7 @@ Para quem for cantar/tocar na missa deste dia 26/01/2020, as nossas sugestões d
 
 E se for cantar o salmo na missa, veja algumas sugestões aqui: 
 
-[**>> Melodia para o SALMO 26 – O SENHOR É MINHA LUZ E SALVAÇÃO. O SENHOR É A PROTEÇÃO DA MINHA VIDA.**](https://musicasparamissa.com.br/musica-de/salmo-3o-domingo-do-tempo-comum-ano-a/){:target=\_blank}
+[**>> Melodia para o SALMO 26 – O SENHOR É MINHA LUZ E SALVAÇÃO. O SENHOR É A PROTEÇÃO DA MINHA VIDA.**](https://musicasparamissa.com.br/musicas-de/salmo-3o-domingo-do-tempo-comum-ano-a/){:target=\_blank}
 
 Que atendamos ao chamado de Jesus!
 
