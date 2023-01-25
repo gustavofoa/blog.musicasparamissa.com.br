@@ -1,5 +1,5 @@
 title: Eu não sou perfeito, e você?
-date: 2017-01-26
+date: 2023-01-29
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-do-tempo-comum-ano-a
@@ -8,7 +8,7 @@ image: https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
 
 Que a paz do Senhor Jesus Cristo esteja contigo!
 
-Na liturgia do próximo domingo dia [**29 de janeiro de 2017 - 4º Domingo do Tempo Comum**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a), somos mais uma vez chamados a refletir sobre o chamado que recebemos.
+Na liturgia do próximo domingo dia [**29 de janeiro de 2023 - 4º Domingo do Tempo Comum**](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a), somos mais uma vez chamados a refletir sobre o chamado que recebemos.
 
 Na segunda leitura (Primeira Carta de São Paulo aos Coríntios), percebemos que Deus não escolhe os mais sábios, os mais nobres, ele chama o mais humilde.
 
@@ -56,12 +56,10 @@ Vai tocar/cantar na missa do **4º domingo do tempo comum - Ano A**? Aqui estão
 
 [>>Sugestões de música para a missa do 4º domingo do tempo comum - Ano A](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-do-tempo-comum-ano-a)
 
-E se for cantar o salmo, também gravamos uma melodia que pode te ajudar, confira aqui:
+E se for cantar o salmo, também temos sugestões de algumas melodia que pode te ajudar, confira aqui:
 
-[>>Melodia para o Salmo 145(146)](http://www.musicasparamissa.com.br/musica/salmo-145-felizes-os-pobres-em-espirito-porque-deles-e-o-reino-dos-ceus/)
+[>>Melodia para o Salmo 145 (146)](https://musicasparamissa.com.br/musicas-de/salmo-4o-domingo-do-tempo-comum-ano-a/)
 
 Que Deus nos abençoe!
 
 Gustavo
-
-P.S.: Lembrando que no nosso site tem um calendário em todas as páginas (no canto direito) onde você pode escolher o dia da missa que você vai tocar/cantar e ver as nossas sugestões de músicas junto com as leituras da liturgia da palavra.
