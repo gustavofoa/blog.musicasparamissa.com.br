@@ -1,5 +1,5 @@
 title: Eu não sou perfeito, e você?
-date: 2023-01-29
+date: 2023-01-25
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-do-tempo-comum-ano-a
