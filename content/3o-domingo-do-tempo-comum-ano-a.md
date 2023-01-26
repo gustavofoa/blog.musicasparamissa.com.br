@@ -1,5 +1,5 @@
 title: Ele também está chamando você!
-date: 2023-01-28
+date: 2023-01-20
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-do-tempo-comum-ano-a
