@@ -1,5 +1,5 @@
 title: Sendo sal e luz no mundo
-date: 2022-02-05
+date: 2023-02-05
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-do-tempo-comum-ano-a
@@ -8,7 +8,7 @@ image: /images/caridade.jpg
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/6nHxvkoPqQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-O evangelho do próximo domingo (05/02/2022) é a continuação do trecho das bem-aventuranças do evangelho de São Mateus. E no trecho deste evangelho Jesus diz para sermos **sal da terra e luz do mundo**.
+O evangelho do próximo domingo (05/02/2023) é a continuação do trecho das bem-aventuranças do evangelho de São Mateus. E no trecho deste evangelho Jesus diz para sermos **sal da terra e luz do mundo**.
 
 E o caminho para sermos sal e luz para a humanidade é vivendo as bem-aventuranças, que Jesus tinha acabado de nos ensinar no trecho anterior.
 
