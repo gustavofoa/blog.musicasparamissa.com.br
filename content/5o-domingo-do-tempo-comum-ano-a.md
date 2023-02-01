@@ -1,5 +1,5 @@
 title: Sendo sal e luz no mundo
-date: 2020-02-04
+date: 2022-02-05
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-do-tempo-comum-ano-a
@@ -8,7 +8,7 @@ image: /images/caridade.jpg
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/6nHxvkoPqQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-O evangelho do próximo domingo (09/02/2020) é a continuação do trecho das bem-aventuranças do evangelho de São Mateus. E no trecho deste evangelho Jesus diz para sermos **sal da terra e luz do mundo**.
+O evangelho do próximo domingo (05/02/2022) é a continuação do trecho das bem-aventuranças do evangelho de São Mateus. E no trecho deste evangelho Jesus diz para sermos **sal da terra e luz do mundo**.
 
 E o caminho para sermos sal e luz para a humanidade é vivendo as bem-aventuranças, que Jesus tinha acabado de nos ensinar no trecho anterior.
 
@@ -65,11 +65,10 @@ Se você for cantar/tocar a missa deste dia 09/02/2020, as nossas sugestões de 
 
 [**>> Sugestões de músicas para a missa do 5º Domingo do Tempo Comum - Ano A**](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-do-tempo-comum-ano-a/){:target=\_blank}
 
-E se for cantar o salmo na missa, temos duas sugestões de melodias que você pode acessar aqui:
+E se for cantar o salmo, também temos sugestões de algumas melodia que pode te ajudar, confira aqui:
 
-[**>> 1ª Sugestão de Melodia para o SALMO 111 – UMA LUZ BRILHA NAS TREVAS PARA O JUSTO PERMANECE PARA SEMPRE O BEM QUE FEZ**](https://musicasparamissa.com.br/musica/salmo-111-uma-luz-brilha-nas-trevas-para-o-justo-permanece-para-sempre-o-bem-que-fez/){:target=\_blank}
+[>>Melodia para o Salmo 145 (146)](https://musicasparamissa.com.br/musicas-de/salmo-5o-domingo-do-tempo-comum-ano-a/)
 
-[**>> 2ª Sugestão de Melodia para o SALMO 111 – UMA LUZ BRILHA NAS TREVAS PARA O JUSTO PERMANECE PARA SEMPRE O BEM QUE FEZ**](https://musicasparamissa.com.br/musica/salmo-111-112%E2%80%93uma-luz-brilha-nas-trevas-arq-goiania/){:target=\_blank}
 
 Que sejamos sal e luz no mundo!
 
