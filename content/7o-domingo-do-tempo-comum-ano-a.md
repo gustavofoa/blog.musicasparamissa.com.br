@@ -4,7 +4,7 @@ author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 7o-domingo-do-tempo-comum-ano-a
 description: Reflexão sobre o 7º domingo do tempo comum - Ano A
-image: https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg
+image: https://blog.musicasparamissa.com.br/images/conversando-com-Jesus.jpg
 
 
 Todo mundo conhece o mandamento: 
@@ -54,6 +54,8 @@ pois Deus também está tentando se aproximar dele.
 As forças se anulam!
 Você acha que está se aproximando de Deus, mas por conta de um ressentimento,
 você é impulsionado para longe Dele.
+
+![Conversando com Jesus em um banco](https://blog.musicasparamissa.com.br/images/conversando-com-Jesus.jpg){:style="width:100%;"}
 
 Para Caim matar Abel, primeiro ele sentiu inveja.
 A inveja abriu brecha para outros elementos ruins como a raiva, a mágoa, o ressentimento.

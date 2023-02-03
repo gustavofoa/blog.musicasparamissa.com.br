@@ -41,7 +41,7 @@ Começando pelas bem-aventuranças no domingo retrazado,
 depois nos ordenando a ser sal da terra e luz do mundo.
 E no evangelho deste domingo, Jesus reinterpreta as leis que Deus deu a Moisés.
 
-![Concílio de Jerusalém](https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg){:style="width:100%;"}
+![Bem aventuranças](https://blog.musicasparamissa.com.br/images/bem-aventurancas.jpg){:style="width:100%;"}
 
 Agora observe bem ...
 
