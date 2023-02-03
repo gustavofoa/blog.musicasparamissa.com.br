@@ -62,12 +62,17 @@ Achando que ninguém está vendo?
 Deus é onipresente! Seu anjo da guarda não sabe mais o que fazer pra te levar pro céu,
 quando vê este tipo de coisa! 
 
-Pergunte-se: Deus aprova isso?
+Pergunte-se a cada decisão do seu livre arbítrio: **Deus aprova isso que vou fazer agora?**
 
-Quando Deus "re-interpretou" a lei, a lei era a mesma, mas os homens não conseguiam entendê-la direito.
+Quando Jesus "re-interpretou" a lei, a lei era a mesma, mas os homens não conseguiam entendê-la direito.
 
-Foi preciso o próprio Deus se tornar verdadeiramente homem
-pra esfregar a lei na nossa cara!
+Você entendeu que foi preciso o próprio Deus se tornar verdadeiramente homem
+pra esfregar a lei de Deus na nossa cara!
+
+Claro que com a presença do próprio Filho de Deus aqui na terra tivemos novas revelações de Deus.
+
+Mas a lei antiga é o básico! O amor deve ser básico!
+A gente precisa começar a conversa à partir do básico do antigo testamento.
 
 Ora, você quer mesmo estar na presença de Deus?
 
@@ -75,14 +80,14 @@ Jesus está quase desenhando pra você o que deves fazer!
 
 A decisão é sua!
 
-Sabe ... aquelas multidão que foi atrás de Jesus naquele momento era o grupo das pessoas mais pobres,
-mais necessitadas, não tinham nada, incluindo financeiramente...
+Sabe ... aquelas multidão que foi atrás de Jesus naquele tempo era o grupo das pessoas mais pobres,
+mais necessitadas, não tinham nada, incluindo a parte financeira, das necessidades básicas...
 
-Aí Jesus junta todo este povo e começa o sermão dizendo: "Felizes..."
+Aí Jesus junta todo este povo perdido e começa o sermão dizendo: "Felizes..."
 
 Jesus é Deus, não precisava se rebaixar,
 mas por amor a você se encarnou e veio aqui pra esfregar na sua cara amorozamente
-o que você precisa fazer/ser para participar realidade que ele conhece, o céu!
+o que você precisa fazer/ser para participar da realidade que ele conhece, o Céu!
 
 Viva os mandamentos de Deus! Viva as bem-aventuranças!
 
