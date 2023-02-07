@@ -1,5 +1,5 @@
 ﻿title: A decisão é sua!
-date: 2017-02-01
+date: 2023-02-07
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 6o-domingo-do-tempo-comum-ano-a
