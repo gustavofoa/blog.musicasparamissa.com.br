@@ -1,5 +1,5 @@
 ﻿title: Amar o distante!
-date: 2017-02-13
+date: 2023-02-14
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 7o-domingo-do-tempo-comum-ano-a
