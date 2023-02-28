@@ -1,6 +1,6 @@
 ---
 title: Se afastar do pecado e se aproximar de Deus!
-date: '2020-03-02'
+date: '2023-02-28'
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 2o-domingo-da-quaresma-ano-a
@@ -11,7 +11,7 @@ image: /images/transfiguração.jpg
 _>> Gravamos um PODCAST com o conteúdo deste post. Se você preferir, pode ouvir este conteúdo [clicando AQUI](https://www.youtube.com/watch?v=4qGj0OC-O6E){:target=\_blank}._
 <hr/>
 
-Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma (dia 08 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/){:target=\_blank} o quanto Deus é fiel em sua promessa a quem se entrega sem limites a Ele.
+Podemos notar na primeira leitura da liturgia deste [2º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/){:target=\_blank} o quanto Deus é fiel em sua promessa a quem se entrega sem limites a Ele.
 
 Abraão é o nosso pai na fé, pois pela fé dele nós fomos abençoados por Deus. Ele deixou tudo e seguiu o que Deus lhe pediu.
 
@@ -45,11 +45,11 @@ Que nesta quaresma você se torne mais santo e colabore para a santidade dos nos
 
 Se for tocar/cantar a missa deste **2º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[\>>Sugestões de música para a missa do 2º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/){:target=_blank}**
+**[\>> Sugestões de música para a missa do 2º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/2o-domingo-da-quaresma-ano-a/){:target=_blank}**
 
-E se for cantar o salmo desta missa, preparamos uma melodia para te ajudar.
+E se for cantar o salmo desta missa, preparamos algumas sugestões de melodia para te ajudar.
 
-**[\>>SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](https://musicasparamissa.com.br/musica/salmo-32-33-sobre-nos-venha-senhor-a-vossa/){:target=_blank}**
+**[\>> SALMO 32 (33) - SOBRE NÓS VENHA, SENHOR, A VOSSA GRAÇA, VENHA A VOSSA SALVAÇÃO!](https://musicasparamissa.com.br/musicas-de/salmo-2o-domingo-da-quaresma-ano-a/){:target=_blank}**
 
 Boa quaresma!
 
