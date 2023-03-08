@@ -1,6 +1,6 @@
 ---
 title: Meio dia
-date: '2020-03-09'
+date: '2023-03-08'
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 3o-domingo-da-quaresma-ano-a
@@ -8,8 +8,8 @@ description: Reflexão sobre o 3º domingo da quaresma - Ano A
 image: /images/samaria.jpg
 ---
 
-Fico encantado toda vez que leio o evangelho. A cada dia me surpriendo mais.
-O evangelho deste [3º domingo da quaresma - Ano A (dia 15 de março de 2020)](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank} nos traz a conversa de Jesus com a Samaritana no poço de Jacó.
+Fico encantado toda vez que leio o evangelho. A cada dia me surpreendo mais.
+O evangelho deste [3º domingo da quaresma - Ano A (dia 12 de março de 2023)](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank} nos traz a conversa de Jesus com a Samaritana no poço de Jacó.
 E esta leitura me ajudou a compreender ainda mais o momento da quaresma.
 
 É interessante notar alguns detalhes que passam despercebidos à primeira leitura.
@@ -62,9 +62,9 @@ Se for tocar/cantar a missa deste **3º domingo da quaresma**, clique no link ab
 
 **[>>Sugestões de música para a missa do 3º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
-Para quem vai cantar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
+Para quem vai cantar o salmo, temos algumas sugestão de melodia. Confira no link abaixo:
 
-**[>>SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR.](https://musicasparamissa.com.br/musica/salmo-94-95-hoje-nao-fecheis-o-vosso-coracao/){:target=\_blank}**
+**[>>SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR.]([https://musicasparamissa.com.br/musica/salmo-94-95-hoje-nao-fecheis-o-vosso-coracao/](https://musicasparamissa.com.br/musicas-de/salmo-3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
 Boa quaresma!
 
