@@ -60,11 +60,11 @@ Devemos entregar a nossa alma para o controle do Espírito Santo.
 
 Se for tocar/cantar a missa deste **3º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 3º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
+**[>> Sugestões de música para a missa do 3º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
 Para quem vai cantar o salmo, temos algumas sugestão de melodia. Confira no link abaixo:
 
-**[>>SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR.]([https://musicasparamissa.com.br/musica/salmo-94-95-hoje-nao-fecheis-o-vosso-coracao/](https://musicasparamissa.com.br/musicas-de/salmo-3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
+**[>> SALMO 94 (95) - HOJE NÃO FECHEIS O VOSSO CORAÇÃO, MAS OUVI A VOZ DO SENHOR](https://musicasparamissa.com.br/musicas-de/salmo-3o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
 Boa quaresma!
 
