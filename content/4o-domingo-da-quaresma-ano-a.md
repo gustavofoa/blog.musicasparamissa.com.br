@@ -1,6 +1,6 @@
 ---
 title: Você tem enxergado o mundo com seus próprios olhos?
-date: '2020-03-17'
+date: '2023-03-15'
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 4o-domingo-da-quaresma-ano-a
@@ -11,7 +11,7 @@ image: /images/cura-cego-nascenca.jpg
 A cada dia que passa fica claro pra mim a importância de nos entregar inteiramente à Deus.
 É um grande erro achar que somos capazes de qualquer coisa boa sem confiar tudo o que somos à Deus, afinal, esta vida não é nossa, é dEle!
 
-As leituras da missa deste 4º domingo da quaresma (dia 22/03/2020) nos ensina essa realidade em que, sem Deus, nós não conseguimos nem enxergar direito. Isto é, quando você acorda de manhã e abre os olhos, se não tiver confiado toda a sua vida à Deus, tudo que você vê é escuridão, trevas.
+As leituras da missa deste 4º domingo da quaresma (dia 19/03/2023) nos ensina essa realidade em que, sem Deus, nós não conseguimos nem enxergar direito. Isto é, quando você acorda de manhã e abre os olhos, se não tiver confiado toda a sua vida à Deus, tudo que você vê é escuridão, trevas.
 
 O evangelho desta missa narra a história do cego de nascença que foi curado por Jesus. Ao longo da história os fariseus não conseguiam enxergar a presença de Deus naquele milagre, por orgulho, para não reconhecer a divindade de Jesus. 
 
@@ -32,7 +32,8 @@ nem para a sua grande estatura, porque eu o rejeitei.
 Não julgo segundo os critérios do homem: o homem vê as
 aparências, mas o Senhor olha o coração' (1Sm 16,6-7)
 
-No final do evangelho Jesus nos presentei com um ensinamento profundo. Após os fariseus O questionar se eles eram cegos. Jesus respondeu.
+No final do evangelho Jesus nos presenteia com um ensinamento profundo.
+Após os fariseus O questionarem se eles eram cegos. Jesus respondeu:
 
 > "Se fôsseis cegos, não teríeis culpa;
 mas como dizeis:
@@ -49,9 +50,9 @@ Se for tocar/cantar a missa deste **4º domingo da quaresma**, clique no link ab
 
 **[>> Sugestões de música para a missa do 4º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/4o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
-Para quem vai cantar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
+Para quem vai cantar o salmo, temos algumas sugestão de melodia. Confira no link abaixo:
 
-**[>> SALMO 22 (23) - O SENHOR É O PASTOR QUE ME CONDUZ; NÃO ME FALTA COISA ALGUMA](https://musicasparamissa.com.br/musica/salmo-22-23-o-senhor-e-o-pastor/){:target=\_blank}**
+**[>> SALMO 22 (23) - O SENHOR É O PASTOR QUE ME CONDUZ; NÃO ME FALTA COISA ALGUMA](https://musicasparamissa.com.br/musicas-de/salmo-4o-domingo-da-quaresma-ano-a/){:target=\_blank}**
 
 Boa quaresma!
 
