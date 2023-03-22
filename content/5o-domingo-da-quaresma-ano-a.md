@@ -49,7 +49,7 @@ O evangelho deste domingo retrata muito bem esse resgate da morte.
 
 Jesus chorou a morte de Lázaro, Ele se comoveu e sofreu pela morte do amigo.
 
-![Lázaro](/images/lazaro-venha-para-fora.jpg){:style="width:100%;"}
+![Lázaro](https://blog.musicasparamissa.com.br/images/lazaro-venha-para-fora.jpg){:style="width:100%;"}
 
 Esta é a imagem de Deus diante da nossa morte. Ele sente a nossa morte.
 Ele sofre pela nossa morte.
