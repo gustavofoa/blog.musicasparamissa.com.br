@@ -1,5 +1,5 @@
 ﻿title: Vem! Vem para longe da morte!
-date: 2020-03-29
+date: 2023-03-22
 author: Gustavo Furtado de Oliveira Alves
 category: Reflexões
 slug: 5o-domingo-da-quaresma-ano-a
@@ -60,11 +60,11 @@ A única forma de estar longe da morte é ficar junto de Deus, **autor da vida**
 
 Se for tocar/cantar na missa deste **5º domingo da quaresma**, clique no link abaixo para conferir as nossas sugestões de músicas.
 
-**[>>Sugestões de música para a missa do 5º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-quaresma-ano-a/)**
+**[>> Sugestões de música para a missa do 5º domingo da quaresma](https://musicasparamissa.com.br/sugestoes-para/5o-domingo-da-quaresma-ano-a/)**
 
-Para quem vai cantar o salmo, temos uma sugestão de melodia. Confira no link abaixo.
+Para quem vai cantar o salmo, temos algumas sugestões de melodia. Confira no link abaixo.
 
-**[>>SALMO 129 - NO SENHOR TODA GRAÇA E REDENÇÃO!](https://musicasparamissa.com.br/musica/salmo-129-no-senhor-toda-graca-e-redencao/)**
+**[>> SALMO 129 - NO SENHOR TODA GRAÇA E REDENÇÃO!](https://musicasparamissa.com.br/musicas-de/salmo-5o-domingo-da-quaresma-ano-a/)**
 
 Bom fim de quaresma!
 
